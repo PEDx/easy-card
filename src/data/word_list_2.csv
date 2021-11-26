@@ -1,0 +1,987 @@
+#,单词,解释
+1,district,"/'dɪstrɪkt//'dɪstrɪkt/ n. 区域；行政区；地方 时 态: districted, districting, districts 副 词: districtwide"
+2,tear,"/teə//tɛr/ - vt. 撕破，撕裂；使分裂；使精神不安；折磨 - vi. 撕破；飞奔；被撕破 - n. 扯；扯破的洞 时 态: tore torn tearing, tears 名 词: tearer..."
+3,balance,"/'bæl(ə)ns//'bæləns/ - n. 平衡；匀称；余额 - vt. 使平衡；结算；使相称 - vi. 保持平衡；相称；抵销 Balance天秤星座 时 态: balanced, balancing, balances..."
+4,cash,"/kæʃ//kæʃ/ - n. 现款，现金 - vt. 将…兑现；支付现款 时 态: cashed, cashing, cashes 形容词: cashless"
+5,gay,"/geɪ//ɡe/ - adj. 快乐的, 欢快的; 轻松的, 愉快的 - 轻率的, 不假思索的; 放荡的 - 同性恋的 Gay盖伊(女子名) 比较级: gayer, gayest 名 词: gayness"
+6,damage,"/'dæmɪdʒ//'dæmɪdʒ/ - vt. & vi. 损害, 毁坏, 加害于 - n. 损失, 损害, 损毁 - 损害赔偿金 时 态: damaged, damaging, damages 名 词: damageability 形容词: damageable 副 词: damagingly..."
+7,entry,/'entri//ˈɛntri/ n. 入口；进入；登记；条目；对土地的侵占；[商]报关手续
+8,long-term,/ˈlɔ:ŋˈtɜ:m//'lɔŋtɝm/ adj. 长期的
+9,myself,/maɪ'self//maɪ'sɛlf/ pron. 我自己；我亲自；我的正常的健康状况和正常情绪
+10,particular,"/pə'tɪkjʊlə//pɚ'tɪkjəlɚ/ - adj. 特定的, 某一的 - 特殊的, 特别的, 特有的 - (过分)讲究的, 挑剔的 - 详细的, 详尽的 - n. 详情; 细目"
+11,aim,"/eɪm//em/ - vt. & vi. (以…)瞄准; 针对 - vi. 以…为目标[目的] - n. 瞄准 - 目标, 目的 AIMabbr. Aerial Intercept Missile 航空拦截导弹, 空中拦截导弹 AIMabbr. Aerial (Air) Intercept Missile 航空[空中]拦截导弹 时 态: aimed, aiming, aims..."
+12,nature,/'neɪtʃə//'netʃɚ/ n. 自然；性质；种类；本性
+13,accuse,"/ə'kjuːz//ə'kjuz/ vt. 指责, 谴责; 控告 时 态: accused, accusing, accuses 名 词: accuser 副 词: accusingly"
+14,plus,/plʌs//plʌs/ - n. 正号，加号；附加额；好处 - adj. 正的；附加的 - prep. 加，加上
+15,ice,"/aɪs//aɪs/ - n. 冰, 冰块 - vt. & vi. (使)结冰 ICEabbr. Input Checking Equipment 输入校验设备, 输入校正装置 时 态: iced, icing, ices 形容词: iceless"
+16,teacher,/'tiːtʃə//'titʃɚ/ n. 教师；导师
+17,declare,"/dɪ'kleə//dɪ'klɛr/ - vt. 宣布, 宣告; 声明 - 断言, 宣称 - vi. 申报 时 态: declared, declaring, declares 形容词: declarable 名 词: declarer"
+18,hurt,"/hɜːt//hɝt/ - vt. 使受伤；使疼痛；使痛心；[口]损害 - vi. 感到疼痛；带来痛苦；[口]有坏处 - n. 痛苦；危害；痛苦的原因 - adj. 受伤的；痛苦的；受损的 时 态: hurt, hurting, hurts 名 词: hurter..."
+19,crime,/kraɪm//kraɪm/ - n. 罪行，犯罪；罪恶；犯罪活动 - vt. 控告……违反纪律
+20,anyone,/'enɪwʌn//'ɛnɪ'wʌn/ pron. 任何人；任何一个
+21,bill,"/bɪl//bɪl/ - n. 帐单；法案；广告；钞票；票据；清单 - vt. 宣布；开帐单；用海报宣传 Bill - n. 比尔(男子名, William 的昵称) - 警察；警方 时 态: billed, billing, bills 形容词: billable..."
+22,station,"/'steɪʃ(ə)n//'steʃən/ - n. 站；地位；身分；驻地 - vt. 配置；驻扎；安置 时 态: stationed, stationing, stations"
+23,network,"/'netwɜːk//'nɛtwɝk/ - n. 网状物 - (电视与计算机)网络, 网状系统 - 广播网, 电视网 Network网(络)，(计算机，电路)网络(路)(NET) 时 态: networked, networking, networks 名 词: networker..."
+24,immediately,"/ɪ'miːdɪətlɪ//ɪ'midɪətli/ - adv. 立即, 马上 - 直接地"
+25,stuff,"/stʌf//stʌf/ - n. 材料；东西；填充物；素材资料 - vt. 填塞；塞满；让吃饱 - vi. 吃得过多 时 态: stuffed, stuffing, stuffs 名 词: stuffer"
+26,useful,/'juːsfʊl//'jusfl/ adj. 有用的，有益的；有帮助的 副 词: usefully 名 词: usefulness
+27,fifteenth,"/fɪf'tiːnθ//'fɪf'tinθ/ - adj. (与the连用)第十五的,第十五个的 - 十五分之一的 - n. (与the连用)第十五(个);月的第十五日 - 十五分之一 副 词: fifteenth..."
+28,ally,"/'ælaɪ//ə'laɪ/ - n. 同盟国；同盟者；助手；伙伴 - vt. 使联盟；使联合 - vi. 结盟；联合 Ally艾丽(女子名, Alice 的昵称) 时 态: allied, allying, allies..."
+29,gold,"/gəʊld//ɡold/ - n. 金, 黄金 - 金色 - adj. 金(制)的 - 金色的"
+30,Dr,"abbr. Dark Red 紫红色 Drn. 博士,医生"
+31,wonderful,"/'wʌndəfʊl//'wʌndɚfl/ adj. 极好的, 精彩的, 绝妙的 副 词: wonderfully 名 词: wonderfulness"
+32,independence,"/ɪndɪ'pend(ə)ns//ˌɪndɪ'pɛndəns/ n. 独立, 自主, 自立"
+33,address,"/ə'dres//ə'drɛs/ - vt. 写姓名地址；向…致辞；演说；从事；忙于 - n. 地址；致辞；演讲；说话的技巧 时 态: addressed, addressing, addresses"
+34,novel,/'nɒv(ə)l//'nɑvl/ - adj. 新奇的；异常的 - n. 小说 副 词: novelly
+35,refugee,/refjʊ'dʒiː//'rɛfjʊdʒi/ n. 避难者; 难民
+36,minority,/maɪ'nɒrɪtɪ//maɪ'nɔrəti/ - n. 少数民族；少数派；未成年 - adj. 少数的；属于少数派的
+37,manager,/'mænɪdʒə//'mænɪdʒɚ/ n. 经理；管理人员 名 词: managership
+38,notice,"/'nəʊtɪs//'notɪs/ - n. 通知，布告；注意；公告 - vt. 注意到；通知；留心 - vi. 引起注意 时 态: noticed, noticing, notices"
+39,attend,"/ə'tend//ə'tɛnd/ - vt. 出席；上（大学等）；照料；招待；陪伴 - vi. 出席；照料；照顾；致力于 时 态: attended, attending, attends 名 词: attender..."
+40,shape,"/ʃeɪp//ʃep/ - n. 形状；具体化；模型；身材 - vt. 塑造，使成形；形成；使符合 - vi. 成形；形成；成长 SHAPEabbr. Supersonic High Altitude Parachute Experiment 超音速高空降落伞试验 时 态: shaped, shaping, shapes 形容词: shapable or 形容词: shaped 名 词: shaper..."
+41,interview,"/'ɪntəvjuː//'ɪntɚvju/ - n. 面谈, 面试 - 采访, 交谈 - 会谈, 会见 - vt. & vi. 面试 - vt. 采访; 会见 时 态: interviewed, interviewing, interviews 形容词: interviewable 名 词: interviewee 名 词: interviewer..."
+42,domestic,"/də'mestɪk//də'mɛstɪk/ - adj. 本国的, 国内的 - 家庭的, 家用的 - 驯养的 副 词: domestically"
+43,basis,/'beɪsɪs//'besɪs/ n. 底部；基础；主要成分；基本原则或原理
+44,excellent,"/'eks(ə)l(ə)nt//'ɛksələnt/ adj. 优秀的, 卓越的, 杰出的 副 词: excellently"
+45,inside,/ɪn'saɪd//'ɪn'saɪd/ - n. 内部；里面；内脏；内情 - adj. 内部的；秘密的；里面的 - adv. 在里面 - prep. 在…之内；少于
+46,structure,"/'strʌktʃə//'strʌktʃɚ/ - n. 结构, 构造 - 有结构的事物; 复杂的整体; 建筑物 - vt. 组织; 安排; 构造; 制定 时 态: structured, structuring, structures"
+47,spirit,"/'spɪrɪt//'spɪrɪt/ - n. 精神；心灵；志气；烈酒；情绪 - vt. 鼓励；鼓舞；诱拐 时 态: spirited, spiriting, spirits"
+48,female,/'fiːmeɪl//'fimel/ - adj. 女性的；雌性的；柔弱的，柔和的 - n. 女人；雌性动物 名 词: femaleness
+49,sleep,"/sliːp//slip/ - vi. 睡，睡觉 - n. 睡眠 时 态: slept sleeping, sleeps"
+50,note,"/nəʊt//not/ - n. 笔记；注解；便笺；照会；音符；调子；票据；纸币 - vt. 记录；注意；注解 时 态: noted, noting, notes 名 词: noter"
+51,horse,"/hɔːs//hɔrs/ - n. 马；骑兵；脚架；[俚]海洛因 - vt. 使骑马；系马于；[口]捉弄 - vi. 骑马；[口]作弄人 时 态: horsed, horsing, horses"
+52,throughout,/θruː'aʊt//θrʊ'aʊt/ - prep. (表示时间)自始至终;在…期间 - (表示区域)遍及…地域;遍及…场所 - adv. 处处 - 始终 - 在所有方面
+53,presidential,/ˌprezɪˈdenʃəl//'prɛzədɛnʃəl/ - adj. 总统的;总统选举的;总统制的 - 总裁的;大学校长的;会长的 - 统辖的;掌管的 副 词: presidentially
+54,magazine,/mægə'ziːn//'mæɡəzin/ n. 杂志；弹药库；胶卷盒
+55,promote,"/prə'məʊt//prə'mot/ - vt. 提升, 提拔 - 筹划, 发起, 创立 - 推销 - 〈正〉促进; 推动; 增进 时 态: promoted, promoting, promotes 名 词: promotability 形容词: promotable..."
+56,benefit,"/'benɪfɪt//'bɛnɪfɪt/ - vt. & vi. 有益于, 得益 - n. 益处, 好处 - 救济金, 保险金 时 态: benefitedalso benefitted benefitingbenefitting benefitsbenefits"
+57,formal,/'fɔːm(ə)l//'fɔrml/ - adj. 正式的；拘谨的；有条理的 - n. 正式的社交活动；夜礼服 副 词: formally 名 词: formalness
+58,overall,"/'əʊvərɔːl//ˌovə'rɔl/ - adj. 总体的; 全面的; 综合的 - 全面考虑的 - adv. 大体上, 总的来说 - 一切包括在内, 全部的 - n. 长罩衣 - 工装裤; 工作裤"
+59,spokesman,"/'spəʊksmən//'spoksmən/ n. 发言人, 代言人"
+60,bag,"/bæg//bæɡ/ - n. 袋, 包 - vt. 装袋 - vi. 宽松地下垂, 鼓胀 时 态: bagged, bagging, bags 名 词: bagful 名 词: bagger"
+61,treat,"/triːt//trit/ - n. 款待, 招待 - 乐事, 乐趣 - vt. 对待, 看待 - 处理 - 探讨, 讨论, 论述 - 把…看作 - 治疗 - vt. & vi. 请客, 款待 TREATabbr. Transient Reactor Test Facility 研究过渡过程用的实验性反应堆 时 态: treated, treating, treats 名 词: treater..."
+62,diet,"/'daɪət//'daɪət/ - n. 日常饮食 - 规定饮食 - vt. & vi. (使)节制饮食 时 态: dieted, dieting, diets 名 词: dieter"
+63,facility,/fə'sɪlɪtɪ//fə'sɪləti/ n. 设备；灵巧；容易；设施
+64,drop,"/drɒp//drɑp/ - vt. 滴；使降低；随口漏出；使终止 - vi. 终止；下降 - n. 滴；落下；滴剂；空投；微量 时 态: dropped, dropping, drops"
+65,eastern,/'iːst(ə)n//'istɚn/ - adj. 东方的；朝东的；东洋的 - n. 东方人；（美国）东部地区的人 名 词: easternness
+66,profit,"/'prɒfɪt//'prɑfɪt/ - n. 利润；利益 - vi. 有益；获利 - vt. 有益于 时 态: profited, profiting, profits 形容词: profitless"
+67,television,"/'telɪvɪʒ(ə)n//'tɛlɪvɪʒn/ - n. 电视 - 电视播放的节目 - 电视机 - 电视台, 电视行业"
+68,average,"/'æv(ə)rɪdʒ//'ævərɪdʒ/ - n. 平均；平均数；[商]海损 - adj. 平均的；普通的 - vt. 算出…的平均数；将…平均分配；使…平衡 - vi. 平均为；呈中间色 时 态: averaged, averaging, averages 副 词: averagely 名 词: averageness..."
+69,competition,/kɒmpɪ'tɪʃ(ə)n//ˌkɑmpə'tɪʃən/ - n. 比赛 - 竞争
+70,reality,/rɪ'ælɪtɪ//rɪ'æləti/ n. 现实；真实；实际
+71,warn,"/wɔːn//wɔrn/ vt. & vi. 警告, 提醒; 告诫; 预先通知, 预告 时 态: warned, warning, warns 名 词: warner"
+72,regional,/ˈri:dʒənəl//'ridʒənl/ adj. 地区的；整个地区的；局部的 副 词: regionally
+73,ensure,"/ɪn'ʃɔː//ɪn'ʃʊr/ vt. 保证，确保；使安全 时 态: ensured, ensuring, ensures"
+74,slip,"/slɪp//slɪp/ - vi. 犯错；滑倒；减退；滑动；失足 - vt. 使滑动；滑过；摆脱；塞入；闪开 - n. 滑，滑倒；错误；下跌；事故；片，纸片 - adj. 滑动的；有活结的；活络的 - abbr. 串行线路接口协议，是旧式的协议（Serial Line Interface Protocol） SLIPabbr. Serial Line Internet Protocol串行线路接口协议,是旧式的协议 时 态: slipped, slipping, slips..."
+75,shake,"/ʃeɪk//ʃek/ - vt. 摇动；动摇；震动 - vi. 摇动；发抖；动摇 - n. 摇动；哆嗦 时 态: shook shaken shaking, shakes 形容词: shakable or"
+76,partner,"/'pɑːtnə//'pɑrtnɚ/ - n. 合伙人；伙伴；配偶 - vi. 合伙；合股；成为搭档 - vt. 与…合伙；使合作 PARTNERabbr. Proof of Analogue ResultsthroughNumericalE-quivalent Routine 用数字等效程序验证模拟结果 时 态: partnered, partnering, partners..."
+77,exchange,"/ɪks'tʃeɪndʒ//ɪks'tʃendʒ/ - n. 交换；兑换；交易所；交流 - vt. 交换；交易；兑换 - vi. 交换；交易；兑换 时 态: exchanged, exchanging, exchanges 形容词: exchangeable..."
+78,criticism,"/'krɪtɪsɪz(ə)m//'krɪtə'sɪzəm/ - n. 批评, 批判, 指责 - 评论, 评论文章"
+79,reserve,"/rɪ'zɜːv//rɪ'zɝv/ - vt. 保留[储备]某物 - 具有或保持(某种权利) - 预订或保留(座位、住处等); 订购 - n. 贮藏; 储备 - 保护区 - 矜持, 拘谨; 寡言 时 态: reserved, reserving, reserves 形容词: reservable 名 词: reserver..."
+80,proposal,/prə'pəʊz(ə)l//prə'pozl/ n. 提议，建议；求婚
+81,collapse,"/kə'læps//kə'læps/ - vi. 倒塌；瓦解；暴跌 - vt. 使倒塌，使崩溃；使萎陷 - n. 倒塌；失败；衰竭 时 态: collapsed, collapsing, collapses 名 词: collapsibility 形容词: collapsible or..."
+82,shot,"/ʃɒt//ʃɑt/ - n. 开枪, 射击; 枪炮声 - 击球, 射门, 投篮 - 射手, 炮手 - 试图; 设法 - adj. 颜色会变化的; 用旧的, 耗尽的 SHOTabbr. Society for the History of Technology 技术史学会 SHOTabbr. Society for the History of Technology 〈美〉技术史学会 时 态: shotted, shotting, shots..."
+83,confidence,"/'kɒnfɪd(ə)ns//'kɑnfɪdəns/ - n. 信任 - 信心, 自信 - 知心话, 私房话"
+84,attention,"/ə'tenʃ(ə)n//ə'tɛnʃən/ - n. 注意, 专心, 留心 - 殷勤, 厚待 形容词: attentional"
+85,unit,/'juːnɪt//'junɪt/ - n. (工作)单位 - (计量或计数用的)单位 - (课本中的)单元 - (特定功能的)装置
+86,teach,"/tiːtʃ//titʃ/ - vt. 教；教授；教导 - vi. 讲授；教授；当老师 时 态: taught teaching, teaches"
+87,arrest,"/ə'rest//ə'rɛst/ - vt. 吸引；逮捕；阻止 - n. 逮捕；监禁 时 态: arrested, arresting, arrests 名 词: arrester or 名 词: arrestment"
+88,suffer,"/'sʌfə//'sʌfɚ/ - vt. 忍受；遭受；经历 - vi. 受损害；受痛苦；遭受，忍受；经验 时 态: suffered, suffering, suffers 名 词: sufferer 副 词: sufferingly..."
+89,youth,"/juːθ//jʊθ/ - n. 青年时期, 青春(期) - 青春, 活力, 朝气, 血气 - 青年人 - 年轻人, 青年男子"
+90,millionth,"/'mɪljənθ//'mɪljənθ/ n. 第一百万,百万分之一 副 词: millionth"
+91,fourteenth,/'fɔː'tiːnθ//fɔrˈtinθ/ num. 第十四 副 词: fourteenth
+92,occur,"/ə'kɜː//ə'kɝ/ - vi. 发生; 举行; 存在 - 被发现; 想到[起] 时 态: occurred, occurring, occurs"
+93,writer,/'raɪtə//'raɪtɚ/ n. 作家；作者
+94,governor,/'gʌv(ə)nə//'ɡʌvɚnɚ/ n. 统治者，管理者；调节器；地方长官；主管人员
+95,heat,"/hiːt//hit/ - n. 热度；高温；压力；热烈 - vt. 把…加热；使激动 HEATabbr. High-Explosive Anti-Tank (Projective) 反坦克高爆(弹) 时 态: heated, heating, heats"
+96,involved,/ɪn'vɒlvd//ɪn'vɑlvd/ - adj. 卷入的；有关的；复杂的 - v. 涉及；使参与；包含（involve的过去式和过去分词） 副 词: involvedly
+97,alone,/ə'ləʊn//ə'lon/ - adj. 单独的；孤独的；独自的 - adv. 独自地；单独地 名 词: aloneness
+98,transfer,"/træns'fɜː//træns'fɝ/ - n. 转移；转让；过户；传递 - vi. 转移；转让；转学；换车 - vt. 转让；调任；传递；使转移 时 态: transferred, transferring, transfers 名 词: transferability 形容词: transferable or 名 词: transferrer..."
+99,airport,"/'eəpɔːt//'ɛr'pɔrt/ n. 〈主美〉航空站, 机场, 航空港"
+100,commitment,/kə'mɪtm(ə)nt//kə'mɪtmənt/ 承诺
+101,scale,"/skeɪl//skel/ - n. 刻度；比例；数值范围；天平；规模；鳞 - vi. 攀登；衡量；生水垢；剥落 - vt. 攀登；测量；刮鳞；依比例决定 时 态: scaled, scaling, scales 形容词: scalelike 形容词: scalable..."
+102,abuse,"/ə'bjuːz//ə'bjus/ - n. 滥用；辱骂；虐待；弊端；恶习，陋习 - vt. 滥用；辱骂；虐待 时 态: abused, abusing, abuses 名 词: abuser"
+103,willing,/'wɪlɪŋ//'wɪlɪŋ/ - adj. 乐意的；心甘情愿的；自愿的 - v. 决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词） 副 词: willingly 名 词: willingness...
+104,royal,"/'rɒɪəl//'rɔɪəl/ - adj. 国王的, 女王的 - 大规模的; 极大的 副 词: royally"
+105,channel,/'tʃæn(ə)l//'tʃænl/ - vt. 引导，开导；形成河道 - n. 海峡；频道；通道 时 态: channeledalso channelled channelingchannelling channelschannels 名 词: channeler...
+106,cry,"/kraɪ//kraɪ/ - vt. 叫喊；哭出；大声说 - n. 叫喊；叫声；口号；呼叫 - vi. 哭；喊；叫 时 态: cried crying, cries"
+107,victim,/'vɪktɪm//'vɪktɪm/ n. 牺牲者；受害人；牺牲品 名 词: victimhood
+108,otherwise,"/'ʌðəwaɪz//'ʌðɚwaɪz/ - adv. 用别的方法, 不同地 - 在其他方面; 除此以外 - conj. 否则; 要不然"
+109,image,"/'ɪmɪdʒ//'ɪmɪdʒ/ - n. 形象, 概念 - 镜像, 影像, 图像 - 印象 - 酷似的人[物], 翻版 - 比喻, 引喻, 明喻 - 外形, 外表, 模样 时 态: imaged, imaging, images 形容词: imageless..."
+110,natural,"/'nætʃ(ə)r(ə)l//'nætʃrəl/ - adj. 自然的, 天然的 - 表现自然的, 不做作的 - 天生的, 生来的 - n. 非常适合或肯定成功的人或事物 名 词: naturalness"
+111,relief,/rɪ'liːf//rɪ'lif/ n. 减轻，解除；救济；安慰
+112,tonight,/tə'naɪt//tə'naɪt/ - adv. 在今晚 - n. 今晚
+113,explain,"/ɪk'spleɪn//ɪk'splen/ v. 说明，解释 时 态: explained, explaining, explains 形容词: explainable"
+114,route,"/ruːt//rut/ n. 路, 路途, 路线, 路程 时 态: routed, routing, routes"
+115,sea,/siː//si/ n. 海洋；海；许多；大量 SEAabbr. special effect amplifier 特殊效果放大器
+116,corner,"/'kɔːnə//'kɔrnɚ/ - n. 角落，拐角处；困境，窘境；地区，偏僻处 - vi. 相交成角；囤积 - vt. 垄断；迫至一隅；使陷入绝境；把…难住 时 态: cornered, cornering, corners..."
+117,choice,"/tʃɒɪs//tʃɔɪs/ - n. 选择；选择权；精选品 - adj. 精选的；仔细推敲的 比较级: choicer, choicest 副 词: choicely 名 词: choiceness"
+118,suppose,"/sə'pəʊz//sə'poz/ - vt. 料想; 猜想; 以为 - 假定, 假设 - conj. 如果 时 态: supposed, supposing, supposes"
+119,dance,"/dɑːns//dæns/ - n. 舞蹈；舞曲；舞会 - vi. 跳舞；飘扬；跳跃 - vt. 跳舞；使跳跃 - adj. 舞蹈的；用于跳舞的 时 态: danced, dancing, dances 名 词: dancer 副 词: dancingly..."
+120,obvious,/'ɒbvɪəs//'ɑbvɪəs/ adj. 明显的; 显而易见的 副 词: obviously 名 词: obviousness
+121,save,"/seiv//sev/ - vt. 拯救, 挽救 - vt. & vi. 储蓄, 贮存 - 节省 - n. (足球等)阻碍对方得分的动作, 救球 - prep.&conj. 除了 时 态: saved, saving, saves 形容词: savable or 名 词: saver..."
+122,skin,"/skɪn//skɪn/ - n. 皮(肤) - 兽皮, 毛皮 - (蔬菜, 水果等)外皮, 外壳 - vt. 剥皮; 擦破皮 - 欺骗 - n. 紧身衣服 时 态: skinned, skinning, skins 形容词: skinless..."
+123,daily,/'deɪlɪ//'deli/ - adj. 每日的；日常的 - n. 日报；[美口]朝来夜去的女佣 - adv. 每日；日常地；天天 名 词: dailiness or
+124,expert,/'ekspɜːt//'ɛkspɝt/ - adj. 熟练的；内行的；老练的 - n. 专家；能手；行家 - vt. 当专家；在…中当行家 副 词: expertly 名 词: expertness
+125,deputy,/'depjʊtɪ//'dɛpjuti/ - n. 代理人，代表 - adj. 副的；代理的
+126,prison,"/'prɪz(ə)n//'prɪzn/ - n. 监狱；拘留所；监禁 - vt. 监禁，关押 时 态: prisoned, prisoning, prisons"
+127,southern,"/'sʌð(ə)n//'sʌðɚn/ adj. 南方的, 南部的 名 词: southernness"
+128,gather,"/'gæðə//'ɡæðɚ/ - vt. 收集；使…聚集；收割；使…皱起 - vi. 聚集；化脓；皱起 - n. 衣褶；聚集；收获量 时 态: gathered, gathering, gathers 名 词: gatherer..."
+129,resident,/'rezɪd(ə)nt//'rɛzɪdənt/ - adj. 定居的; 常驻的 - n. 居民 - (旅馆的)住宿者
+130,armed,"/ɑːmd//ɑrmd/ - adj. 武装的, 带枪的 - 有把手的,有扶手的 - 有防护器官的 - 待发射的；解除保险的 - 武装到牙齿；全副武装"
+131,telephone,"/'telɪfəʊn//'tɛlə'fon/ - n. 电话 - 电话机 - vt. & vi. 以电话传送(消息), 给(某人)打电话 时 态: telephoned, telephoning, telephones 名 词: telephoner"
+132,section,"/'sekʃ(ə)n//'sɛkʃən/ - n. 章节；地区；截面；部门 - vi. 被切割成片；被分成部分 - vt. 把…分段；将…切片；对…进行划分 时 态: sectioned, sectioning, sections..."
+133,table,"/'teɪb(ə)l//'tebl/ - n. 桌子；表格；平地层 - vt. 嵌合；搁置；制表 - adj. 桌子的 时 态: tabled, tabling, tables"
+134,simply,/'sɪmplɪ//'sɪmpli/ adv. 简单地；朴素地；简直；仅仅；坦白地
+135,appeal,"/ə'piːl//ə'pil/ - vi. 呼吁，恳求；有吸引力，迎合爱好；诉诸，求助；上诉；（体育比赛中）诉诸裁判 - n. 上诉；吸引力，感染力；呼吁，请求；诉诸裁判 - vt. [美]将…上诉，对…上诉 时 态: appealed, appealing, appeals 名 词: appealability 形容词: appealable 名 词: appealer..."
+136,Tory,/ˈtɔ:ri//ˈtɔri/ - n. 保守党员 - adj. 保守主义的 形容词: Tory 名 词: Toryism
+137,airline,/'eəlaɪn//'ɛrlaɪn/ - n. 航空公司；航线 - adj. 航线的
+138,contact,"/'kɒntækt//kən'tækt/ - n. 接触，联系 - vt. 使接触 - vi. 联系，接触 时 态: contacted, contacting, contacts 形容词: contactual 副 词: contactually"
+139,fair,"/feə//fɛr/ - adj. 公平的；美丽的，白皙的；晴朗的 - adv. 公平地；清楚地；直接地 - vi. 转晴 - n. 展览会；市集；美人 比较级: fairer, fairest 名 词: fairness..."
+140,environment,"/ɪn'vaɪrənm(ə)nt//ɪn'vaɪrənmənt/ n. 环境, 周围状况, 自然环境"
+141,village,/'vɪlɪdʒ//'vɪlɪdʒ/ n. 村庄；村民；（动物的）群落
+142,winner,/'wɪnə//'wɪnɚ/ n. 胜利者
+143,meanwhile,"/'miːnwaɪl//'minwaɪl/ - adv. 同时; 其间 - n. 其时, 其间"
+144,struggle,"/'strʌg(ə)l//'strʌɡl/ - vi. 挣扎；奋斗，努力 - n. 努力，奋斗；竞争 - vt. 使劲移动；尽力使得 时 态: struggled, struggling, struggles 名 词: struggler 副 词: strugglingly..."
+145,introduce,"/ɪntrə'djuːs//'dus/ - vt. 介绍, 引见 - 提出, 提出供讨论 - 引进, 采用 - 将…放[插]入 - 作为…的开头 时 态: introduced, introducing, introduces 名 词: introducer 形容词: introducible..."
+146,album,/'ælbəm//'ælbəm/ n. 相簿；唱片集；集邮簿；签名纪念册
+147,machine,"/mə'ʃiːn//mə'ʃin/ - n. 机械，机器；机械般工作的人；机构 - vt. 用机器制造 时 态: machined, machining, machines 形容词: machinable 形容词: machineless..."
+148,institute,"/'ɪnstɪtjuːt//'ɪnstɪtut/ - vt. 建立, 制定; 开始, 着手 - n. 协会, 学会; 学院, 研究院 时 态: instituted, instituting, institutes 名 词: instituter or"
+149,finger,"/'fɪŋgə//'fɪŋɡɚ/ - n. 手指 - 指状物 - 指幅 Finger查找器（查找因特网用户的程序） 时 态: fingered, fingering, fingers 名 词: fingerer 形容词: fingerless..."
+150,organization,"/ˌɔ:ɡənaiˈzeiʃən//ˌɔrɡənə'zeʃən/ - n. 团体, 机构 - 组织 - 组织性, 系统性 形容词: organizational 副 词: organizationally"
+151,agent,/'eɪdʒ(ə)nt//'edʒənt/ - n. 代理人，代理商；药剂；特工 - vt. 由…作中介；由…代理 - adj. 代理的
+152,mouth,/maʊθ//maʊθ/ - n. 口，嘴；河口 - vt. 做作地说，装腔作势地说；喃喃地说出 - vi. 装腔作势说话
+153,window,/'wɪndəʊ//'wɪndo/ n. 窗；窗口；窗户
+154,prospect,"/'prɒspekt//'prɑspɛkt/ - n. 景象, 景色 - 前景; 前途 - 可能成为主顾的人; 有希望的候选人 - vi. 勘探; 勘察 时 态: prospected, prospecting, prospects"
+155,model,/ˈmɔdəl//'mɑdl/ - n. 模型；模范；模特儿；典型；样式 - vt. 模仿；模拟；塑造 - vi. 做模特儿；做模型 - adj. 模范的；作模型用的 时 态: modeledalso modelled modelingmodelling modelsmodels 名 词: modeler...
+156,opposition,"/ɒpə'zɪʃ(ə)n//'ɑpə'zɪʃən/ - n. 反对,敌对 - 对手,对抗者 - (尤指执政党最主要的)反对党,在野党 - 强烈反对(或抵制)某人/某事物 - 对比；对照 - adj. 反对的,对抗的 - n. 反对党人 形容词: oppositional..."
+157,college,"/'kɒlɪdʒ//'kɑlɪdʒ/ n. 大学, 学院; 高等专科学校"
+158,supporter,/sə'pɔːtə//sə'pɔrtɚ/ n. 支持者；拥护者
+159,nice,"/naɪs//naɪs/ - adj. 美好的; 美妙的; 令人愉快的 - 友好的; 好心的 - 细致的; 精细的 Nice尼斯(法国港市) 比较级: nicer, nicest 副 词: nicely 名 词: niceness..."
+160,recession,/rɪ'seʃ(ə)n//rɪ'sɛʃən/ - n. 经济衰退; 不景气 - 后退; 撤退; 撤回
+161,sixtieth,/'sɪkstɪθ//'sɪkstɪɪθ/ pron. 第六十(个) 副 词: sixtieth
+162,religious,"/rɪ'lɪdʒəs//rɪ'lɪdʒəs/ - adj. 宗教的 - 笃信宗教的, 虔诚的 - 谨慎的, 认真的 副 词: religiously 名 词: religiousness"
+163,message,"/'mesɪdʒ//'mɛsɪdʒ/ - n. 消息；预言；启示；广告词；差使 - vi. 报信，报告；报文 - vt. 通知 时 态: messaged, messaging, messages"
+164,culture,"/'kʌltʃə//'kʌltʃɚ/ - n. 文化 - 休养, 教养, 精神文明 - 养殖, 培养, 栽培 - vt. 培植, 培养 时 态: cultured, culturing, cultures"
+165,candidate,"/'kændɪdeɪt//'kændɪdət/ - n. 申请求职者, 候选人 - 报考者 名 词: candidacy"
+166,ship,"/ʃɪp//ʃɪp/ - vt. 运送，乘船；以船运送 - vi. 当船员；上船；乘船旅行 - n. 船；舰；太空船 Ship南船星座 SHIPabbr. Ship Division of the National Physical Laboratory 国家物理实验室船舶部 SHIPabbr. Ship Division of the National Physical Laboratory 〈英〉国家物理实验室船舶部 时 态: shipped, shipping, ships..."
+167,annual,/'ænjʊəl//'ænjuəl/ - adj. 年度的；每年的 - n. 年刊，年鉴；一年生植物 副 词: annually
+168,card,"/kɑːd//kɑrd/ - n. 卡片；纸牌；明信片 - vt. 记于卡片上 CARDabbr. Civil Aeronautics Research and Development Policy Study 民用航空研究与发展政策研究 CARDabbr. Civil Aeronautics Research and Development Policy Study 〈美〉民用航空研究与发展政策研究 时 态: carded, carding, cards 名 词: carder..."
+169,bridge,"/brɪdʒ//brɪdʒ/ - n. 桥; 桥梁 - 鼻梁; 鼻梁架 - 桥牌 - vt. 在…建桥 时 态: bridged, bridging, bridges 形容词: bridgeable"
+170,possibility,/ˌpɒsɪ'bɪlɪtɪ//ˌpɑsə'bɪləti/ - n. 可能性 - 可能的事 - 可以利用和改善的余地; 潜力
+171,strange,"/streɪn(d)ʒ//strendʒ/ - adj. 陌生的；奇怪的；外行的 - adv. 奇怪地；陌生地，冷淡地 比较级: stranger, strangest 副 词: strangely"
+172,tomorrow,/tə'mɒrəʊ//tə'mɔro/ - n. 明天；未来 - adv. 明天；未来地（等于to-morrow）
+173,effective,"/ɪ'fektɪv//ɪ'fɛktɪv/ - adj. 有效的; 生效的 - 事实上的, 实际的 - 给人印象深刻的 名 词: effectiveness or"
+174,indeed,/ɪn'diːd//ɪn'did/ - adv. 真正地；的确；甚至；实在 - int. 真的（表示惊讶、怀疑、讽刺等）
+175,pink,"/pɪŋk//pɪŋk/ - n. 粉红色；石竹花；头面人物；化身，典范 - vt. 使…变粉红色；使…面红耳赤；扎，刺，戳 - vi. 变粉红色 - adj. 粉红的；比较激进的；石竹科的；脸色发红的 比较级: pinker, pinkest 名 词: pinkness..."
+176,crowd,"/kraʊd//kraʊd/ - n. 人群 - 听众, 观众 - 一群, 一批; 一堆 - vt. & vi. 群集, 拥挤 - vt. 挤满, 塞满 - 催逼 时 态: crowded, crowding, crowds 名 词: crowder..."
+177,championship,"/'tʃæmpɪənʃɪp//'tʃæmpɪənʃɪp/ - n. 锦标赛,冠军赛 - 冠军的地位(称号、等级、保持称号的时期) - 维护;支持"
+178,impose,"/ɪm'pəʊz//ɪm'poz/ - vi. 欺骗；利用；施加影响 - vt. 强加；以…欺骗；征税 时 态: imposed, imposing, imposes 名 词: imposer"
+179,energy,/'enədʒɪ//'ɛnɚdʒi/ n. 精力；能量；活力；精神
+180,jump,"/dʒʌmp//dʒʌmp/ - n. 跳跃；暴涨；惊跳 - vt. 突升；使跳跃；跳跃；跳过 - vi. 暴涨；跳跃；猛增 时 态: jumped, jumping, jumps"
+181,negotiate,"/nɪ'gəʊʃɪeɪt//nɪ'ɡoʃɪet/ - vt. & vi. 谈判; 协商; 议定 - vt. 兑现(支票等) 时 态: negotiated, negotiating, negotiates 名 词: negotiator 形容词: negotiatory..."
+182,wild,"/waɪld//waɪld/ - adj. 野生的, 未驯化的 - 未开化的; 野蛮的 - 无居民的, 荒凉的 - 强烈的, 狂暴的 - 狂热的, 发怒的, 疯狂的 - 对…狂热[着魔]的 比较级: wilder, wildest 副 词: wildly 名 词: wildness..."
+183,mountain,/'maʊntɪn//'maʊntn/ n. 山脉；山 形容词: mountainy
+184,representative,"/reprɪ'zentətɪv//'rɛprɪ'zɛntətɪv/ - n. 代表 - 代理人 - adj. 有代表性的, 典型的 副 词: representatively 名 词: representativeness"
+185,seventieth,/'sevəntɪɪθ//'sɛvntɪɪθ/ pron. 第七十(个) 副 词: seventieth
+186,escape,"/ɪ'skeɪp//ə'skep/ - vt. 逃避，避免；被忘掉 - vi. 逃脱；避开；溜走 - n. 逃跑；逃亡 时 态: escaped, escaping, escapes 形容词: escapable 名 词: escaper..."
+187,prize,"/praɪz//praɪz/ - n. 奖品；奖赏；战利品 - vt. 珍视；估价；捕获 - adj. 获奖的 时 态: prized, prizing, prizes"
+188,session,/'seʃ(ə)n//'sɛʃən/ n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会 形容词: sessional 副 词: sessionally
+189,exact,"/ɪg'zækt//ɪɡ'zækt/ - adj. 精确的；准确的，精密的 - vt. 强求；要求；急需 - vi. 勒索钱财 时 态: exacted, exacting, exacts 形容词: exactable 名 词: exactness 名 词: exactor or..."
+190,seventh,/'sev(ə)nθ//'sɛvənθ/ - n. 第七；七分之一 - adj. 第七的；七分之一的 - adv. 居第七位地 副 词: seventh
+191,pack,"/pæk//pæk/ - n. 包裹；一副；一群；包装；背包 - vt. 包装；压紧；捆扎；挑选；塞满 - vi. 包装货物；被包装；挤；群集 时 态: packed, packing, packs 名 词: packability 形容词: packable..."
+192,trust,"/trʌst//trʌst/ - n. 信任, 信赖, 相信 - 信托, 托管 - 照管, 关怀; 职责 - vt. & vi. 相信; 信任 时 态: trusted, trusting, trusts 名 词: truster"
+193,presence,/'prez(ə)ns//'prɛzns/ n. 出席；参加；风度；仪态；存在
+194,settlement,"/'set(ə)lm(ə)nt//'sɛtlmənt/ - n. 解决, 和解, 协议 - 移民 - 移居地, 新住宅区 - 〈律〉金钱或财产的转让(契约); 转让的金钱或财产 - 结算, 清偿"
+195,flight,"/flaɪt//flaɪt/ - n. 飞翔, 飞行 - 航班, 航机 - 楼梯的一段 - 逃跑, 溃退 时 态: flighted, flighting, flights"
+196,hot,"/hɒt//hɑt/ - adj. 热的, 烫的 - 棘手的, 争议大的 - 刚做好的; 最新的; 热门的 比较级: hotter, hottest 名 词: hotness"
+197,pattern,"/'pæt(ə)n//'pætɚn/ - n. 型, 样式 - 花样, 图案 - 方式, 形式 - 榜样, 典范 - vt. 模仿; 仿制 - 以图案装饰 时 态: patterned, patterning, patterns"
+198,death,/deθ//dɛθ/ n. 死；死亡；死神；毁灭
+199,okay,/'əʊ'keɪ//ˌo'kɛi/ - adv. 可以；对；很好地 - adj. 可以；对；不错 - n. 同意，批准 - int. 行；好 okay - adj. 好的; 不错的 - adv. 好; 不错 - int. 行; 好的 - n. 同意; 允许 - vt. 同意; 认可...
+200,investment,/ɪn'ves(t)m(ə)nt//ɪn'vɛstmənt/ n. 投资
+201,baby,"/'beɪbɪ//'bebi/ - n. 婴儿 - vt. 把…当作婴孩看待, 娇养 名 词: babyhood 形容词: babyish"
+202,equipment,"/ɪ'kwɪpm(ə)nt//ɪ'kwɪpmənt/ - n. 设备; 装备; 配备 - (工作必需的)知识, 技能"
+203,degree,/dɪ'griː//dɪ'ɡri/ n. 程度，等级；度；学位；阶层
+204,mission,"/'mɪʃ(ə)n//'mɪʃən/ - n. 使命, 任务, 天职 - 代表团, 使节团 时 态: missioned, missioning, missions 形容词: missional"
+205,whom,/huːm//hum/ pron. (who的宾格)谁
+206,collect,"/kə'lekt//kə'lɛkt/ - vt. 收集, 采集 - 领取; 接走; 拿走 - vi. 聚集, 集合 - vt. & vi. 征收; 募集 时 态: collected, collecting, collects"
+207,solution,"/sə'luːʃ(ə)n//sə'luʃən/ - n. 解决, 解答, 解决办法然想到一个解决方法 - 溶液 - 溶解"
+208,reform,"/rɪ'fɔːm//rɪ'fɔrm/ - n. 改革, 改良, 改造 - vt. & vi. 改革; 改造; 改善 时 态: reformed, reforming, reforms 名 词: reformability 形容词: reformable 名 词: reformer..."
+209,means,"/miːnz//minz/ - n. 方法, 手段 - 收入, 财富"
+210,threaten,"/'θret(ə)n//'θrɛtn/ - vt. 威胁；恐吓；预示 - vi. 威胁；可能来临 时 态: threatened, threatening, threatens 名 词: threatener 副 词: threateningly"
+211,rest,"/rest//rɛst/ - n. 休息, 睡眠 - 静止(状态) - 支持物 - 剩余(部分), 余下的人[物] - vt. & vi. (使)休息 - (使)倚靠[支撑] - vi. 停止, 不再谈论 RESTabbr. Radar Electronic Scan Technique 雷达电子扫描技术 时 态: rested, resting, rests 名 词: rester..."
+212,executive,"/ɪg'zekjʊtɪv//ɪɡ'zɛkjətɪv/ - n. 主管, 高级行政人员, 执行官 - 行政部门 - adj. 执行的, 行政的; 有行政能力的"
+213,eventually,"/ɪ'ventʃʊəlɪ//ɪ'vɛntʃuəli/ adv. 终于, 最后"
+214,evening,/'iːv(ə)nɪŋ//'ivnɪŋ/ - n. 傍晚；晚上；后期；（联欢性的）晚会 - adj. 在晚上的；为晚上的；晚上用的 - int. 晚上好（等于good evening）
+215,debt,"/det//dɛt/ n. 债, 债务, 欠他人的东西 形容词: debtless"
+216,prove,"/pruːv//pruv/ - vt. 证明 - 检验; 试验 时 态: proved, proven proving, proves 名 词: provability or 形容词: provable 副 词: provably 名 词: prover..."
+217,size,"/saɪz//saɪz/ - n. 大小；尺寸 - adj. 一定尺寸的 - vt. 依大小排列 - vi. 可比拟 时 态: sized, sizing, sizes 名 词: sizer"
+218,basic,/'beɪsɪk//'besɪk/ - adj. 基本的；基础的 - n. 基础；要素 BASICabbr. Beginners All-purpose Symbolic Instruction Code BASIC 语言(初学者通用指令码) 副 词: basically 名 词: basicity...
+219,link,"/lɪŋk//lɪŋk/ - n. 联系，关系；链环，环节 - vt. 连接，连结；联合，结合 - vi. 连接起来；联系在一起；将人或物连接或联系起来 Link链接 时 态: linked, linking, links 名 词: linker..."
+220,purpose,"/'pɜːpəs//'pɝpəs/ - n. 目的; 意图 - 作用; 用途; 效果 - 意志; 毅力; 决心 - vt. 有意, 打算 时 态: purposed, purposing, purposes"
+221,chemical,/'kemɪk(ə)l//'kɛmɪkl/ - n. 化学制品，化学药品 - adj. 化学的 副 词: chemically
+222,affair,/ə'feə//ə'fɛr/ n. 事情；事务；私事；（尤指关系不长久的）风流韵事
+223,burn,"/bɜːn//bɝn/ - vt. 燃烧；烧毁，灼伤；激起…的愤怒 - vi. 燃烧；烧毁；发热 - n. 灼伤，烧伤；烙印 时 态: burned, burnt burning, burns"
+224,largely,/'lɑːdʒlɪ//'lɑrdʒli/ adv. 主要地；大量地；大部分
+225,invite,"/ɪn'vaɪt//'ɪnvaɪt/ - vt. 邀请，招待；招致 - n. 邀请 时 态: invited, inviting, invites"
+226,neither,/'naɪðə//'niðɚ/ - conj. 既不；也不 - adv. 两个都不；既不……也不 - adj. 两者都不的 - pron. 两者都不
+227,review,"/rɪ'vjuː//rɪ'vju/ - n. 回顾; 检查; 检讨; 重新考虑 - 评论性刊物, 评论 - 检阅 - vt. 回顾 - vt. & vi. 写…的评论文章 时 态: reviewed, reviewing, reviews 形容词: reviewable..."
+228,challenge,"/'tʃælɪn(d)ʒ//'tʃælɪndʒ/ - n. 挑战, 邀请比赛 - 怀疑, 质问 - 艰巨的任务 - vt. 挑战 - 质疑 - 考验 时 态: challenged, challenging, challenges 形容词: challengeable..."
+229,treaty,/'triːtɪ//'triti/ n. 条约，协议；谈判
+230,responsibility,"/rɪ,spɒnsɪ'bɪlɪtɪ//rɪ,spɑnsə'bɪləti/ - n. 责任 - 责任感, 可信赖性 - 职责, 所负责任的事"
+231,blame,"/bleɪm//blem/ - vt. 责备；归咎于 - n. 责备；过失；责任 时 态: blamed, blaming, blames 名 词: blamer"
+232,owner,/'onɚ/ n. 所有者；物主
+233,speech,/spiːtʃ//spitʃ/ n. 演说；演讲；讲话；语音
+234,pull,"/pʊl//pʊl/ - vt. 拉；拖；拔 - vi. 拉，拖；拔 - n. 拉，拉绳；拖；拉力，牵引力 时 态: pulled, pulling, pulls 名 词: puller"
+235,secure,"/sɪ'kjʊə//sə'kjʊr/ - adj. 牢固的; 可靠的 - 有把握的; 确切的 - vt. 握紧; 关牢 - 使安全 - (使)获得; 把…弄到手 比较级: securer, securest 形容词: securable 副 词: securely 名 词: securement 名 词: secureness 名 词: securer..."
+236,maintain,"/meɪn'teɪn//men'ten/ - vt. 保持; 继续 - 保养, 维护 - 坚持; 主张 - 供给; 赡养 时 态: maintained, maintaining, maintains 名 词: maintainability 形容词: maintainable 名 词: maintainer..."
+237,traditional,"/trə'dɪʃ(ə)n(ə)l//trə'dɪʃənl/ - adj. 传统的, 惯例的 - 口传的,传说的 - 传统爵士乐的 副 词: traditionally"
+238,nineteenth,/'naɪn'tiːnθ//'naɪn'tinθ/ num. 第十九;十九分之一 副 词: nineteenth
+239,budget,"/'bʌdʒɪt//'bʌdʒɪt/ - n. 预算; 政府预算案 - 预算额, 经费 - vt. & vi. 编制预算, 安排开支等 时 态: budgeted, budgeting, budgets 形容词: budgetary 名 词: budgeter or..."
+240,respect,"/rɪ'spekt//rɪ'spɛkt/ - vt. 尊重, 敬佩 - n. 尊敬, 尊重 - 考虑, 关心, 顾虑 - 细节, 方面 - 敬意, 问候 时 态: respected, respecting, respects 名 词: respecter..."
+241,disease,/dɪ'ziːz//dɪ'ziz/ - n. 病，疾病；弊病 - vt. 使…有病；传染
+242,battle,"/'bæt(ə)l//'bætl/ - n. 战斗, 战役; 交战 - vt. & vi. 与[对]…作战, 争斗 时 态: battled, battling, battles 名 词: battler"
+243,senior,/'siːnɪə//'sinɪɚ/ - adj. 年长的 - 资深的; 地位高的 - 〈美〉最高年级的 - n. 较年长者 - 高年级学生 - 〈美〉毕业班学生 Senior西尼尔(姓氏)
+244,function,"/'fʌŋ(k)ʃ(ə)n//'fʌŋkʃən/ - n. 功能; 作用; 职责 - 函数; 与另一事物有密切关系的事物 - 社交集会 - vi. 工作, 运行, 起作用 时 态: functioned, functioning, functions 形容词: functionless..."
+245,document,"/'dɒkjʊm(ə)nt//ˈdɑkjəmənt/ - n. 文件，公文；文档；证件 - vt. 用文件证明 时 态: documented, documenting, documents 形容词: documental 名 词: documenter..."
+246,nor,"/nɔː//nɔr/ - conj. 也不；也不是 - adv. 也不；也没有 NOR(=Not or)(计)“或非”,“非或”"
+247,aircraft,/'eəkrɑːft//'ɛr'kræft/ n. 飞机，航空器
+248,territory,"/'terɪt(ə)rɪ//'tɛrətɔri/ - n. 领土, 版图 - 管区, 营业地区 - 地盘, 领域, 范围"
+249,loss,/lɒs//lɔs/ n. 遗失；亏损；失败；减少 LOSSabbr. Landing Observer's Signal System 着陆观察员信号系统
+250,bottom,"/'bɒtəm//'bɑtəm/ - n. 底部, 基部, 下端, 末尾; 水底 - 尽头, 末端 - 臀部, 屁股 时 态: bottomed, bottoming, bottoms 名 词: bottomer"
+251,mention,"/'menʃ(ə)n//'mɛnʃən/ - vt. 说起；提到，谈到；提及，论及 - n. 提及，说起 时 态: mentioned, mentioning, mentions 形容词: mentionable"
+252,involve,"/ɪn'vɒlv//ɪn'vɑlv/ vt. 包含；牵涉；使陷于；潜心于 时 态: involved, involving, involves 名 词: involvement 名 词: involver"
+253,terrible,/'terɪb(ə)l//'tɛrəbl/ - adj. 可怕的；很糟的；令人讨厌的 - adv. [口]很，非常 名 词: terribleness 副 词: terribly
+254,recently,/'risntli/ adv. 最近；新近
+255,poor,"/pɔː//pɔr/ - adj. 贫困的, 贫穷的 - 贫乏的 - 低劣的; 次等的 - (身体)衰弱的 - 可怜的; 不幸的 比较级: poorer, poorest 名 词: poorness"
+256,orange,"/ˈɔrindʒ//ˈɔrɪndʒ/ - n. 橙, 柑, 橘 - 橘黄色, 橙色 - adj. 橙色的 Orange奥林奇派的 形容词: orange"
+257,length,/leŋθ//lɛŋθ/ n. 长度，长；时间的长短；（语）音长
+258,gas,/gæs//ɡæs/ - n. 气体；汽油；毒气；瓦斯 - vt. 毒（死）；加油 - vi. 放出气体；加油；空谈 GASabbr. Ghana Academy of Sciences 加纳科学院
+259,conduct,"/'kɒndʌkt//kən'dʌkt/ - vi. 带领；导电 - vt. 管理；表现；引导 - n. 行为；进行；实施 时 态: conducted, conducting, conducts 名 词: conductibility 形容词: conductible..."
+260,reporter,/rɪ'pɔːtə//rɪ'pɔrtɚ/ n. 记者 形容词: reportorial 副 词: reportorially
+261,distance,"/'dɪst(ə)ns//'dɪstəns/ - n. 距离, 间距 - 远处, 远方 - (时间或空间的)相距 - 疏远, 冷淡 时 态: distanced, distancing, distances"
+262,contain,"/kən'teɪn//kən'ten/ - vt. 包含; 容纳 - 控制, 抑制 时 态: contained, containing, contains 形容词: containable"
+263,schedule,"/'ʃedjuːl//'skɛdʒul/ - vt. 排定, 安排 - n. 时间表, 日程安排表 - 清单, 明细表 时 态: scheduled, scheduling, schedules 形容词: schedular 名 词: scheduler..."
+264,spot,"/spɒt//spɑt/ - n. 斑点, 污点 - 地点, 场所 - 少量 - vt. & vi. 弄上污渍 - vt. 看出, 认出 SPOTabbr. Satellite Positioning and Tracking 人造卫星定位及跟踪 时 态: spotted, spotting, spots 形容词: spottable..."
+265,chairman,"/'tʃeəmən//'tʃɛrmən/ n. 主席，会长；董事长 时 态: chairmanned, chairmanning, chairmans"
+266,obviously,/ˈɔbvɪəslɪ//'ɑbvɪəsli/ adv. 显然;明白地
+267,supply,"/sə'plaɪ//sə'plaɪ/ - vt. 供给, 供应 - n. 供给, 供应, 补给 - 供给物, 供应品; 储备物质; 粮食, 生活用品 时 态: supplied, supplying, supplies 名 词: supplier..."
+268,tough,"/tʌf//tʌf/ - adj. 坚韧的 - 坚强的 - 粗暴的 - 老的, 硬的 - 严格的, 强硬的 - 困难的 比较级: tougher, toughest 副 词: toughly 名 词: toughness"
+269,protest,"/'prəʊtest//'protɛst/ - n. 抗议; 反对 - vt. & vi. 声明; 抗议 时 态: protested, protesting, protests 名 词: protester 副 词: protestingly"
+270,clothes,"/kləʊ(ð)z//kloðz/ n. 衣服, 衣物"
+271,democracy,"/dɪ'mɒkrəsɪ//də'mɑkrəsi/ - n. 民主, 民主制 - 民主国家"
+272,original,/ə'rɪdʒɪn(ə)l//ə'rɪdʒənl/ - n. 原物；原作；原型；原件 - adj. 原始的；最初的；新颖的；独创的
+273,production,"/prə'dʌkʃ(ə)n//prə'dʌkʃən/ - n. 生产, 制作; 产量 - 产品, 作品 - 出示, 提供 形容词: productional"
+274,below,/bɪ'ləʊ//bɪ'lo/ - adv. 在下面，在较低处；在本页下面 - prep. 在…下面
+275,conservative,"/kənˈsə:vətiv//kən'sɝvətɪv/ - n. 保守的人 - adj. 保守的, 守旧的 - (式样等)不时新的, 传统的 副 词: conservatively 名 词: conservativeness"
+276,strength,/streŋθ//strɛŋθ/ n. 力量；力气；长处；兵力
+277,ready,"/'redɪ//'rɛdi/ - adj. 准备好；情愿的；现成的；迅速的；快要…的 - n. 现款；预备好的状态 - adv. 预先；迅速地 - vt. 使准备好 比较级: readier, readiest 名 词: readiness..."
+278,transport,"/træn'spɔːt//'trænspɔrt/ - vt. 运送; 流放 - 使万分激动 时 态: transported, transporting, transports 名 词: transportability 形容词: transportable 名 词: transporter 形容词: transportive..."
+279,growth,"/grəʊθ//ɡroθ/ - n. 生长, 发育 - 增加; 发展, 扩大 - 生长物"
+280,fun,"/fʌn//fʌn/ - n. 乐趣；玩笑；有趣的人或事 - adj. 供娱乐用的 - vi. 开玩笑 时 态: funned, funning, funs"
+281,warm,"/wɔːm//wɔrm/ - adj. 暖和的, 温暖的 - 热情的, 热心的 - 暖调的 - vt. & vi. (使)变暖; 被加热; 暖和起来 比较级: warmer, warmest 名 词: warmer 形容词: warmish 副 词: warmly 名 词: warmness..."
+282,goal,"/gəʊl//ɡol/ - n. 球门 - 进球得的分 - 努力的对象, 目标"
+283,constant,"/'kɒnst(ə)nt//'kɑnstənt/ - adj. 始终如一的, 恒久不变的 - 不断的, 连续发生的 - 忠实的, 忠诚的 副 词: constantly"
+284,skill,/skɪl//skɪl/ n. 技能，技巧；本领，技术
+285,defeat,"/dɪ'fiːt//dɪ'fit/ - vt. 击败，战胜；使…失败；挫败 - n. 失败；战胜 时 态: defeated, defeating, defeats 名 词: defeater"
+286,yard,"/jɑːd//jɑrd/ - n. 院子 - 场地 - 码(等于3英尺或36英寸或0.9144米) 时 态: yarded, yarding, yards"
+287,ride,"/raɪd//raɪd/ - vi. 骑马；乘车；漂浮；依靠 - vt. 骑；乘；控制 - n. 乘坐；骑；交通工具；可供骑行的路 时 态: rode ridden riding, rides"
+288,tree,"/triː//tri/ - n. 树；树状物；木料 - vt. 把...赶上树 - vi. 逃上树；爬上树 时 态: treed, treeing, trees 形容词: treeless"
+289,caption,"/'kæpʃ(ə)n//'kæpʃən/ - n. 字幕；标题；说明；[英]逮捕 - vt. 加上说明；加上标题 时 态: captioned, captioning, captions"
+290,require,"/rɪ'kwaɪə//rɪ'kwaɪr/ vt. 要求；需要；命令 时 态: required, requiring, requires 缩 写: req 形容词: requirable 名 词: requirer"
+291,imagine,"/ɪ'mædʒɪn//ɪ'mædʒɪn/ - vt. 想像, 设想 - 料想, 猜想 - 想 时 态: imagined, imagining, imagines 名 词: imaginer"
+292,princess,/prɪn'ses//ˌprɪn'sɛs/ n. 王妃；公主；女巨头
+293,frequent,"/'friːkw(ə)nt//'frikwənt/ - adj. 时常发生的；频繁的；惯常的 - vt. 常到，常去；时常出入于 时 态: frequented, frequenting, frequentsalso 名 词: frequentation 名 词: frequenter 名 词: frequentness..."
+294,video,"/'vɪdɪəʊ//'vɪdɪo/ - n. 磁带录像, 录像 - 录像磁带, 录像带 - 录像机 - adj. 电视的; 视频的; 影像的 - 用录像磁带[录像带]的"
+295,choose,"/tʃuːz//tʃuz/ - vt. 选择，决定 - vi. 选择，挑选 时 态: chose chosen choosing, chooses 名 词: chooser"
+296,admit,"/əd'mɪt//əd'mɪt/ - vt. & vi. 许可进入 - 承认, 供认 时 态: admitted, admitting, admits"
+297,voter,/'vəʊtə//'votɚ/ n. 选举人，投票人；有投票权者
+298,gone,/gɒn//ɡɔn/ - adj. 离去的；死去的；用光的 - v. 去（go的过去分词）
+299,spring,"/sprɪŋ//sprɪŋ/ - n. 春, 春天 - 弹簧, 发条 - 泉, 源泉 - 跳, 跳跃 - vt. 蹦, 跳, 跃起, 突然活动 - vt. & vi. (使某物)借机械装置操作 时 态: sprang , sprung sprung, springing, springs..."
+300,tenth,"/tenθ//tɛnθ/ - pron. &n. 第十(个) - 十分之一 - adj. 第十的,第十个的 - 十分之一的 - adv. 第十 副 词: tenth"
+301,wind,"/wɪnd//wɪnd/ - n. 风, 气流 - 呼吸 - vt. 缠绕, 卷绕 - 给…上发条 - vt. & vi. 迂回, 蜿蜒 时 态: winded, winding, winds 名 词: winder"
+302,wrong,"/rɒŋ//rɔŋ/ - adj. 不道德的, 不正当的, 不义的 - 不确实的, 不正确的, 错误的 - 不合要求的, 不适合的, 并非合意的 - 有故障, 有毛病 - adv. 方式或方向错误地; 错误地; 结果错误地 - n. 罪过, 过失, 罪恶 - 不义的行为, 不公正的事 时 态: wronged, wronging, wrongs 名 词: wronger 副 词: wrongly 名 词: wrongness..."
+303,certain,"/'sɜːt(ə)n//'sɝtn/ - adj. 无疑, 肯定 - 某, 某些"
+304,cousin,"/ku:zæŋ//ˈkʌzɪn/ - n. 堂[表]兄弟[姊妹] - 远亲, 同辈, 同胞 Cousin库辛（Victor， 1792-1867， 法国哲学家、教育改革家； 折衷主义的创始人） 名 词: cousinhood 形容词: cousinly 名 词: cousinship..."
+305,wonder,"/'wʌndə//'wʌndɚ/ - vt. & vi. 对…感到疑惑 - 想知道; 问自己 - n. 惊奇, 惊叹, 惊异, 惊诧 - 奇人, 奇才 - 奇观, 奇景, 奇迹, 奇事 时 态: wondered, wondering, wonders 名 词: wonderer..."
+306,discuss,"/dɪ'skʌs//dɪ'skʌs/ vt. 讨论；论述，辩论 时 态: discussed, discussing, discusses 形容词: discussable or 名 词: discusser"
+307,determine,"/dɪ'tɜːmɪn//dɪ'tɝmɪn/ - vt. & vi. (使)下决心, (使)做出决定 - vt. 确定, 测定 - 限定; 制定; 支配 时 态: determined, determining, determines"
+308,limit,"/'lɪmɪt//'lɪmɪt/ - n. 限度；限制；界线 - vt. 限制；限定 时 态: limited, limiting, limits 形容词: limitable"
+309,quality,/'kwɒlɪtɪ//'kwɑləti/ n. 质量，品质；特性；才能
+310,producer,/prə'djuːsə//prə'dʊsɚ/ n. 生产者；制作人，制片人；发生器
+311,quarter,"/'kwɔːtə//'kwɔrtɚ/ - n. 四分之一；地区；季度；一刻钟；两角五分；[篮球]节 - vi. 住宿；驻扎 - vt. 将…四等分；供某人住宿 - num. 四分之一 时 态: quartered, quartering, quarters..."
+312,extend,"/ɪk'stend//ɪk'stɛnd/ - vt. & vi. (空间、时间等)延伸; 延续 - vt. 延长; 扩展; 达到(某一点) - 尽可能地伸开(身体某部) - 给予, 提供, 发出 时 态: extended, extending, extends 名 词: extendibility 形容词: extendable or..."
+313,advance,"/əd'vɑːns//əd'væns/ - vt. & vi. (使)前进, (使)发展; 促进 - 提高, 提升 - vt. 提出 - 提前 - 预付, 贷(款项等) - n. 前进, 发展, 改进, 进步 - 增长, 提高 - 借款, 预付款, 贷款 - adj. 预先的, 在前的 - 预先做好的; 预先供给的 时 态: advanced, advancing, advances 名 词: advancer..."
+314,everybody,"/'evrɪbɒdɪ//'ɛvrɪbɑdi/ pron. 每人, 人人, 各人"
+315,fish,"/fɪʃ//fɪʃ/ - n. 鱼 - 鱼肉 - vt. & vi. 捕鱼; 钓鱼 - 摸出, 掏出 Fish菲什(姓氏)"
+316,camp,"/kæmp//kæmp/ - vi. 扎营；露营 - vt. 扎营；使扎营 - n. 露营 cAMP(=cyclic adenosine monophosphate)环腺苷酸 CAMPabbr. Computer Aided Maintenance Project 计算机辅助维修计划 CAMPabbr. Computer Aided Maintenance Project 计算机辅助维修计划〈英〉 Camp坎普(姓氏) 时 态: camped, camping, camps 形容词: campy..."
+317,principle,"/'prɪnsɪp(ə)l//'prɪnsəpl/ - n. 原则, 原理 - 准则, 规范 - 操守, 道义 - 工作原理"
+318,wear,"/weə//wɛr/ - n. 穿著,磨损,耐久性 - v. 穿著,用旧,耗损 时 态: wore worn wearing, wears 名 词: wearer"
+319,evidence,"/'evɪd(ə)ns//'ɛvɪdəns/ - n. 证据，证明；迹象；明显 - vt. 证明 时 态: evidenced, evidencing, evidences"
+320,guy,"/ˈɡai//ɡaɪ/ n. 家伙, 伙计 时 态: guyed, guying, guys"
+321,smile,"/smaɪl//smaɪl/ - vi. 微笑 - n. 微笑；笑容；喜色 - vt. 微笑着表示 时 态: smiled, smiling, smiles 名 词: smiler 形容词: smiley or 副 词: smilingly 名 词: smilingness..."
+322,crash,"/kræʃ//kræʃ/ - n. 碰撞；崩溃；坠落 - vt. 破碎；撞碎；坠落 - vi. 碰撞；坠毁；闯；突然倒台 - adj. 速成的 时 态: crashed, crashing, crashes 名 词: crasher..."
+323,movie,/'muːvɪ//'muvi/ - n. 电影；电影院；电影业 - adj. 电影的
+324,object,"/'ɒbdʒɪkt//'ɑbdʒɛkt/ - n. 物体 - 对象; 客体 - 目标; 意向; 目的 - 可笑的人[事物] - 宾语 - vi. 不赞成, 反对; 抗议 - vt. 以…为理由反对 时 态: objected, objecting, objects 名 词: objector..."
+325,tea,/tiː//ti/ - n. 茶叶；茶树；茶点 - vt. 给…沏茶 - vi. 喝茶；进茶点 TEAabbr. Task Equipment Analysis 专用设备分析
+326,vehicle,"/'viːɪk(ə)l//'viəkl/ - n. 交通工具, 车辆 - 传播媒介, 手段"
+327,phone,"/fəun//fon/ - n. 电话；耳机，听筒 - vt. 打电话 - vi. 打电话 时 态: phoned, phoning, phones"
+328,space,"/speɪs//spes/ - n. 空间；距离；太空 - vi. 留间隔 - vt. 隔开 时 态: spaced, spacing, spaces 名 词: spacer"
+329,guard,"/gɑːd//ɡɑrd/ - vt. & vi. 保护; 控制 - n. 警戒, 警惕, 守卫 - 卫兵 - 警卫队 - 防御姿势 - 防护装置 时 态: guarded, guarding, guards 名 词: guarder"
+330,conflict,"/'kɒnflɪkt//'kɑnflɪkt/ - n. 战斗, 斗争 - 冲突, 抵触, 争论 - vi. 抵触, 冲突 时 态: conflicted, conflicting, conflicts 名 词: confliction 形容词: conflictive 形容词: conflictual..."
+331,knowledge,"/'nɒlɪdʒ//'nɑlɪdʒ/ - n. 了解, 理解 - 个人的知识[学识, 见闻] - 学问"
+332,stake,"/steɪk//stek/ - n. 桩，棍子；火刑；赌注；奖金 - vt. 资助，支持；系…于桩上；把…押下打赌 - vi. 打赌 时 态: staked, staking, stakes"
+333,edition,"/ɪ'dɪʃ(ə)n//ɪ'dɪʃən/ n. 版次, 版本"
+334,earn,"/ɜːn//ɝn/ vt. 获得，挣得；赚，赚得；博得；使得到 时 态: earned, earning, earns 名 词: earner"
+335,analyst,/'æn(ə)lɪst//'ænəlɪst/ n. 分析者；精神分析医师；分解者
+336,professional,"/prə'feʃ(ə)n(ə)l//prə'fɛʃənl/ - adj. 职业的, 专业的 - 内行的, 有经验的 - 有意的, 故意的 - n. 具有某专业资格的人, 专业人士 - 内行, 专家 - 专门职业者, 职业选手 副 词: professionally..."
+337,prisoner,/'prɪz(ə)nə//'prɪznɚ/ - n. 囚徒 - 俘虏 - 被夺去自由的人[动物]等
+338,sexual,"/'sekʃʊəl//'sɛʃʊəl/ - adj. 性交的, 性行为的, 性吸引的, 两性的, 肉体吸引的 - 性别的, 性的, 男性或女性的 - 生殖的, 有性生殖的 副 词: sexually"
+339,examine,"/ɪg'zæmɪn//ɪg'zæmɪn/ - vt. 仔细检查 - 考试, 对…进行考核 - 审查, 审问 时 态: examined, examining, examines 形容词: examinable 名 词: examiner"
+340,mile,/maɪl//maɪl/ n. 英里；一英里赛跑；较大的距离
+341,trouble,"/'trʌb(ə)l//'trʌbl/ - n. 麻烦；动乱；烦恼；故障 - vt. 麻烦；使烦恼；折磨 - vi. 费心，烦恼 时 态: troubled, troubling, troubles 名 词: troubler 副 词: troublingly..."
+342,type,"/taɪp//taɪp/ - n. 类型; 种类 - 典型人物; 典型, 模范, 模样 - 某种类型的人 - 铅字, 活字 - 活字的宽度、字体或字号等 - vt. & vi. 打字 时 态: typed, typing, types..."
+343,museum,/mju:'ziəm//mjuˈziəm/ n. 博物馆
+344,beyond,/bɪ'jɒnd//bɪ'jɑnd/ - prep. 超过；越过；在...较远的一边；那一边 - adv. 在更远处；在远处 - n. 远处
+345,unless,/ʌn'les//ən'lɛs/ - conj. 除非，如果不 - prep. 除…之外
+346,worry,"/'wʌrɪ//'wɝi/ - n. 烦恼；担心；撕咬 - vt. 折磨；担心；发愁 - vi. 担心；烦恼；撕咬 时 态: worried worrying, worries 名 词: worrier"
+347,narrow,"/'nærəʊ//'næro/ - adj. 狭窄的，有限的；度量小的；精密的；勉强的 - n. 狭窄部分，隘路；海峡 - vt. 使变狭窄 - vi. 变窄 比较级: narrower, narrowest 形容词: narrowish 副 词: narrowly 名 词: narrowness..."
+348,shoot,"/ʃuːt//ʃut/ - vt. & vi. 开枪, 射击; 射中, 射死 - 拍摄 - 疾驰; 飞速通过 - vt. (用枪等)打猎 时 态: shot shooting, shoots 名 词: shooter"
+349,particularly,/pə'tɪkjʊləlɪ//pɚ'tɪkjəlɚli/ adv. 特别; 尤其
+350,arrive,"/ə'raɪv//ə'raɪv/ - vi. 到达, 来 - 发生 时 态: arrived, arriving, arrives 缩 写: ar, arr 名 词: arriver"
+351,track,"/træk//træk/ - n. 足迹，踪迹；轨道；小道 - vt. 追踪；通过；循路而行；用纤拉 - vi. 走；追踪；留下足迹 时 态: tracked, tracking, tracks 形容词: trackable 名 词: tracker..."
+352,search,"/sɜːtʃ//sɝtʃ/ - n. 搜索, 寻找, 探查 - vt. & vi. 找寻 - 搜查; 搜索; 探查 时 态: searched, searching, searches 形容词: searchable 名 词: searcher"
+353,paint,"/peɪnt//pent/ - n. 油漆, 涂料 - 颜料 - 涂层, 漆层 - 化妆品 - vt. & vi. 画; 绘画 - vt. 在…上涂涂料[油漆] - 涂, 搽 - 描绘, 描述 时 态: painted, painting, paints 名 词: paintability 形容词: paintable..."
+354,technology,/tek'nɒlədʒɪ//tɛk'nɑlədʒi/ - n. 科技(总称); 工艺; 应用科学 - 工业技术
+355,potential,"/pə(ʊ)'tenʃ(ə)l//pə'tɛnʃl/ - adj. 潜在的, 有可能的 - n. 潜力, 潜势, 可能性 副 词: potentially"
+356,extra,/'ekstrə//'ɛkstrə/ - adv. 特别地，非常；另外 - n. 额外的事物；临时演员；号外；上等产品 - adj. 额外的，另外收费的；特大的
+357,cool,"/kuːl//kʊl/ - adj. 冷静的；凉爽的；[口]出色的 - vt. 使…冷却；使…平静下来 - vi. 变凉；平息 - n. 凉爽；凉爽的空气 - adv. 冷静地 比较级: cooler, coolest 形容词: coolish 副 词: coolly 名 词: coolness..."
+358,sorry,"/'sɒrɪ//'sɔri/ - adj. 感到伤心的, 觉得难过的, 惋惜的 - 对不起的, 抱歉的; 懊悔的 - 可怜的, 可悲的 比较级: sorrier, sorriest 副 词: sorrily 名 词: sorriness..."
+359,doubt,"/daʊt//daʊt/ - n. 怀疑；疑问；疑惑 - v. 怀疑；不信；[古]恐怕；拿不准 时 态: doubted, doubting, doubts 名 词: doubter"
+360,alleged,"/ə'ledʒd//əˈlɛdʒd/ adj. 声称的,所谓的 副 词: allegedly"
+361,eleventh,/ɪ'lev(ə)nθ//ɪˈlɛvənθ/ - n. 第十一；十一分之一 - adj. 十一分之一的；第十一的 - num. 第十一；十一分之一 副 词: eleventh
+362,earth,"/ɜːθ//ɝθ/ n. 地球；泥土；地线；尘世；陆地 时 态: earthed, earthing, earths"
+363,driver,/'draɪvə//'draɪvɚ/ n. 驾驶员；驱动程序；起子；传动器
+364,joint,"/dʒɒɪnt//dʒɔɪnt/ - n. 关节；接合处，接合点；接缝；（牛，羊等的腿）大块肉 - adj. 联合的，合办的；共同的；连接的 - vt. 连接，贴合；接合；使有接头 - vi. 贴合；生节 时 态: jointed, jointing, joints..."
+365,judge,"/dʒʌdʒ//dʒʌdʒ/ - n. 法官 - 裁判员, 评判员 - 鉴定人, 鉴赏家 - vt. & vi. 审判; 评判; 断定 时 态: judged, judging, judges"
+366,lift,"/lɪft//lɪft/ - vt. 举起；提升；空运；鼓舞；[口]抄袭 - vi. 消散；升起；耸立 - n. 举起；电梯；起重机；搭车 LIFTabbr. Logically Integrated FORTRAN Translator 逻辑集成公式翻译程序 时 态: lifted, lifting, lifts 形容词: liftable 名 词: lifter..."
+367,display,"/dɪ'spleɪ//dɪ'sple/ - n. 陈列, 展览 - 陈列的货物、艺术品等 - vt. 陈列, 展览 - 显示, 显露 时 态: displayed, displaying, displays"
+368,band,"/bænd//bænd/ - n. 带, 箍 - 条纹 - 价值、数量等的范围; 无线电的波段, 频带 - 一群, 一伙 - 乐队, 乐团 - vt. 用带绑扎 - vt. & vi. 结合起来; 伙同 时 态: banded, banding, bands..."
+369,cabinet,/'kæbɪnɪt//'kæbɪnət/ - n. 内阁；橱柜；展览艺术品的小陈列室 - adj. 内阁的；私下的，秘密的 名 词: cabinetful
+370,church,"/tʃɜːtʃ//tʃɝtʃ/ - n. 教堂；礼拜；教派 - adj. 教会的；礼拜的 - vt. 领…到教堂接受宗教仪式 Church丘奇(姓氏) 时 态: churched, churching, churches"
+371,elect,"/ɪ'lekt//ɪ'lɛkt/ - vt. (进行)选举, 推举 - 选择, 决定(做某事) 时 态: elected, electing, elects"
+372,popular,/'pɒpjʊlə//'pɑpjəlɚ/ adj. 流行的，通俗的；受欢迎的；大众的；普及的 副 词: popularly
+373,shock,"/ʃɒk//ʃɑk/ - n. 打击；震动；震惊；休克；禾束堆 - vt. 使震动；使震惊；使受电击；使休克；把…堆成禾束堆 - vi. 受到震动；感到震惊；堆成禾束堆 - adj. 蓬乱的；浓密的 时 态: shocked, shocking, shocks..."
+374,appearance,"/ə'pɪər(ə)ns//ə'pɪrəns/ - n. 出现, 显露, 露面 - 外观, 外貌, 外表"
+375,aware,/ə'weə//ə'wɛr/ adj. 知道的；意识到的；有…方面知识的；懂世故的 名 词: awareness
+376,violence,/'vaɪəl(ə)ns//'vaɪələns/ n. 激烈；暴力；侵犯；歪曲
+377,feature,"/'fiːtʃə//'fitʃɚ/ - n. 容貌；特色，特征；特写或专题节目 - vi. 起重要作用 - vt. 以…为特色；由…主演；特写 时 态: featured, featuring, features"
+378,use,"/ju:z//juz/ - n. 使用；用途；发挥 - vt. 利用；耗费 - vi. 使用，运用 时 态: used, using, uses"
+379,critical,/'krɪtɪk(ə)l//'krɪtɪkl/ adj. 批评的，爱挑剔的；决定性的；危险的；临界的；鉴定的；评论的 副 词: critically 名 词: criticalness
+380,farm,"/fɑːm//fɑrm/ - vi. 种田，务农；经营农场 - n. 农场；畜牧场；农家 - vt. 耕种；养殖；佃出（土地） 时 态: farmed, farming, farms"
+381,shall,"/ʃæl//ʃəl/ - aux.v. (有时与I和we连用, 表示一般将来时)将要, 会 - (尤用于与I和we连用的要求听者作决定的问句中)…好吗?要不要…? - (尤用于正式文字中表示允诺、命令或法令)〈正〉可; 必须; 必将 past tense should..."
+382,environmental,"/enˌvaɪərənˈmentl//ɪn,vaɪrən'mɛntl/ adj. (个人)环境的;由个人环境产生的 副 词: environmentally"
+383,personal,/'pɜːs(ə)n(ə)l//'pɝsənl/ - adj. 个人的；身体的；亲自的 - n. 人事消息栏；人称代名词
+384,occupy,"/'ɒkjʊpaɪ//'ɑkjupaɪ/ vt. 占据，占领；使忙碌；居住 时 态: occupied, occupying, occupies 名 词: occupier"
+385,dinner,/'dɪnə//'dɪnɚ/ n. 宴会；正餐；晚餐，晚宴
+386,civil,"/'sɪv(ə)l//'sɪvl/ - adj. 公民的, 平民的; 非军职的, 非宗教的; 国民间的, 民用的 - 民事的, 民法的 - 文明的, 有教养的 副 词: civilly"
+387,print,"/prɪnt//prɪnt/ - n. 印刷字体 - 印成的图画, 图案, 版画 - (由底片印出的)照片 - vt. 印刷, 出版 - vt. & vi. 用印刷体写 - 冲洗(照片) PRINTabbr. Pre-edited Interpretive System 预先编辑的解释系统 时 态: printed, printing, prints..."
+388,character,"/'kærəktə//'kærəktɚ/ - n. 品质, 特性, 特色 - 特征, 好的品质 - 人物, 角色 - (书写或印刷)符号, (汉)字 时 态: charactered, charactering, characters 形容词: characterless..."
+389,defend,"/dɪ'fend//dɪ'fɛnd/ - vt. 防护；辩护 - vi. 防守；保卫 时 态: defended, defending, defends 形容词: defendable 名 词: defender"
+390,piece,"/piːs//pis/ - n. 件；篇；块；硬币 - vt. 修补；接合；凑合 时 态: pieced, piecing, pieces"
+391,ability,"/ə'bɪlɪtɪ//ə'bɪləti/ - n. 能力; 力量 - 智慧, 才智; 天资"
+392,encourage,"/ɪn'kʌrɪdʒ//ɪn'kɝɪdʒ/ - vt. 鼓励, 激励 - 促进, 助长, 激发 时 态: encouraged, encouraging, encourages 名 词: encourager"
+393,push,"/pʊʃ//pʊʃ/ - vt. & vi. 推, 推动 - vt. 对…施加压力, 按 - 逼迫, 驱策, 敦促 - n. 推 - 大规模攻势 - 毅力; 推动力 时 态: pushed, pushing, pushes"
+394,bond,"/bɔnd//bɑnd/ - n. 结合；粘合剂；债券；约定 - vi. 结合，团结在一起 - vt. 以…作保；使结合 Bond邦德, 卡丽·雅格布斯((1862-1946) 美国歌曲与歌词作家, 他的作品有“真诚爱你”(1901年)和“佳日之末”(1910年)等) 时 态: bonded, bonding, bonds 形容词: bondable 名 词: bonder..."
+395,slightly,/ˈslaɪtli://'slaɪtli/ - adv. 轻微地;稍稍 - 细长;苗条;微小
+396,following,"/'fɒləʊɪŋ//ˈfɑloɪŋ/ - adj. 其次的, 接着的 - 下述的 - n. 一群追随者[拥护者]"
+397,prepare,"/prɪ'peə//prɪ'pɛr/ - vt. 准备 - vt. & vi. 筹备, 进行各项准备工作 - 做好思想准备 时 态: prepared, preparing, prepares 缩 写: prep 副 词: preparedly 名 词: preparer..."
+398,heavy,"/'hevɪ//'hɛvi/ - adj. 沉重的；繁重的，巨大的；阴沉的 - n. 重物；严肃角色 - adv. 笨重地；大量地 比较级: heavier, heaviest 缩 写: hvy 名 词: heaviness..."
+399,occasion,"/ə'keɪʒ(ə)n//ə'keʒn/ - n. 场合；时机，机会；理由 - vt. 引起，惹起 时 态: occasioned, occasioning, occasions"
+400,none,/nʌn//nʌn/ - pron. 没有人；没有任何东西；一个也没有 - adj. 没有的，一点没有的 - adv. 决不，一点也不
+401,dress,"/dres//drɛs/ - n. 连衣裙 - 衣服, 服装 - vt. & vi. 给…穿衣, 穿着 - 装饰, 打扮 时 态: dressed, dressing, dresses"
+402,incident,/'ɪnsɪd(ə)nt//'ɪnsɪdənt/ - n. 事件，事变；插曲 - adj. 易发生的，伴随而来的；附带的；入射的
+403,heart,"/hɑːt//hɑrt/ - n. 心脏；要点；感情；勇气；心形 - vt. 鼓励；铭记 - vi. [植]结心 时 态: hearted, hearting, hearts"
+404,favour,/'feɪvə//ˈfevɚ/ - n. 偏爱；赞同；善行 - vt. 赞成；喜爱；有助于
+405,tend,"/tend//tɛnd/ - vt. 照料, 照顾, 伺候 - vi. 往, 朝向 - 易于; 倾向 时 态: tended, tending, tends"
+406,colleague,"/'kɒliːg//'kɑliɡ/ n. 同事, 同僚 名 词: colleagueship"
+407,defence,/dɪ'fens//dɪˈfɛns/ n. 防御；防卫；防卫设备；答辩
+408,impact,"/'ɪmpækt//ɪm'pækt/ - vt. 撞击；冲突；影响；压紧 - vi. 冲击；产生影响 - n. 效果；影响；碰撞；冲击力 IMPACTabbr. Implementation Planning and Control Technique (电子计算机)程序设计及操作控制技术 时 态: impacted, impacting, impacts 名 词: impaction..."
+409,agreement,"/ə'griːm(ə)nt//ə'grimənt/ - n. 协定, 协议, 契约 - 达成协议 - 同意"
+410,industrial,"/ɪn'dʌstrɪəl//ɪn'dʌstrɪəl/ - adj. 工业的, 产业的 - 用于工业的 副 词: industrially"
+411,impossible,"/ɪm'pɒsɪb(ə)l//ɪm'pɑsəbl/ - adj. 不可能的, 办不到的 - 难以忍受的, 很难对付的 副 词: impossibly"
+412,risk,"/rɪsk//rɪsk/ - n. 危险(性), 风险 - 引起危险的事物 - vt. 冒险; 冒…险 时 态: risked, risking, risks 名 词: risker"
+413,physical,/'fɪzɪk(ə)l//'fɪzɪkl/ - adj. 身体的；物质的；物理的 - n. [口]体格检查 名 词: physicality 副 词: physically
+414,dozen,/'dʌz(ə)n//'dʌzn/ - n. 十二个，一打 - adj. 一打的 形容词: dozenth
+415,extremely,/iksˈtri:mli//ɪk'strimli/ adv. 极端;极其;非常
+416,reader,"/'riːdə//'ridɚ/ - n. 读者 - 审稿人, 校对员 - 初级读物"
+417,rain,"/reɪn//ren/ - n. 雨 - vt. & vi. (雨)降下; (使)降落 时 态: rained, raining, rains 形容词: rainless"
+418,establish,"/ɪ'stæblɪʃ//ə'stæblɪʃ/ - vt. 建立, 成立 - 安置 - 确定, 证实 时 态: established, establishing, establishes 名 词: establisher"
+419,fee,"/fiː//fi/ - n. 酬金；小费；费用 - vt. 付费给…… 时 态: feed, feeing, fees"
+420,recognize,"/ˈrekəɡnaiz//'rɛkəg'naɪz/ - vt. 认出, 识别出某人[某事物] - 承认…有效[属实]; 认可 - 承认[认清](某事物); 认识到 时 态: recognized, recognizing, recognizes 形容词: recognizable 副 词: recognizably 名 词: recognizer..."
+421,resource,/rɪ'sɔːs//'risɔrs/ n. 资源，财力；办法；智谋
+422,circle,"/'sɜːk(ə)l//'sɝkl/ - n. 圆, 圆周; 圈, 环状物 - 圈子, 界, 社会, 集团 - vt. 圈出, 围绕 - vt. & vi. 环绕; 盘旋 时 态: circled, circling, circles 名 词: circler..."
+423,deliver,"/dɪ'lɪvə//dɪ'lɪvɚ/ - vt. 发表；递送；释放；给予（打击）；交付；给…接生 - vi. 传送；投递；履行；实现 - n. 投球 时 态: delivered, delivering, delivers 名 词: deliverability 形容词: deliverable 名 词: deliverer..."
+424,suit,"/suːt//sut/ - n. 一套衣服 - 诉讼案件; 法律程序 - vt. 适合于(某人) - vt. & vi. 对…方便, 使满意 时 态: suited, suiting, suits"
+425,respond,"/rɪ'spɒnd//rɪ'spɑnd/ - vi. 回答；作出反应；承担责任 - vt. 以…回答 - n. 唱和；应答 时 态: responded, responding, responds 名 词: responder"
+426,politician,"/pɒlɪ'tɪʃ(ə)n//ˌpɑlə'tɪʃən/ - n. 政治家 - 政客, 玩弄权术者"
+427,package,"/'pækɪdʒ//'pækɪdʒ/ - vt. 把…包成一包 - 包装 - n. 包, 包裹, 包在一起的东西 - 一整套东西, 一揽子交易 时 态: packaged, packaging, packages 名 词: packager..."
+428,movement,/'muːvm(ə)nt//'muvmənt/ n. 运动；乐章；活动；运转
+429,fresh,"/freʃ//frɛʃ/ - adj. 新鲜的；无经验的；淡水的；清新的 - n. 泛滥；开始；新生 - adv. 最新地；刚刚，才 比较级: fresher, freshest 副 词: freshly 名 词: freshness..."
+430,professor,/prə'fesə//prə'fɛsɚ/ n. 教授 形容词: professorial 副 词: professorially 名 词: professorship
+431,store,"/stɔː//stɔr/ - n. 贮存, 贮备 - 商店, 店铺 - vt. & vi. 储藏; 存放 时 态: stored, storing, stores 形容词: storable 名 词: storer"
+432,twelfth,"/twelfθ//twɛlfθ/ - adv. & n.,pron. 第十二 - adj. 第十二的,第十二个的 - 十二分之一的 副 词: twelfth"
+433,poll,"/pəʊl//pol/ - n. 民意测验；投票；投票数；投票所 - vt. 剪短；对…进行民意测验；获得选票；投票 - vi. 投票 - adj. 剪过毛的；修过枝的；无角的 时 态: polled, polling, polls 名 词: poller..."
+434,wine,"/waɪn//waɪn/ - n. 葡萄酒 - (其他)果酒 时 态: wined, wining, wines"
+435,taste,"/teɪst//test/ - n. 滋味, 味道 - 鉴赏力 - 爱好, 嗜好 - vt. & vi. 尝, 品尝, 尝到 - vt. 吃, 喝 - 体验, 领略 时 态: tasted, tasting, tastes 形容词: tastable..."
+436,indicate,"/'ɪndɪkeɪt//'ɪndɪket/ - vt. 标示, 指示, 指出 - 象征; 表明或暗示…的可能性 时 态: indicated, indicating, indicates 形容词: indicatory"
+437,recall,"/rɪ'kɔːl//'rikɔl/ - vt. & vi. 回忆起, 回想 - vt. 召回, 收回 - n. 召回, 唤回 - 记忆力 时 态: recalled, recalling, recalls 形容词: recallable"
+438,finally,/'faɪnəlɪ//'faɪnəli/ adv. 终于；最后；决定性地
+439,complain,"/kəm'pleɪn//kəm'plen/ - vi. 发牢骚；投诉；诉说 - vt. 抱怨；控诉 时 态: complained, complaining, complains 名 词: complainer"
+440,garden,"/ˈɡɑ:dn//ˈɡɑrdn/ - n. 菜园；花园 - vt. 栽培花木 - vi. 从事园艺；在园中种植 Garden加登(姓氏) 时 态: gardened, gardening, gardens"
+441,significant,"/sɪg'nɪfɪk(ə)nt//sɪɡ'nɪfɪkənt/ - adj. 重要的, 重大的, 可观的 - 有意义的, 有用意的 - 意味深长的 副 词: significantly"
+442,data,/'deɪtə//'detə/ n. 资料；数据（datum的复数）
+443,straight,"/streɪt//stret/ - adj. 直的, 笔直的 - 连续的; 不间断的 - 直率的 - adv. 直接地; 径直地 - 立即, 马上 比较级: straighter, straightest 副 词: straightly 名 词: straightness..."
+444,stick,"/stɪk//stɪk/ - vt. 粘贴；刺，戳；伸出 - vi. 粘住；坚持；伸出 - n. 棍；手杖；呆头呆脑的人 时 态: stuck sticking, sticks"
+445,ban,"/bæn//bæn/ - vt. 取缔, 查封, 禁止 - n. 禁止, 禁令 时 态: banned, banning, bans"
+446,guess,"/ges//ɡɛs/ - vt. & vi. 猜 - vt. 猜对, 猜中 - 想, 以为 - n. 猜测, 估计, 猜想 时 态: guessed, guessing, guesses 名 词: guesser"
+447,eightieth,/ˈeitiiθ//'etɪɪθ/ num. 第八十 副 词: eightieth
+448,modern,"/'mɒd(ə)n//'mɑdɚn/ - adj. 现代的; 近代的 - 新式的, 时髦的, 最新的 - 当代风格的, 现代派的 副 词: modernly 名 词: modernness"
+449,tour,"/tʊə//tʊr/ - n. 旅行, 观光 - 巡回比赛[演出等] - vt. & vi. 旅行, 游历 时 态: toured, touring, tours 名 词: tourer"
+450,victory,/'vɪkt(ə)rɪ//'vɪktəri/ n. 胜利；克服；成功
+451,island,"/'aɪlənd//'aɪlənd/ n. 岛, 岛屿 时 态: islanded, islanding, islands"
+452,request,"/rɪ'kwest//rɪ'kwɛst/ - n. 请求；需要 - vt. 要求，请求 时 态: requested, requesting, requests 名 词: requester"
+453,language,/ˈlæŋɡwidʒ//'læŋɡwɪdʒ/ n. 语言；语言文字；表达能力
+454,ninth,/'naɪnθ//naɪnθ/ - num. 第九 - adj. 第九的；九分之一的 - n. 九分之一 副 词: ninth
+455,usual,"/'juːʒʊəl//'juʒuəl/ adj. 经常的, 通常的; 寻常的, 惯常的 副 词: usually 名 词: usualness"
+456,replace,"/rɪ'pleɪs//rɪ'ples/ vt. 取代，代替；替换，更换；归还，偿还；把…放回原处 时 态: replaced, replacing, replaces 缩 写: repl 形容词: replaceable 名 词: replacer..."
+457,worth,"/wɜːθ//wɝθ/ - adj. 值…的 - n. 价值；财产 时 态: worthed, worthing, worths"
+458,present,"/'prez(ə)nt//'prɛznt/ - vt. 呈现；介绍；提出；赠送 - vi. 举枪瞄准 - adj. 出席的；现在的 - n. 现在；礼物；瞄准 时 态: presented, presenting, presents 名 词: presentness 名 词: presenter..."
+459,tape,"/teɪp//tep/ - n. 带子 - 录音磁带; 录像带 - vt. 用带子捆起来 - vt. & vi. 录音 时 态: taped, taping, tapes 形容词: tapeable 形容词: tapeless"
+460,strategy,"/'strætɪdʒɪ//'strætədʒi/ - n. 战略学, 兵法 - 战略, 策略 - 策略, 计谋"
+461,bomb,"/bɒm//bɑm/ - vt. 轰炸，投弹于 - vi. 轰炸，投弹；失败 - n. 炸弹 时 态: bombed, bombing, bombs"
+462,gain,"/geɪn//ɡen/ - n. 收获；增加；利润 - vt. 获得；增加；赚到 - vi. 获利；增加 时 态: gained, gaining, gains"
+463,restaurant,"/'restərɒŋ//'rɛstrɑnt/ n. 饭店, 餐馆"
+464,motor,"/'məʊtə//'motɚ/ - n. 马达, 发动机 - vi. 开[乘]汽车 - vt. 用汽车运送 时 态: motored, motoring, motors"
+465,picture,"/'pɪktʃə//'pɪktʃɚ/ - n. 图画, 肖像; 照片 - (生动的)描述, 写照 - 影片; 电影; 画面 - 美景, 景色 - 情况, 事态, 局面 - vt. 绘画; 描绘 - 想像 时 态: pictured, picturing, pictures..."
+466,estate,/ɪ'steɪt//ɪ'stet/ n. 财产；房地产；身份
+467,separate,"/'sep(ə)rət//'sɛprət/ - vt. 使分离；使分居；使分开 - vi. 分开；分居；隔开 - adj. 分开的；单独的 - n. 抽印本；分开 时 态: separated, separating, separates 副 词: separately 名 词: separateness..."
+468,eighth,/eɪtθ//etθ/ - adj. 第八的；八分之一的 - num. 第八；八分之一 副 词: eighth
+469,wing,"/wɪŋ//wɪŋ/ - n. 翅膀；翼；飞翔；派别 - vt. 使飞；飞过；空运；增加…速度；装以翼 - vi. 飞行 时 态: winged, winging, wings"
+470,sixth,/sɪksθ//sɪksθ/ - n. 六分之一；月的第六日，（与the连用的）第六个 - adj. （与 the 连用）第六的，第六个的；六分之一的 副 词: sixth
+471,protect,"/prə'tekt//prə'tɛkt/ vt. 保护，防卫；警戒 时 态: protected, protecting, protects 副 词: protectingly"
+472,voice,"/vɒɪs//vɔɪs/ - n. 嗓音, 说话声, 歌唱声 - (口头或书面的)意见等, 发言权, 影响 - (动词的)语态 时 态: voiced, voicing, voices"
+473,everyone,"/'evrɪwʌn//'ɛvrɪwʌn/ pron. 每人, 人人, 各人"
+474,federal,/'fed(ə)r(ə)l//'fɛdərəl/ - adj. 联邦(制)的 - 联邦政府的 副 词: federally
+475,surround,"/sə'raʊnd//sə'raʊnd/ - vt. 围绕；包围 - n. 围绕物 - adj. 环绕立体声的 时 态: surrounded, surrounding, surrounds"
+476,scheme,"/skiːm//skim/ - vt. & vi. 策划; 图谋 - n. 阴谋, 诡计 - 计划, 方案 时 态: schemed, scheming, schemes 名 词: schemer"
+477,intend,"/ɪn'tend//ɪn'tɛnd/ - vt. 打算；意指；想要 - vi. 有打算 时 态: intended, intending, intends"
+478,refuse,"/rɪ'fjuːz//ri'fjʊz/ - vt. & vi. 拒绝; 回绝 - n. 废物; 垃圾 时 态: refused, refusing, refuses 名 词: refuser"
+479,box,"/bɒks//bɑks/ - n. 箱，盒子；包厢；一拳 - vi. 拳击 - vt. 装…入盒中；拳击；打耳光 时 态: boxed, boxing, boxes"
+480,bar,"/bɑː//bɑr/ - n. 酒吧；条，棒；障碍 - vt. 禁止；阻拦 - prep. 除……外 BARabbr. Backup Address Register 后备地址寄存器 Barn. 律师业 时 态: barred, barring, bars..."
+481,success,"/sək'ses//sək'sɛs/ - n. 成功; 成就 - 成功者, 成功的事迹"
+482,similar,/'sɪmɪlə//'sɪməlɚ/ - adj. 相似的 - n. 类似物 副 词: similarly
+483,serve,"/sɜːv//sɝv/ - vt. & vi. (为…)服务; 任(职) - 提供, 端上 - vt. 向…供应 - 度过(某段时间) 时 态: served, serving, serves"
+484,finish,"/'fɪnɪʃ//'fɪnɪʃ/ - vt. 完成；结束；用完 - vi. 结束，终止；完成；终结 - n. 结束；完美；完成；磨光 时 态: finished, finishing, finishes 名 词: finisher..."
+485,divide,"/dɪ'vaɪd//dɪ'vaɪd/ - vt. 分开；划分；除；使产生分歧 - vi. 分开；意见分歧 - n. 分水岭，分水线 时 态: divided, dividing, divides 形容词: dividable..."
+486,scene,/siːn//sin/ n. 情景；景象；场面；事件
+487,reply,"/rɪ'plaɪ//rɪ'plai/ - vi. 回答；回击；答辩 - n. 回答；答辩 - vt. 回答；答复 时 态: replied, replying, replies 名 词: replier"
+488,listen,"/'lɪs(ə)n//'lɪsn/ - vi. 听，倾听；听从，听信 - n. 听，倾听 时 态: listened, listening, listens 名 词: listener"
+489,recommend,"/rekə'mend//'rɛkə'mɛnd/ - vt. 推荐, 介绍, 赞许某人[某事物] - 劝告, 建议 - (特质等)使…显得可取 时 态: recommended, recommending, recommends 形容词: recommendable 名 词: recommender..."
+490,confirm,"/kən'fɜːm//kən'fɝm/ vt. 确认；批准；证实；确定；使巩固 时 态: confirmed, confirming, confirms 名 词: confirmability 形容词: confirmable 形容词: confirmatory 名 词: confirmer..."
+491,contract,"/'kɒntrækt//'kɑntrækt/ - vi. 感染；订约；收缩 - vt. 感染；订约；使缩短 - n. 合同；婚约 时 态: contracted, contracting, contracts 名 词: contractibility or 形容词: contractible..."
+492,hole,"/həʊl//hol/ - n. 洞，孔；洞穴，穴；突破口 - vi. 凿洞，穿孔；（高尔夫球等）进洞 - vt. 凿洞 时 态: holed, holing, holes"
+493,difference,"/'dɪf(ə)r(ə)ns//'dɪfrəns/ n. 差异；不同；争执 时 态: differenced, differencing, differences"
+494,camera,/'kæm(ə)rə//'kæmərə/ n. 照相机; 摄影机; 电视摄影机
+495,alternative,"/ɔːl'tɜːnətɪv//ɔl'tɝnətɪv/ - adj. 两者择一的, 供替代的 - 不寻常的, 非传统性的 - 非正统的 - n. 取舍, 抉择, 可供选择的事物 - 选择的余地, 可供选择的机会 副 词: alternatively..."
+496,dangerous,"/'deɪn(d)ʒ(ə)rəs//'dendʒərəs/ adj. 有危险的, 危险的 副 词: dangerously 名 词: dangerousness"
+497,decade,/'dekeɪd//'dɛked/ n. 十年，十年期；十
+498,ticket,"/'tɪkɪt//'tɪkɪt/ - n. 票；入场券，标签；证明书；（美）候选人名单；[口]交通罚款单 - vt. 加标签于；指派；对…开出交通违规罚单 时 态: ticketed, ticketing, tickets..."
+499,summer,"/'sʌmə//'sʌmɚ/ - n. 夏, 夏天, 夏季 - 黄金时代, 鼎盛时期 - 岁数 时 态: summered, summering, summers 副 词: summerly"
+500,reflect,"/rɪ'flekt//rɪ'flɛkt/ - vt. 反射，照出；反省；反映 - vi. 反射，映现；深思 时 态: reflected, reflecting, reflects"
+501,catch,"/kætʃ//kætʃ/ - vt. 赶上；抓住；感染；了解 - vi. 赶上；抓住 - n. 捕捉；捕获物；窗钩 时 态: caught catching, catches 形容词: catchable"
+502,drink,"/drɪŋk//drɪŋk/ - vt. 喝，饮；吸收；举杯庆贺 - vi. 喝酒；饮水；干杯 - n. 酒，饮料；喝酒 时 态: drank drunk drinking, drinks"
+503,computer,/kəm'pjuːtə//kəm'pjutɚ/ n. 电脑；计算机；电子计算机
+504,square,"/skweə//skwɛr/ - adj. 直角的；正方形的；正直的；平方的 - vt. 使成方形；与…一致 - vi. 成方形；一致 - n. 平方；正方形；广场 - adv. 成直角地 比较级: squarer, squarest 副 词: squarely 名 词: squareness 名 词: squarer..."
+505,subject,"/'sʌbdʒekt//'sʌbdʒɪkt/ - n. 主题; 题目; 问题 - 话题, 考虑的问题 - 学科, 科目; 课程 - 主语, 主词 - adj. 常有[常患, 常遭受]…的; 倾向于…的 - 须服从…的; 受…支配的 - 受约束[管辖]的, 不独立的 - 取决于…的, 有待于…的 - vt. 使服从, 征服, 制伏 时 态: subjected, subjecting, subjects 名 词: subjection..."
+506,powerful,/'paʊəfʊl//'paʊɚfl/ - adj. 强大的；强有力的 - adv. 很；非常 副 词: powerfully 名 词: powerfulness
+507,purchase,"/'pɜːtʃɪs//'pɝtʃəs/ - n. 购买；紧握；起重装置 - vt. 购买；赢得 - vi. 购买东西 时 态: purchased, purchasing, purchases 名 词: purchaser"
+508,assume,"/ə'sjuːm//ə'sum/ - vt. 假定；承担；呈现；采取 - vi. 装腔作势；多管闲事 时 态: assumed, assuming, assumes 形容词: assumable 副 词: assumably 名 词: assumer..."
+509,field,"/fi:ld//fild/ - n. 田, 地, 牧场 - (作某种用途的)场地, 场所 - (矿物的)产地 - (学习或研究的)领域 Field菲尔德(①姓氏 ②Cyrus West, 1819-1892, 美国资本家 大西洋海底电信事业的推进者 ③David Dudley, Jr., 1805-1894, 美国法学家 ④Eugene, 1850-1895, 美国诗人、新闻记者 ⑤Stephen Johnson, 1816-1899, 美国联邦最高法院法官) 时 态: fielded, fielding, fields..."
+510,MP,/ˌem 'pi:/ abbr. 〈英〉下院议员
+511,expensive,"/ɪk'spensɪv//ɪk'spɛnsɪv/ adj. 昂贵的, 花钱多的 副 词: expensively 名 词: expensiveness"
+512,previous,/'priːvɪəs//'privɪəs/ - adj. 以前的；早先的；过早的 - adv. 在…以前；在先 副 词: previously 名 词: previousness
+513,ninetieth,/'naɪntɪɪθ//'naɪntɪɪθ/ num. 第九十; 九十分之一 副 词: ninetieth
+514,option,"/'ɒpʃ(ə)n//'ɑpʃən/ n. 选择权；选项；[经]买卖的特权 时 态: optioned, optioning, options"
+515,fourth,/fɔːθ//fɔrθ/ num. 第四 副 词: fourth
+516,factory,/'fækt(ə)rɪ//'fæktri/ n. 工厂；制造厂；代理店
+517,guarantee,"/gær(ə)n'tiː//ˌɡærən'ti/ - vt. 保证; 担保 - 使(事情)可能发生 - n. 保证, 保障; 保证书; 保用期 - 担保, 担保人 - 担保品, 抵押品 时 态: guaranteed, guaranteeing, guarantees..."
+518,engine,"/'endʒɪn//'ɛndʒɪn/ n. 引擎，发动机；机车，火车头；工具 时 态: engined, engining, engines"
+519,surface,"/'sɜːfɪs//'sɝfɪs/ - n. 表面；外观；表层 - adj. 表面的，肤浅的 - vi. 浮出水面 - vt. 使浮出水面；使成平面 时 态: surfaced, surfacing, surfaces"
+520,dead,"/ded//dɛd/ - adj. 无生命的；废弃了的；呆板的 - adv. 完全地 - n. 死者 比较级: deader, deadest 名 词: deadness"
+521,audience,/'ɔːdɪəns//'ɔdɪəns/ n. 观众；听众；接见；读者
+522,beautiful,"/'bjuːtɪfʊl//'bjʊtəfəl/ - adj. 美丽的, 悦目的 - 极好的, 很好的 副 词: beautifully 名 词: beautifulness"
+523,rock,"/rɒk//rɑk/ - n. 岩石 - 岩块, 石块; 礁; 暗礁 - 石头, 石子 - 摇滚乐 - vt. & vi. (使)来回摆动 - vt. 使震惊; 使受震动 时 态: rocked, rocking, rocks 副 词: rockingly..."
+524,resolution,"/rezə'luːʃ(ə)n//ˌrɛzə'luʃən/ - n. 正式决定, 决议 - 决心, 决定 - 坚决; 坚定; 坚毅 - 解决, 解答 - 分辨力, 分辨率[度]"
+525,bright,"/brait//braɪt/ - adj. 光亮的, 闪光的, 发光的 - 鲜艳的, 鲜亮的 - 生气勃勃的, 愉快的; 幸福的 - 聪明的, 伶俐的 - 前途光明的, 有希望的 Bright布赖特(①姓氏 ②Richard, 1789-1858, 英国医学家) 比较级: brighter, brightest 副 词: bright or..."
+526,prepared,/prɪˈpeəd//prɪ'pɛrd/ - adj. 事先准备好的 - 愿意的 - 期望的 - adv. 事先准备好地 - 愿意地 - 期望地
+527,pain,"/peɪn//pen/ - n. 疼痛；努力 - vt. 使…痛苦；使…烦恼 - vi. 引起疼痛；感到疼痛 时 态: pained, paining, pains"
+528,task,"/tɑːsk//tæsk/ n. 工作; 任务; 差事 时 态: tasked, tasking, tasks"
+529,complex,/'kɒmpleks//kəm'plɛks/ - adj. 复杂的；合成的 - n. 复合体；综合设施 副 词: complexly 名 词: complexness
+530,avoid,"/ə'vɒɪd//ə'vɔɪd/ vt. 避免；避开，躲避；消除 时 态: avoided, avoiding, avoids 形容词: avoidable 副 词: avoidably 名 词: avoider"
+531,marriage,/'mærɪdʒ//'mærɪdʒ/ - n. 结婚 - 婚姻状况 - 婚礼
+532,housing,/haʊzɪŋ//'haʊzɪŋ/ n. 房屋；外壳；住房供给；遮盖物；机器等的防护外壳或外罩
+533,shoulder,"/'ʃəʊldə//'ʃoldɚ/ - n. 肩, 肩部, 肩膀 - 背的上部 - 有责任[须承担责任]的人 - vt. 扛, 担, 挑 - 用肩顶… - 承担 时 态: shouldered, shouldering, shoulders..."
+534,kick,"/kɪk//kɪk/ - vt. & vi. 踢 - n. 踢 - 〈非正〉极度兴奋, 快乐 - 精力, 效应 时 态: kicked, kicking, kicks"
+535,due,/djuː//du/ - adj. 到期的；应得的；应付的；预期的 - n. 应付款；应得之物 - adv. 正（置于方位词前）
+536,waste,"/weɪst//west/ - n. 浪费; 滥用 - 废料, 废弃物 - 荒地 - vt. & vi. 浪费, 徒劳 - (使)损耗, (使)消瘦 - vt. 破坏, 使荒芜 - adj. 废弃的; 无用的; 荒芜的 时 态: wasted, wasting, wastes..."
+537,cheap,"/tʃiːp//tʃip/ - adj. 廉价的, 便宜的 - 劣质的, 低劣的 - 低俗的, 卑鄙的 比较级: cheaper, cheapest 副 词: cheaply 名 词: cheapness"
+538,radical,"/'rædɪk(ə)l//'rædɪkl/ - adj. 根本的, 基本的; 彻底的, 完全的 - 激进的, 激进派的 副 词: radically 名 词: radicalness"
+539,generation,"/dʒenə'reɪʃ(ə)n//'dʒɛnə'reʃən/ - n. 同时代的人, 一代人, 一代 - 产生, 发生 形容词: generational"
+540,fat,"/fæt//fæt/ - adj. 多脂肪的, 肥胖的 - 丰富的, 大量的 - n. 脂肪, 油脂 - 肥肉 FATabbr. file allocation table 文件分配表 比较级: fatter, fattest 副 词: fatly 名 词: fatness..."
+541,treatment,"/'triːtm(ə)nt//'tritmənt/ - n. 处理; 对待, 待遇 - 治疗; 疗法"
+542,apply,"/ə'plaɪ//ə'plaɪ/ - vt. 应用；申请；涂，敷 - vi. 申请；适用；请求；涂，敷 时 态: applied, applying, applies"
+543,stress,"/stres//strɛs/ - n. 压力；紧张；重要性；强调；重读 - vt. 强调；加压力于；使紧张；用重音读 时 态: stressed, stressing, stresses"
+544,perform,"/pə'fɔːm//pɚ'fɔrm/ - vt. 执行；完成；演奏 - vi. 表演；执行，机器运转 时 态: performed, performing, performs 形容词: performable 名 词: performer..."
+545,danger,/'deɪn(d)ʒə//'dendʒɚ/ n. 危险；危险物，威胁
+546,screen,"/skriːn//skrin/ - n. 屏，幕；屏风 - vt. 筛；放映；掩蔽；拍摄 - vi. 拍电影 时 态: screened, screening, screens 形容词: screenable 名 词: screener"
+547,refer,"/rɪ'fɜː//rɪ'fɝ/ - vi. 提到; 针对; 关系到 - vt. 送交; 提交 - 归于 - vt. & vi. 参考; 查阅 时 态: referred, referring, refers 形容词: referable 名 词: referral 名 词: referrer..."
+548,date,"/deɪt//det/ - n. (注明的)日期, 日子, 年份 - 时代, 年代 - 约定, 约会 - 约会的对象 - vt. 记载日期于 - 鉴定…的年代 - vt. & vi. 与人约会, 相约 时 态: dated, dating, dates 形容词: datable or 名 词: dater..."
+549,twentieth,"/'twentɪɪθ//'twɛntɪɪθ / - n. 第二十个 - 二十分之一 - adj. 第二十的,第二十个的 - 二十分之一的 副 词: twentieth"
+550,suspect,"/sə'spekt//'sʌspɛkt/ - n. 嫌疑犯 - adj. 不可信的；可疑的 - vt. 怀疑；猜想 - vi. 怀疑；猜想 时 态: suspected, suspecting, suspects"
+551,desire,"/dɪ'zaɪə//dɪ'zaɪɚ/ - n. 欲望；要求，心愿；性欲 - vt. 要求；想要；希望得到… - vi. 渴望 时 态: desired, desiring, desires 名 词: desirer"
+552,freedom,"/'friːdəm//'fridəm/ - n. 自由, 自主 - 自由权"
+553,weapon,"/'wep(ə)n//'wɛpən/ - n. 武器, 兵器 - 自卫[克敌制胜]的手段[行动] 时 态: weaponed, weaponing, weapons"
+554,technique,"/tek'niːk//tɛk'nik/ - n. 技巧, 手法, 技术 - 技能"
+555,compared,/kəm'pɛəd//kəmˈp ɛrd/ adj. 比较的;对照的
+556,consumer,/kən'sjuːmə//kən'sumɚ/ n. 用户，顾客；消费者 名 词: consumership
+557,reporting,/rɪ'pɔrtɪŋ/ n. 报告
+558,organize,"/ˈɔ:ɡənaiz//'ɔrɡənaɪz/ - vt. 组织；使有系统化；给予生机；组织成立工会等 - vi. 成立组织；组织起来 时 态: organized, organizing, organizes 名 词: organizer..."
+559,withdraw,"/wɪð'drɔː//wɪð'drɔ/ - vt. & vi. 取[收]回 - (使)撤退[出] 时 态: withdrew withdrawn withdrawing, withdraws 形容词: withdrawable 名 词: withdrawer"
+560,seventeenth,/ˌsevən'tiːnθ//ˌsɛvn'tinθ/ pron. 第十七(个) 副 词: seventeenth
+561,song,"/sɒŋ//sɔŋ/ - n. 歌曲 - 歌唱 SONGabbr. Satellite for Orientation,Navigation and Geodesy 定向,导航和大地测量卫星 SONGabbr. Satellite for Orientation, Navigation and Geodesy 定向, 导航和大地测量卫星..."
+562,author,"/'ɔːθə//'ɔθɚ/ - n. 著作家, 作者 - 创造者, 创始人; 发起人 时 态: authored, authoring, authors 形容词: authorial"
+563,publish,"/'pʌblɪʃ//'pʌblɪʃ/ - vt. 发表；出版；公布 - vi. 出版；发行；刊印 时 态: published, publishing, publishes 形容词: publishable"
+564,clean,"/kliːn//klin/ - adj. 清洁的，干净的；清白的 - vt. 使干净 - vi. 打扫，清扫 - adv. 完全地 - n. 打扫 比较级: cleaner, cleanest 形容词: cleanable 名 词: cleanness..."
+565,regard,"/rɪ'gɑːd//rɪ'ɡɑrd/ - n. 注意；尊重；凝视；问候 - vt. 把…看作；注重，考虑；看待；尊敬；与…有关 - vi. 注意，注重；注视 时 态: regarded, regarding, regards..."
+566,adult,"/'ædʌlt//'ædʌlt/ - adj. 成熟的 - 成年人的, 适宜于成年人的 - n. 成年的人或动物 名 词: adulthood 名 词: adultness"
+567,hostage,/'hɒstɪdʒ//'hɑstɪdʒ/ n. 人质
+568,investor,/ɪn'vestə//ɪn'vɛstɚ/ n. 投资者;出资者
+569,correct,"/kə'rekt//kə'rɛkt/ - adj. 正确的, 对的 - 合适的, 符合的 - vt. 改正, 纠正 时 态: corrected, correcting, corrects 形容词: correctable or 副 词: correctly 名 词: correctness 名 词: corrector..."
+570,loan,"/ləʊn//lon/ - vt. 借出 - n. 借出 - 借出物; 借款 时 态: loaned, loaning, loans 名 词: loaner"
+571,kitchen,/'kɪtʃɪn//'kɪtʃɪn/ n. 厨房
+572,whatever,/wɒt'evə//wət'ɛvɚ/ - adj. 不管什么样的 - pron. 无论什么；诸如此类 - conj. 无论什么
+573,administration,"/ədmɪnɪ'streɪʃ(ə)n//əd,mɪnɪ'streʃən/ - n. 实行, 执行 - 管理, 经营, 支配 - 政府, 内阁 形容词: administrative 副 词: administratively"
+574,failure,/'feɪljə//'feljɚ/ n. 失败；故障；失败者；破产
+575,train,"/treɪn//tren/ - n. 火车；行列；长队；裙裾 - v. 训练；培养；瞄准 时 态: trained, training, trains 名 词: trainability 形容词: trainable"
+576,ahead,/ə'hed//ə'hɛd/ - adv. 向前；预先；领先 - adj. 向前的；领先的
+577,investigate,"/ɪn'vestɪgeɪt//ɪn'vɛstɪɡet/ vt. 调查; 审查 时 态: investigated, investigating, investigates 形容词: investigable 形容词: investigatory"
+578,deficit,"/'defɪsɪt//'dɛfəsɪt/ - n. 不足额 - 赤字, 亏空, 亏损"
+579,wish,"/wɪʃ//wɪʃ/ - n. 希望；祝福；心愿 - vt. 渴望；祝愿；向…致问候语 - vi. 愿望；需要 时 态: wished, wishing, wishes 名 词: wisher"
+580,coach,"/kəʊtʃ//kotʃ/ - n. 教练；旅客车厢；长途公车；四轮大马车 - vt. 训练；指导 - vi. 作指导；接受辅导；坐马车旅行 时 态: coached, coaching, coaches 形容词: coachable 名 词: coacher..."
+581,champion,"/'tʃæmpɪən//'tʃæmpɪən/ - n. 冠军 - 捍卫者, 拥护者 时 态: championed, championing, champions"
+582,sentence,"/'sent(ə)ns//'sɛntəns/ - n. 宣判，判决；句子，命题 - vt. 判决，宣判 时 态: sentenced, sentencing, sentences 形容词: sentential 副 词: sententially..."
+583,medical,/'medɪk(ə)l//'mɛdɪkl/ - adj. 医学的；内科的；药的 - n. 医生；体格检查 副 词: medically
+584,credit,"/'kredɪt//'krɛdɪt/ - n. 赊购; 赊购制度 - 存款; 存款数额 - 借款; 贷款 - 赞扬, 荣誉, 功劳 - 信任, 相信 - 学分 - vt. 相信, 信任 - 把…记入贷方, 存入(账户) 时 态: credited, crediting, credits..."
+585,series,/'sɪəriːz//'sɪriz/ n. 系列，连续；丛书；[电]串联；[数]级数
+586,absolutely,/'æbsəlju:tli//ˈæbsəˌlutli/ - adv. 完全地 - 绝对地 - 确实地；肯定地 - (用于否定结构，表示强调)绝，丝毫 - 以绝对形式 - int. [用以强调，表示毫无保留、无条件赞同完全正确，一点不错...
+587,weather,"/'weðə//'wɛðɚ/ - n. 天气；气象；处境；气候 - vt. 经受住；使风化；侵蚀；使受风吹雨打 - vi. 受侵蚀；风化；经受风雨 - adj. 露天的；迎风的 时 态: weathered, weathering, weathers..."
+588,safe,"/seɪf//sef/ - adj. 安全的；可靠的；平安的 - n. 保险箱；冷藏室；纱橱 比较级: safer, safest 副 词: safely 名 词: safeness"
+589,activity,"/æk'tɪvɪtɪ//æk'tɪvəti/ n. 活动性, 活力"
+590,material,"/mə'tɪərɪəl//mə'tɪrɪəl/ - n. 材料, 原料 - 衣料 - 素材, 资料 - adj. 物质的; 身体的; 肉体的 - 重要的, 重大的 名 词: materialness"
+591,guest,"/ɡest//ɡɛst/ - n. 客人, 宾客 - 旅客, 宿客 - 客串演员 Guest格斯特(姓氏) 时 态: guested, guesting, guests"
+592,succeed,"/sək'siːd//sək'sid/ - vi. 成功 - 完成 - 发迹; 成就 - vt. & vi. 继承, 继任, 继位 - vt. 随…之后; 继续 时 态: succeeded, succeeding, succeeds 形容词: succedent 名 词: succeeder..."
+593,unlikely,"/ʌn'laɪklɪ//ʌn'laɪkli/ - adj. 不太可能的；没希望的 - adv. 未必 比较级: unlikelier, unlikeliest 名 词: unlikeliness"
+594,football,/'fʊtbɔːl//'fʊtbɔl/ - n. 足球，橄榄球 - vi. 踢足球；打橄榄球 名 词: footballer
+595,travel,"/'træv(ə)l//'trævl/ - vi. 旅行；步行；行进；[口]交往 - vt. 在…旅行；经过 - n. 旅行；游历；漫游 时 态: traveled, travelled traveling, travelling travels, travels..."
+596,exercise,"/'eksəsaɪz//'ɛksɚsaɪz/ - n. 练习；运动；运用；操练；典礼；礼拜 - vt. 练习；锻炼；使用；使忙碌；使惊恐 - vi. 运动；练习 时 态: exercised, exercising, exercises 形容词: exercisable..."
+597,thirteenth,/'θɜːtiːnθ//'θɝtinθ/ - n. 第十三 - 十三分之一 - adj. 十三的;十三个的 - 十三分之一的 副 词: thirteenth
+598,cast,"/kɑːst//kæst/ - vt. & vi. 投, 掷, 扔 - 浇铸 - vt. 投射, 加…于 - 分配(演戏剧等的)角色 - n. 投, 掷, 抛, 扔 - 铸造物; 塑件 - 石膏 - 演员表, 全体演员 - n. 原主人不再要的衣服/casting vote决定票 CASTabbr. Center for the Applications of Sciences and Technology (Wayne大学)科学技术应用中心 CASTabbr. Center for the Applications of Sciences and Technology 〈美〉(Wayne大学)科学技术应用中心 时 态: cast, casting, casts..."
+599,cook,"/kʊk//kʊk/ - vt. 烹调，煮 - vi. 烹调，做菜 - n. 厨师，厨子 时 态: cooked, cooking, cooks"
+600,period,"/'pɪərɪəd//'pɪrɪəd/ - n. (一段)时间 - 时期, 时代 - 学时, 课时 - 句号, 句点"
+601,division,"/dɪ'vɪʒ(ə)n//də'vɪʒən/ - n. 分开; 分配 - 部门 - 界限 - 分歧, 分裂 - 除(法) - 分组表决 形容词: divisional"
+602,lunch,"/lʌn(t)ʃ//lʌntʃ/ - n. 午餐 - vt. & vi. 吃午餐; 供给午餐 时 态: lunched, lunching, lunches 名 词: luncher"
+603,bird,"/bɜːd//bɝd/ - n. 鸟；家伙；羽毛球 - vt. 向…喝倒彩；起哄 - vi. 猎鸟；观察研究野鸟 Bird伯德 (男子或女子名, 亦作Byrd) 时 态: birded, birding, birds 名 词: birding..."
+604,prevent,"/prɪ'vent//pri'vɛnt/ - vt. 预防，防止；阻止 - vi. 妨碍，阻止 时 态: prevented, preventing, prevents 名 词: preventability or 形容词: preventable or 名 词: preventer..."
+605,performance,"/pə'fɔːm(ə)ns//pɚ'fɔrməns/ - n. 演出, 表演 - 履行, 执行 - 表现, 行为, 成就 - 性能, 工作情况"
+606,running,/'rʌnɪŋ//'rʌnɪŋ/ - n. 跑步 - adj. 流动的 - 赶紧做某人喜欢的事；欣然顺从某人的要求 - 有/没有成功的机会；能/不能获得(某物) - 领先；积极带头 - 持续的争论；持久战 - 滚开；走开 - 运行良好地...
+607,latest,/'leɪtɪst//'letɪst/ - adj. 最新的，最近的；最迟的 - n. 最新的事物 - vt. 最新地
+608,various,/'veərɪəs//'vɛrɪəs/ adj. 各种各样的；多方面的 副 词: variously 名 词: variousness
+609,justice,"/'dʒʌstɪs//'dʒʌstɪs/ - n. 正义; 公正, 合理 - 法律制裁; 司法; 审判 - 法官"
+610,site,"/saɪt//saɪt/ - n. 位置, 场所, 地点 - vt. 使坐落在; 设置 时 态: sited, siting, sites"
+611,entire,/ɪn'taɪə//ɪn'taɪɚ/ adj. 全部的，整个的；全体的 名 词: entireness
+612,fashion,"/'fæʃ(ə)n//'fæʃən/ - n. 样式；时尚；时装；时髦人物 - vt. 做成…的形状；使用；改变 时 态: fashioned, fashioning, fashions 名 词: fashioner"
+613,block,"/blɔk//blɑk/ - n. 块；街区；障碍物；大厦 - vt. 阻塞；阻止；限制 - adj. 成批的，大块的；交通堵塞的 Block布洛克, 赫伯特·劳伦斯((生于 1909) 美国卡通片制作者, 优秀作品曾见诸《华盛顿邮报》 及遍布全国的200多家报纸。他获得了1942年和1954年的普利策奖) 时 态: blocked, blocking, blocks 名 词: blocker..."
+614,eat,"/iːt//it/ vt. & vi. 吃, 喝; 吃饭 EATabbr. Earliest Arrival Time 最早到达时间 时 态: ate eaten eating, eats 名 词: eater"
+615,coast,"/kəʊst//kost/ n. 海岸 时 态: coasted, coasting, coasts 形容词: coastal"
+616,institution,"/ɪnstɪ'tjuːʃ(ə)n//ˌɪnstɪ'tuʃən/ - n. 惯例, 习俗; 制度 - 为人熟知常在某处的人 - 知名人士, 名流 - 慈善机构 - 建立, 制定"
+617,chapter,"/'tʃæptə//'tʃæptɚ/ n. 章, 回, 篇"
+618,threat,"/θret//θrɛt/ - n. 威胁, 恐吓 - 可能造成威胁的人[事, 想法] - 恶兆, 兆头 时 态: threated, threating, threats"
+619,boat,"/bəʊt//bot/ - n. 小船；轮船 - vi. 划船 时 态: boated, boating, boats"
+620,hang,"/hæŋ//hæŋ/ - vt. & vi. 悬, 挂, 垂下 - (被)绞死, 吊死 - 贴, 固定, 安装 时 态: hung hanging, hangs"
+621,patient,"/'peɪʃ(ə)nt//'peʃnt/ - adj. 忍耐的, 有耐心的 - n. 患者, 病人 副 词: patiently"
+622,approve,"/ə'pruːv//ə'prʊv/ - vt. 批准；赞成；为…提供证据 - vi. 批准；赞成；满意 时 态: approved, approving, approves 形容词: approvable 副 词: approvingly..."
+623,mistake,"/mɪ'steɪk//mɪ'stek/ - n. 错误, 过失, 失策 - 误解, 误会 - vt. & vi. 弄错; 误解 - vt. 认不出 时 态: mistook mistaken mistaking, mistakes 名 词: mistaker"
+624,necessary,/'nesəs(ə)rɪ//'nɛsəsɛri/ - adj. 必要的; 必需的 - 必然的; 不可避免的 - n. 必需品
+625,journal,/'dʒɜːn(ə)l//'dʒɝnl/ n. 日报，杂志；日记；[经]分类账
+626,theatre,/'θiətə//ˈθiətɚ/ n. 电影院，戏院；戏剧；阶梯式讲堂
+627,behaviour,"/bɪ'heɪvjə//bɪˈhevjɚ/ n. 行为, 举止, 表现"
+628,affect,"/ə'fekt//ə'fɛkt/ - vt. 影响；假装；感动；感染 - vi. 倾向；喜欢 - n. 情感；引起感情的因素 时 态: affected, affecting, affects 名 词: affecter"
+629,promise,"/'prɒmɪs//'prɑmɪs/ - n. 许诺，允诺；希望 - vt. 允诺，许诺；给人以…的指望或希望 - vi. 许诺；有指望，有前途 时 态: promised, promising, promises 名 词: promiser..."
+630,editor,"/'edɪtə//'ɛdɪtɚ/ n. 编辑, 编者, 校订者"
+631,memory,/'mem(ə)rɪ//'mɛməri/ n. 记忆，记忆力；回忆；内存，存储器
+632,estimate,"/'estɪmeɪt//'ɛstə,met/ - vi. 估计，估价 - n. 估计，估价；判断，看法 - vt. 估计，估量；判断，评价 时 态: estimated, estimating, estimates 形容词: estimative 名 词: estimator..."
+633,standard,"/'stændəd//'stændɚd/ - n. 标准, 水准, 规范 - 平均质量; 业务水平 - 旗帜, 标杆 - 支柱, 基座 副 词: standardly"
+634,survey,"/sə'veɪ//'sɝve/ - n. 调查；测量；纵览；审视 - vt. 调查；勘测；俯瞰 - vi. 测量土地 时 态: surveyed, surveying, surveys 名 词: surveyor"
+635,adopt,"/ə'dɒpt//ə'dɑpt/ - vt. 收养 - 采用, 采纳, 采取 - 正式接受, 通过 时 态: adopted, adopting, adopts 形容词: adoptable 名 词: adopter 名 词: adoption..."
+636,desk,/desk//dɛsk/ - n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架 - adj. 书桌的；桌上用的；伏案做的
+637,management,"/'mænɪdʒm(ə)nt//'mænɪdʒmənt/ - n. (企业等的)管理, 经营 - 管理人员, 管理部门; 资方 - 与人交往的技巧, 手腕"
+638,pretty,"/'prɪtɪ//'prɪti/ - adj. 漂亮的；可爱的；优美的 - adv. 相当地；颇 - n. 漂亮的人 比较级: prettier, prettiest 副 词: prettily 名 词: prettiness"
+639,opinion,"/ə'pɪnjən//ə'pɪnjən/ - n. 意见, 看法, 主张 - 舆论 - 评价, 印象 - 专业性的鉴定, 劝告"
+640,TV,/ˈti:ˈvi://ˈtiˈvi/ abbr. 电视（television）
+641,project,"/'prɔdʒekt//prəˈdʒɛkt/ - vt. 规划 - 抛; 投; 射 - vt. & vi. 伸出, 突出; 表达特点 - n. 项目, 计划, 方案, 课题 时 态: projected, projecting, projects 形容词: projectable..."
+642,practice,"/ˈpræktis//'præktɪs/ - n. 练习, 实习 - 实践, 实际 - (医生或律师的)业务; 诊所; 律师事务所 - 惯例, 常规 时 态: practiced, practicing, practices 名 词: practicer..."
+643,strike,"/straɪk//straɪk/ - vi. 罢工；打，打击；敲，敲击；抓；穿透；打动 - vt. 罢工；打，击；侵袭；打动；撞击，冲击；到达 - n. 罢工；打击；殴打 时 态: struck struck, stricken striking, strikes..."
+644,dry,"/draɪ//draɪ/ - adj. 干的；口渴的；禁酒的；枯燥无味的 - vt. 把…弄干 - vi. 变干 - n. 干涸 比较级: drier , dryer driest , dryest 副 词: dryly or 名 词: dryness..."
+645,achieve,"/ə'tʃiːv//ə'tʃiv/ - vt. 取得, 获得 - 实现, 达到, 完成 时 态: achieved, achieving, achieves 形容词: achievable 名 词: achiever"
+646,launch,"/lɔːn(t)ʃ//lɔntʃ/ - vt. 发射（导弹、火箭等）；发起，发动；使…下水 - vi. 下水；开始；起飞 - n. 发射；下水；汽艇；发行，投放市场 时 态: launched, launching, launches..."
+647,animal,/'ænɪm(ə)l//'ænɪml/ n. 动物
+648,cell,"/sel//sɛl/ - n. 细胞；电池；蜂房的巢室；单人小室 - vi. 住在牢房或小室中 时 态: celled, celling, cells"
+649,AIDS,"/edz/ n. 艾滋病 Aidsabbr. Acquired Immune Deficiency Syndrome 艾滋病, 获得性免疫功能丧失综合征"
+650,Christian,/'krɪstɪən//'krɪstʃən/ - n. 基督教徒 - adj. 信基督教的; 基督教的; 基督教徒的 形容词: Christianly
+651,emerge,"/ɪ'mɜːdʒ//ɪ'mɝdʒ/ vi. 出现; 显出; 暴露 时 态: emerged, emerging, emerges"
+652,writing,/'raɪtɪŋ//'raɪtɪŋ/ - n. 笔迹；作品；书写；著作 - v. 书写（write的ing形式）
+653,edge,"/edʒ//ɛdʒ/ - n. 边缘；刀刃；优势；锋利 - vt. 使锐利；将…开刃；给…加上边 - vi. 缓缓移动；侧着移动 EDGEabbr. Electronic Data Gathering Equipment 电子数据采集设备 时 态: edged, edging, edges 形容词: edgeless..."
+654,finance,"/faɪ'næns//'faɪnæns/ - n. 财政，财政学；金融 - vt. 负担经费，供给…经费 - vi. 筹措资金 时 态: financed, financing, finances 形容词: financeable"
+655,dream,"/driːm//drim/ - n. 梦 - 梦一般美好的人或事物 - 抱负, 理想, 梦想 - vt. & vi. 做梦; 向往 - vt. 想到, 料到 时 态: dreamed, dreamt dreaming, dreams"
+656,order,"/'ɔːdə//'ɔrdɚ/ - n. 命令；顺序；定单；规则 - vt. 命令；定购；整理 - vi. 命令；定货 时 态: ordered, ordering, orders 名 词: orderer"
+657,wave,"/weɪv//wev/ - vi. 波动；起伏；摇动；呈波形；挥手示意 - vt. 向…挥手示意；使成波浪形；卷（烫）发 - n. 波浪；波动；高潮；卷曲；挥手示意 时 态: waved, waving, waves 名 词: waver..."
+658,upon,/ə'pɒn//ə'pɑn/ prep. 在…之上；接近；根据
+659,inflation,/ɪn'fleɪʃ(ə)n//ɪn'fleʃən/ - n. (充气而引起的)膨胀 - 通货膨胀
+660,fruit,"/fruːt//frut/ - n. 成果, 结果 - 水果; 果实"
+661,difficulty,/'dɪfɪk(ə)ltɪ//'dɪfɪkəlti/ - n. 困难; 难度 - 难事; 麻烦
+662,split,"/split//splɪt/ - vt. 劈开；分离；使分离；离开 - vi. 被劈开；断绝关系；离开 - n. 裂缝；劈开 - adj. 劈开的 Split斯普利特(南斯拉夫港市) 时 态: split, splitting, splits 名 词: splitter..."
+663,surprise,/sə'praɪz//sɚ'praɪz/ - n. 惊奇，诧异；突然袭击 - vt. 使惊奇；奇袭 - adj. 令人惊讶的 时 态: surprisedalso surprized surprisingsurprizing surprisessurprizes 名 词: surpriser 形容词: surprising 副 词: surprisingly...
+664,reveal,"/rɪ'viːl//rɪ'vil/ - vt. 显示; 露出 - 泄露; 透露 时 态: revealed, revealing, reveals 形容词: revealable 名 词: revealer 名 词: revealment"
+665,sector,"/'sektə//ˈsɛktɚ/ - n. 部门；扇形，扇区；象限仪；函数尺 - vt. 把…分成扇形 时 态: sectored, sectoring, sectors 形容词: sectorial"
+666,usually,"/'ju:ʒuəli/ adv. 通常, 平常, 惯常地"
+667,majority,/mə'dʒɒrɪtɪ//mə'dʒɔrəti/ n. 多数；[律]成年
+668,payment,"/'peɪm(ə)nt//'pemənt/ - n. 支付, 付款, 缴纳, 报酬 - 付出的[要付出的]款项 - 报答, 报偿"
+669,legal,/'liːg(ə)l//'ligl/ adj. 法律上的; 合法的; 法定的 副 词: legally
+670,depend,"/dɪ'pend//dɪ'pɛnd/ vi. 依赖，依靠；相信，信赖；取决于 时 态: depended, depending, depends"
+671,deny,"/dɪ'naɪ//dɪ'nai/ - vt. 否认知情 - 拒绝 时 态: denied, denying, denies"
+672,festival,/'festɪv(ə)l//'fɛstɪvl/ - n. 节日；庆祝，纪念活动；欢乐 - adj. 节日的，喜庆的；快乐的
+673,represent,"/reprɪ'zent//ˌrɛprɪ'zɛnt/ - vt. 表现, 描绘 - 代表, 象征, 表示 - 作为…的代表 时 态: represented, representing, represents 名 词: representability 形容词: representable 名 词: representer..."
+674,flow,"/fləʊ//flo/ - vi. 流动，涌流；飘扬；川流不息 - vt. 淹没，溢过 - n. 流动；流量；涨潮，泛滥 时 态: flowed, flowing, flows 副 词: flowingly"
+675,perfect,"/'pɜːfɪkt//'pɝfɪkt/ - adj. 完美的, 完善的, 理想的 - 完整的; 完好无损的; 无缺陷的 - 完全的, 绝对的 - 正确的, 精确的 - vt. 使…完美; 改善 时 态: perfected, perfecting, perfects 名 词: perfecter 名 词: perfectness..."
+676,negotiation,"/nɪgəʊʃɪ'eɪʃ(ə)n//nɪ,ɡoʃɪ'eʃən/ - n. 协商, 谈判 - 完成(难事);通过"
+677,insurance,"/ɪn'ʃʊər(ə)ns//ɪn'ʃʊrəns/ - n. 保险 - 保险业 - 保险费 - 保险措施, 安全保障"
+678,doctor,"/'dɒktə//'dɑktɚ/ - n. 医生；博士 - vt. 为…治病；授以博士学位；修理；窜改，伪造 - vi. 行医；就医 时 态: doctored, doctoring, doctors 形容词: doctoral 形容词: doctorly..."
+679,fast,"/fɑːst//fæst/ - adj. 快速的，迅速的；紧的，稳固的 - adv. 紧紧地；彻底地；迅速地 - vi. 禁食，斋戒 - n. 斋戒；绝食 FASTabbr. Facility for Automatic Sorting and Testing 自动分类与测试设备 比较级: faster, fastest..."
+680,earlier,/'ɝlɪr/ - adj. 早的；初期的 - adv. 早地；早先的时候
+681,leg,"/leg//lɛɡ/ n. 腿；支柱 时 态: legged, legging, legs"
+682,brief,"/briːf//brif/ - adj. 简短的，简洁的；短暂的，草率的 - n. 概要，诉书；摘要，简报 - vt. 作…的提要；简报，摘要 比较级: briefer, briefest 名 词: briefer 副 词: briefly 名 词: briefness..."
+683,Muslim,"/ˈmuslim//ˈmʌzləm/ - n. 穆斯林; 伊斯兰教信徒 - adj. 穆斯林的, 伊斯兰教信徒的 形容词: Muslim"
+684,troop,"/truːp//trʊp/ - n. 军队, 部队 - 一群, 一队 - vi. 成群结队地走 时 态: trooped, trooping, troops"
+685,method,"/'meθəd//'mɛθəd/ - n. 方法, 办法 - 秩序, 条理"
+686,measure,"/'meʒə//'mɛʒɚ/ - n. 措施；程度；测量；尺寸 - vt. 测量；估量；权衡 - vi. 测量；估量 时 态: measured, measuring, measures 名 词: measurer"
+687,suddenly,/ˈs ʌdnlɪ//'sʌdənli/ adv. 忽然；突然地
+688,discussion,"/dɪ'skʌʃ(ə)n//dɪ'skʌʃən/ n. 讨论, 商讨"
+689,broad,"/brɔːd//brɔd/ - adj. 宽的, 阔的; 广的 - 宽宏的, 胸襟开阔的 - 清楚的, 明显的 - 大概的, 不详细的 比较级: broader, broadest 副 词: broadly 名 词: broadness..."
+690,media,/'miːdɪə//ˈmidiə/ n. 媒体；媒质（medium的复数）；血管中层；浊塞音；中脉 MEDIAabbr. Magnavox Electronic Data Image Apparatus 马格纳沃克斯公司的电子数据图象设备 Media米底(亚洲西部一古国) 形容词: Median...
+691,somebody,/'sʌmbədɪ//'sʌmbədi/ - n. 大人物；重要人物 - pron. 某人；有人
+692,detail,"/'diːteɪl//'ditel/ - n. 细目, 细节; 小事 - 各种细节, 详情 时 态: detailed, detailing, details 名 词: detailer"
+693,attract,"/ə'trækt//ə'trækt/ - vt. 吸引, 引起…的注意 - vi. 具有吸引力 时 态: attracted, attracting, attracts 形容词: attractable 名 词: attracter or"
+694,will,"/wɪl//wɪl/ - n. 意志；意图；心愿；情感；遗嘱 - vt. 用意志力使；遗赠；决心要 - vi. 愿意；下决心 时 态: willed, willing, wills"
+695,no one,no one 没有人
+696,hotel,/həʊ'tel//ho'tɛl/ - n. 旅馆，饭店；客栈 - vt. 使…在饭店下榻 - vi. 进行旅馆式办公
+697,weekend,"/wiːk'end//'wikɛnd/ n. 周末 时 态: weekended, weekending, weekends"
+698,customer,/'kʌstəmə//'kʌstəmɚ/ n. 顾客；[口]家伙
+699,born,"/bɔ:n//bɔrn/ - v. 出世（bear的过去分词） - adj. 天生的 Born博恩(①姓氏 ②Max, 1882-1970, 德国物理学家, 曾获1954年诺贝尔物理学奖)"
+700,double,"/'dʌb(ə)l//'dʌbl/ - adj. 双的, 双重的 - 供两人用的, 双人的 - 两面派的, 虚伪的 - n. 两倍, 双份 - 极为相似的人 - vt. 把…对折, 折叠 - vt. & vi. 是…的两倍, (使)加倍 - 兼任, 兼作 - vi. 折回, 掉头 时 态: doubled, doubling, doubles 名 词: doubleness..."
+701,cream,"/kriːm//krim/ n. 奶油，乳脂；乳酪；精华；面霜 时 态: creamed, creaming, creams 形容词: cream"
+702,dark,"/dɑːk//dɑrk/ - adj. 黑暗的，深色的；无知的；模糊的；忧郁的 - n. 黑暗；黄昏；模糊；夜 比较级: darker, darkest 缩 写: dk 形容词: darkish 副 词: darkly 名 词: darkness..."
+703,simple,"/'sɪmp(ə)l//'sɪmpl/ - adj. 简单的；单纯的；天真的 - n. 愚蠢的行为；笨蛋；出身低微者 比较级: simpler, simplest 名 词: simpleness"
+704,commercial,"/kə'mɜːʃ(ə)l//kə'mɝʃəl/ adj. 商业的, 商务的 副 词: commercially"
+705,hand,"/hænd//hænd/ - n. 手，手艺；指针；插手；帮助 - vt. 搀扶；传递，交给；支持 时 态: handed, handing, hands 名 词: hander 形容词: handless"
+706,dog,"/dɒg//dɔɡ/ - n. 公狗, 狗; 犬科动物 - 家伙 - vt. 紧随; 纠缠 DOGabbr. Data Output Gate 数据输出门 时 态: dogged, dogging, dogs"
+707,dispute,"/dɪ'spjuːt//'dɪs'pjʊt/ - vt. 辩论；阻止；抗拒；怀疑 - vi. 争论 - n. 辩论；争吵 时 态: disputed, disputing, disputes 名 词: disputer"
+708,especially,"/ɪ'speʃ(ə)lɪ//ɪ'spɛʃəli/ adv. 尤其, 特别"
+709,dramatic,"/drə'mætɪk//drə'mætɪk/ - adj. 戏剧的, 剧本的 - 戏剧性的, 激动人心的 - 引人注目的, 给人深刻印象的 副 词: dramatically"
+710,duty,/'djuːtɪ//'dʊti/ n. 责任；职务；关税
+711,holiday,"/'hɒlɪdeɪ//'hɑləde/ - n. 假日；节日；休息日 - vi. 外出度假 时 态: holidayed, holidaying, holidays 名 词: holidayer"
+712,secret,/'siːkrɪt//'sikrət/ - n. 秘密；秘诀；机密 - adj. 秘密的；机密的 副 词: secretly
+713,uncle,"/'ʌŋk(ə)l//'ʌŋkl/ n. 伯父, 叔父, 舅父, 姑父, 姨父 形容词: uncleless"
+714,lord,"/lɔːd//lɔrd/ - n. 领主, 君主, 贵族 - 上帝 时 态: lorded, lording, lords"
+715,set-up,"/'setʌp//'sɛt,ʌp/ - n. 组织,机构;(事物的)安排,结构;体制 - 计划,方案 - 姿势,姿态(尤指军人般挺直的姿态) - (机械等操作前的)装配,调试;(材料等的)准备 - (常复数)供顾客自己调酒用的杯子和原料 - 故意安排使一方易胜的比赛;故意安排得容易达到的目标 - 易受骗的人..."
+716,realize,"/ˈriəlaiz//'riəlaɪz/ vt. 实现；了解；将某物卖得；认识到 时 态: realized, realizing, realizes 形容词: realizable 名 词: realizer"
+717,tie,"/taɪ//taɪ/ - n. 领带, 领结 - 关系; 联系 - 束缚, 牵连, 累赘 - vt. 系, 拴, 绑 - vt. & vi. 打结; 系上 时 态: tied, tying ties"
+718,nuclear,/'njuːklɪə//'nuklɪɚ/ adj. 原子能的；中心的；细胞核的；原子核的
+719,favourite,/'feivərit/ - adj. 特别受喜爱的 - n. 特别喜爱的人(或物) - 竞赛中被认为会获胜的马、竞争者等
+720,stone,"/stəʊn//ston/ - n. 石头, 石块, 石子 - 矿石, 石料 - 宝石 时 态: stoned, stoning, stones 名 词: stoner"
+721,smoke,"/sməʊk//smok/ - n. 烟；抽烟；无常的事物 - vi. 冒烟，吸烟；抽烟；弥漫 - vt. 吸烟；抽 时 态: smoked, smoking, smokes 形容词: smokable or"
+722,program,"/ˈprəuɡræm//'proɡræm/ - n. 程序；计划；大纲 - vt. 用程序指令；为…制订计划；为…安排节目 - vi. 编程序；安排节目；设计电脑程式 时 态: programmed, programed programming, programing programs, programs 名 词: programmability 形容词: programmable..."
+723,wound,"/wuːnd//wund/ - n. 创伤，伤口 - vt. 使受伤 - vi. 受伤，伤害 时 态: wounded, wounding, wounds 副 词: woundedly 副 词: woundingly"
+724,lady,"/'leɪdɪ//'ledi/ - n. 女士, 夫人, 小姐 - 举止文雅的女子, 淑女"
+725,income,/'ɪnkʌm//'ɪnkʌm/ n. 收入，收益；所得
+726,prefer,"/prɪ'fɜː//prɪ'fɝ/ - vt. 宁愿；更喜欢；提出；提升 - vi. 愿意；喜欢 时 态: preferred, preferring, prefers 名 词: preferrer"
+727,fully,/'fʊlɪ//'fʊli/ adv. 完全地；充分地；彻底地
+728,summit,/'sʌmɪt//'sʌmɪt/ - n. (山等的)最高点; 峰顶 - 高层会议
+729,photograph,"/'fəʊtəgrɑːf//'fotəɡræf/ - n. 照片, 相片 - vt. & vi. (给…)拍照 时 态: photographed, photographing, photographs 形容词: photographable 名 词: photographer..."
+730,quiet,"/'kwaɪət//'kwaɪət/ - adj. 轻声的, 安静的 - 不激动的; 平静的; 宁静的 - 不起眼的, 不显眼的; 暗中的 - vt. & vi. 安静下来; 使…安静, 平静 比较级: quieter, quietest 副 词: quietly 名 词: quietness..."
+731,fan,"/fæn//fæn/ - n. 扇子; 风扇; 扇形物 - 狂热爱好者, 迷 - vt. 扇 时 态: fanned, fanning, fans"
+732,border,"/'bɔːdə//'bɔrdɚ/ - n. 边, 边缘 - 边界, 边境 - vt. & vi. 与…接界, 在…的边上 时 态: bordered, bordering, borders 名 词: borderer"
+733,career,"/kə'rɪə//kə'rɪr/ n. 事业，职业；生涯 时 态: careered, careering, careers"
+734,eighteenth,"/'eɪ'tiːnθ//'e'tinθ/ - n. 第十八,十八分之一 - num. 第十八 副 词: eighteenth"
+735,sometimes,"/'sʌmtaɪmz//'sʌmtaɪmz/ adv. 有时, 间或"
+736,reduce,"/rɪ'djuːs//rɪ'dʊs/ - vt. 减少；降低；把…分解；使处于 - vi. 减少；缩小；归纳为 时 态: reduced, reducing, reduces 名 词: reducer 名 词: reducibility 形容词: reducible 副 词: reducibly..."
+737,happy,"/'hæpɪ//'hæpi/ adj. 高兴的；幸福的；巧妙的 比较级: happier, happiest 副 词: happily 名 词: happiness"
+738,variety,"/və'raɪətɪ//və'raɪəti/ - n. 品种, 种类 - 种种, 各种 - 变化, 多样化"
+739,agency,/'eɪdʒ(ə)nsɪ//'edʒənsi/ n. 代理，中介；代理处，经销处
+740,grand,"/grænd//ɡrænd/ - adj. 宏伟的；豪华的；极重要的 - n. 大钢琴；一千美元 比较级: grander, grandest 副 词: grandly 名 词: grandness"
+741,prince,/prins//prɪns/ n. 王子，国君；亲王；贵族 PRINCEabbr. Parts Reliability Information Center (NASA)零件可靠性情报中心 PRINCEabbr. Parts Reliability Information Center 〈美〉(NASA)零件可靠性情报中心 名 词: princeship...
+742,kid,"/kɪd//kɪd/ - n. 小孩; 年轻人 - 小山羊; 小山羊皮 - vt. & vi. 欺骗, 戏弄, 取笑 时 态: kidded, kidding, kids 名 词: kidder 副 词: kiddingly"
+743,amount,"/ə'maʊnt//ə'maʊnt/ - vi. 总计，合计；共计；相当于；产生…结果 - n. 数量；总额，总数 时 态: amounted, amounting, amounts"
+744,aspect,"/'æspekt//'æspɛkt/ - n. 方面 - 方位, 朝向 - 面貌, 模样, 神态"
+745,reject,"/rɪ'dʒekt//rɪ'dʒɛkt/ - vt. 拒绝；抵制；丢弃；排斥 - n. 被弃之物或人；次品 时 态: rejected, rejecting, rejects 名 词: rejecter or 形容词: rejective..."
+746,successful,/sək'sesfʊl//sək'sɛsfl/ adj. 成功的; 如愿以偿的; 达到目的 副 词: successfully 名 词: successfulness
+747,fill,"/fɪl//fɪl/ - vt. 装满，使充满；满足；堵塞；任职 - vi. 被充满，膨胀 - n. 满足；填满的量；装填物 时 态: filled, filling, fills"
+748,approach,"/ə'prəʊtʃ//ə'protʃ/ - vt. & vi. 接近, 走近, 靠近 - vt. 接洽, 交涉; 着手处理 - n. 靠近, 接近, 临近 - 通路, 入口, 途径 - 方式, 方法 时 态: approached, approaching, approaches..."
+749,king,"/kɪŋ//kɪŋ/ - n. 君主, 国王 - 重要的人[动物, 事物]; 大王 时 态: kinged, kinging, kings"
+750,supposed,/sə'pəʊzd//sə'pozd/ - adj. 假定的;想像上的;被信以为真的 - (按规定、法律、协议等)(不) 应当， 理应 - (只用于否定句)不准；不应当 - (对某人所说的话表示气愤或不大理解)那是什么意思 副 词: supposedly...
+751,chair,"/tʃeə//tʃɛr/ - n. 椅子 - 大学教授职位 - 主持会议的主席(的席位或职位) - vt. 主持 - 把胜利者高高抬起 时 态: chaired, chairing, chairs"
+752,debate,"/dɪ'beɪt//dɪ'bet/ - vt. 辩论，争论，讨论 - vi. 辩论，争论，讨论 - n. 辩论；辩论会 时 态: debated, debating, debates 名 词: debatement 名 词: debater..."
+753,feed,"/fiːd//fid/ - vt. 喂养, 为…提供食物 - 向…提供 - vi. 吃, 以…为食 时 态: fed feeding, feeds"
+754,award,"/ə'wɔ:d//əˈwɔrd/ - vt. 授予；判定 - n. 奖品；判决 时 态: awarded, awarding, awards 形容词: awardable 名 词: awarder"
+755,theory,/'θɪərɪ//'θiəri/ n. 理论；原理；学说；推测
+756,seed,/siːd//sid/ - n. 种子；萌芽；原由；根据；子孙；精液 - vt. 播种；结实；成熟；去…籽 - vi. 播种；（植物）结实
+757,element,"/'elɪm(ə)nt//ˈɛləmənt/ - n. (化学)元素 - 成分, 要素, 原件 - 一伙人 - 基础, 纲要, 原理"
+758,thinking,"/θɪŋkɪŋ//'θɪŋkɪŋ/ - n. 思想, 思考 - 想法; 意见; 见解"
+759,trial,/'traɪəl//'traɪəl/ - n. 试验；磨炼；审讯；努力 - adj. 审讯的；试验的
+760,Corp.,"corporation 公司,财团法人"
+761,collection,"/kə'lekʃ(ə)n//kə'lɛkʃən/ - n. 收集; 收取, 领取 - 收藏品, 收集的东西 - 募集的款项, 捐款 - 积聚物; 集中在一起的人"
+762,floor,"/flɔː//flɔr/ - n. 地面, 地板 - 楼层 - 底 - 发言权 - vt. 给…铺地板 - 把…打倒在地 - 击败, 打败 时 态: floored, flooring, floors 名 词: floorer"
+763,plane,"/pleɪn//plen/ - n. 平面；飞机；程度，水平 - vi. 刨；翱翔；乘飞机旅行 - vt. 刨平；用刨子刨；掠过水面 - adj. 平的；平面的 时 态: planed, planing, planes 名 词: planeness..."
+764,score,"/skɔː//skɔ/ - n. 刻痕；配乐；分数；二十 - vt. 评价；获得；划线，刻划；把…记下 - vi. 得分；刻痕；记分 SCOREabbr. Satellite Computer-Operated Readiness Equipment 卫星上计算机操纵的准备装置 时 态: scored, scoring, scores 名 词: scorer..."
+765,possibly,/'pɒsɪblɪ//'pɑsəbli/ adv. 可能地；大概；也许
+766,politics,"/'pɒlɪtɪks//'pɑlətɪks/ - n. 政治活动 - 政治学 - 政论, 政见; 党派倾向 - 权术; 派别之争"
+767,afternoon,/ɑːftə'nuːn//ˌæftɚ'nun/ n. 下午
+768,decline,"/dɪ'klaɪn//dɪ'klaɪn/ - n. 下降, 减少, 衰退 - vt. & vi. 辞谢; 谢绝(邀请等) - vi. (太阳)落下 时 态: declined, declining, declines 形容词: declinable 名 词: decliner..."
+769,soft,"/sɒft//sɔft/ - adj. 温柔的，温和的；软的，柔软的；笨的；软弱的 - adv. 柔软地；温和地 - n. 柔性；柔软部分；柔软的东西 比较级: softer, softest 副 词: softly 名 词: softness..."
+770,pair,"/peə//pɛr/ - n. 一副, 一条, 一把; 一双, 一对 - 一对男女, 一对夫妇 - 雌雄成对的动物 - 套在一起的两匹马 - vt. & vi. (使…)成对, (使…)成双 - vi. 交配, 交尾..."
+771,severe,"/sɪ'vɪə//sɪ'vɪr/ adj. 严厉的；苛刻的；剧烈的；严峻的 比较级: severer, severest 副 词: severely 名 词: severeness"
+772,republican,"/rɪ'pʌblɪk(ə)n//rɪ'pʌblɪkən/ - adj. 共和国的, 共和政体的 - n. 拥护共和政体者, 共和主义者 名 词: republicanism"
+773,dominate,"/'dɒmɪneɪt//'dɑmɪnet/ - vt. 支配；控制；占优势；在…中占主要地位 - vi. 处于支配地位；占优势 时 态: dominated, dominating, dominates 形容词: dominative 名 词: dominator..."
+774,scientist,/'saɪəntɪst//'saɪəntɪst/ n. 科学家
+775,protection,"/prə'tekʃ(ə)n//prə'tɛkʃən/ - n. 保护, 保卫 - 贸易保护措施 - 防护物 - (向歹徒缴纳的)保护费 形容词: protectional"
+776,hardly,/'hɑːdlɪ//'hɑrdli/ adv. 几乎不，简直不；刚刚
+777,improve,"/ɪm'pruːv//ɪm'pruv/ - vt. 改善，增进；提高…的价值 - vi. 增加；变得更好 时 态: improved, improving, improves"
+778,statement,"/'steɪtm(ə)nt//'stetmənt/ - n. 声明, 陈述 - 结算单, 报表"
+779,grey,"/greɪ//ɡre/ - n. 灰色 - 灰色衣服 - adj. 灰色的, 灰白的 - 灰发的 - 灰暗的, 阴沉的 - 郁闷的, 单调乏味的 - 无生气的, 不突出的, 无名的 - 白人的"
+780,supreme,"/suː'priːm//sə'prim/ - adj. 最高的; 至上的 - 最重要的 比较级: supremer, supremest 缩 写: supr 副 词: supremely 名 词: supremeness"
+781,yourself,/jɔː'self//jɔr'sɛlf/ - pron. 你自己 - (用以加强语气)亲自
+782,fuel,/fjʊəl//'fjuəl/ - vi. 得到燃料 - vt. 供以燃料，加燃料 - n. 燃料；刺激因素 时 态: fueledalso fuelled fuelingfuelling fuelsfuels 名 词: fueler
+783,careful,/'keəfʊl//'kɛrfl/ adj. 仔细的，小心的 副 词: carefully 名 词: carefulness
+784,regular,/'regjʊlə//'rɛgjəlɚ/ - adj. 整齐的；定期的；有规律的；合格的 - n. 正式队员；常客；中坚分子 - adv. 经常地；定期地 名 词: regularity 副 词: regularly...
+785,style,"/staɪl//staɪl/ - n. 风格, 格调; 文体 - 行为方式, 作风 - 种类, 类型; 流行式样; 款式 - 风度; 格调; 气派 时 态: styled, styling, styles 名 词: styler 名 词: styling..."
+786,item,"/'aɪtəm//'aɪtəm/ n. 一项, 一件, 一条; 项目 时 态: itemed, iteming, items"
+787,mark,"/mɑːk//mɑrk/ - n. 马克；符号；痕迹；标志 - vi. 作记号 - vt. 做标记于；打分数；标志 Markn. (圣经)马可福音 时 态: marked, marking, marks"
+788,queen,"/kwi:n//kwin/ - n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王 - vt. 使…成为女王或王后 - vi. 做女王 Queen奎恩(姓氏) 时 态: queened, queening, queens..."
+789,mainly,/'meɪnlɪ//'menli/ adv. 主要地，大体上
+790,feeling,/'fiːlɪŋ//'filɪŋ/ - n. 感觉，触觉；感情，情绪；同情 - adj. 有同情心的；富于感情的；有感觉的 - v. 触摸；感觉；认为（feel的现在分词） 副 词: feelingly...
+791,blood,"/blʌd//blʌd/ - n. 血，血液；血统 - vt. 从…抽血；使先取得经验 时 态: blooded, blooding, bloods"
+792,above,/ə'bʌv//ə'bʌv/ - prep. 在……上面；在……之上；超过 - adv. 在上面；在上文 - adj. 上文的 - n. 上文
+793,please,"/pliːz//pliz/ - int. 请 - vt. & vi. (使…)高兴; (使…)满意 - 想要; 喜欢 时 态: pleased, pleasing, pleases 名 词: pleaser"
+794,lawyer,/'lɔːjə//'lɔjɚ/ n. 律师；法学家 副 词: lawyerly
+795,bottle,"/'bɒt(ə)l//'bɑtl/ - n. 瓶子 - vt. 把…装入瓶中 - 抑制; 控制 时 态: bottled, bottling, bottles 名 词: bottler"
+796,classic,/'klæsɪk//'klæsɪk/ - adj. 最优秀的；经典的；古典的，传统的 - n. 名著；大艺术家；经典著作
+797,interested,"/'ɪnt(ə)rɪstɪd//'ɪntrəstɪd/ - adj. 显得有兴趣, 感兴趣的 - 有私心的, 有偏见的 副 词: interestedly 名 词: interestedness"
+798,artist,/'ɑːtɪst//'ɑrtɪst/ n. 艺术家；美术家（尤指画家）；大师
+799,hundredth,/'hʌndrədθ//'hʌndrədθ/ - num. 第100个 - 百分之一 形容词: hundredth
+800,spread,"/spred//sprɛd/ - vi. 传播；伸展 - vt. 传播，散布；展开；伸展；铺开 - n. 传播；伸展 - adj. 伸展的 时 态: spread, spreading, spreads 名 词: spreadability 形容词: spreadable 副 词: spreadably..."
+801,rich,"/rɪtʃ//rɪtʃ/ adj. 富有的；肥沃的；昂贵的 比较级: richer, richest 副 词: richly 名 词: richness"
+802,thirtieth,/'θɜːtɪɪθ//'θɝtɪɪθ/ num. 第三十 副 词: thirtieth
+803,trip,"/trɪp//trɪp/ - vi. 绊倒；犯错误；远足；轻快地走 - n. 旅行；绊倒；差错 - vt. 绊倒；使犯错 TRIPabbr. transformation-induced plasticity 高强度及高延性 时 态: tripped, tripping, trips..."
+804,propose,"/prə'pəʊz//prə'poz/ vt. & vi. 提议; 建议 时 态: proposed, proposing, proposes 名 词: proposer"
+805,god,"/ɡɔd//ɡɑd/ - n. 神 - 上帝, 天主 - 极受崇敬的人; 过分注意的事物"
+806,leading,/'liːdɪŋ//'lidɪŋ/ - adj. 主要的；领导的 - n. 领导；[印刷]铅板；[计]行距 - v. 领导（lead的ing形式） 副 词: leadingly
+807,article,"/'ɑːtɪk(ə)l//'ɑrtɪkl/ - n. 物品, 物件 - 文章 - 条款 - 冠词 时 态: articled, articling, articles"
+808,fellow,"/'feləʊ//'fɛlo/ - n. 男子; 小伙子, 家伙 - (大学的)研究员, (学术团体的)会员 - 同伴, 同志"
+809,injury,/'ɪn(d)ʒ(ə)rɪ//'ɪndʒəri/ n. 伤害，损害；受伤处
+810,education,"/edjʊ'keɪʃ(ə)n//ˌɛdʒu'keʃən/ n. 教育; 培养, 训练"
+811,status,"/'steɪtəs//'stetəs/ - n. 身份, 地位 - 情形, 状况"
+812,correspondent,"/kɒrɪ'spɒnd(ə)nt//ˌkɔrə'spɑndənt/ - n. 通讯员, 记者 - 通信者 副 词: correspondently"
+813,slow,"/sləʊ//slo/ - adj. 慢的；减速的；迟钝的 - vi. 变慢；变萧条 - vt. 放慢；阻碍 - adv. 慢慢地；迟缓地 比较级: slower, slowest 缩 写: sl 副 词: slowly 名 词: slowness..."
+814,purple,"/'pɜːp(ə)l//'pɝpl/ - adj. 紫的 - n. 紫色 - 紫(红)衣, 紫(红)袍 时 态: purpled, purpling, purples"
+815,remove,"/rɪ'muːv//rɪ'muv/ - vt. 移动，迁移；开除；调动 - vi. 移动，迁移；搬家 - n. 移动；搬家；距离 时 态: removed, removing, removes 名 词: remover"
+816,nobody,/'nəʊbədɪ//ˈnoˌbɑdi/ - pron. 无人，没有人；没有任何人 - n. 小人物；无名小卒
+817,board,"/bɔːd//bɔrd/ - n. 板, 牌子, 黑板 - 纸板, 木板 - 委员会, 董事会 - (包饭的)伙食 - vt. 用木板覆盖或封闭 - 上(船、车或飞机) - vt. & vi. 搭伙(并寄宿), 收费供膳食(及住宿) 时 态: boarded, boarding, boards..."
+818,stable,"/'steɪb(ə)l//'stebl/ - n. 马厩；牛棚 - adj. 稳定的；坚定的；牢固的 - vi. 被关在马厩 - vt. 赶入马房 比较级: stabler, stablest 名 词: stableness 副 词: stably..."
+819,county,"/'kaʊntɪ//'kaʊnti/ n. 郡, 县 形容词: county"
+820,considerable,/kən'sɪd(ə)rəb(ə)l//kən'sɪdərəbl/ adj. 相当大(或多)的 副 词: considerably
+821,highly,/'haɪlɪ//'haɪli/ adv. 非常；高度地；非常赞许地
+822,asset,/'æset//'æsɛt/ n. 资产；有用的东西；有利条件；优点
+823,mortgage,"/'mɔːgɪdʒ//'mɔrɡɪdʒ/ - n. 抵押借款 - 抵押债款的利息 - vt. 抵押 时 态: mortgaged, mortgaging, mortgages"
+824,sir,/sɜː//sɝ/ n. 阁下，先生 SIRabbr. Static Information Record 统计资料记录 Sirn. （对爵士或男爵前的尊称）爵士
+825,association,"/əsəʊsɪ'eɪʃ(ə)n//ə,soʃɪ'eʃən/ - n. 协会, 社团 - 联合, 结合, 交往 形容词: associational"
+826,reaction,/rɪ'ækʃ(ə)n//rɪ'ækʃən/ n. 反应，感应；反作用；反动，复古
+827,increasingly,"/ɪn'kriːsɪŋlɪ//ɪn'krisɪŋli/ adv. 日益, 越来越多地"
+828,deep,"/di:p//dip/ - adj. 深的 - 位于深处的, 纵深的 - 深色的, 浓重的 - 声音低沉的 - 强烈的, 极度的, 深厚的 - 严重的, 深厚的 - 理解深刻的 - 深奥的, 神秘的 - adv. 深入地, 深深地 - 到很晚 比较级: deeper, deepest 副 词: deeply 名 词: deepness..."
+829,commit,"/kə'mɪt//kə'mɪt/ - vt. 犯罪; 犯错 - 承诺; 使自己受约束 - 托付; 交付 时 态: committed, committing, commits 形容词: committable"
+830,rival,"/ˈraivəl//'raɪvl/ - n. 竞争对手 - vt. 与…竞争, 与…匹敌 时 态: rivaled, rivalled rivaling, rivalling rivals, rivals"
+831,flat,"/flæt//flæt/ - adj. 平坦的；单调的；浅的；扁平的 - adv. 断然地；平直地 - n. 平地；平面；公寓 - vi. 变平 - vt. 使变平 比较级: flatter, flattest 副 词: flatly 名 词: flatness..."
+832,discover,"/dɪ'skʌvə//dɪ'skʌvɚ/ - vt. 发现 - 碰见, 撞见 - 了解到, 认识到, 发觉 时 态: discovered, discovering, discovers 形容词: discoverable 名 词: discoverer"
+833,accepted,/ək'septɪd//ək'sɛptɪd/ - adj. 公认的；已承兑的；可接受的；录取的 - v. 接受（accept的过去式及过去分词）
+834,rebel,"/'reb(ə)l//rɪ'bɛl/ - n. 反政府的人; 反叛者; 造反者 - 叛逆者 - vi. 反抗政府; 造反 - 反抗权威; 叛逆 时 态: rebelled, rebelling, rebels"
+835,grant,"/ɡrɑ:nt//ɡrænt/ - vt. 准许; 答应给予 - 承认 - n. 补助金, 助学金, 津贴 Grant格兰特(①姓氏, 男子名 ②Ulysses Simpson , 1822-1885, 美国南北战争时北军总司令, 第18任总统) 时 态: granted, granting, grants 形容词: grantable 名 词: granter..."
+836,relationship,"/rɪ'leɪʃ(ə)nʃɪp//rɪ'leʃən'ʃɪp/ n. 关系, 联系"
+837,enter,"/'entə//'ɛntɚ/ - vt. & vi. 进入, 进去 - 参加, 加入 - 登记, 登录 时 态: entered, entering, enters 形容词: enterable"
+838,direction,"/dɪ'rekʃ(ə)n//daɪ'rɛkʃən/ - n. 方向, 趋向, 趋势, 动向 - 方面, 范围 - 指南, 指示, 说明 - 管理, 指导 - 姓名和地址 形容词: directionless"
+839,urge,"/'ɜːdʒ//ɝdʒ/ - vt. 力劝; 敦促 - 鼓励; 极力主张 - 驱策, 促使 - n. 强烈的愿望 时 态: urged, urging, urges"
+840,third,/θɜːd//θɝd/ - n. 第三 - 三分之一 - adj. 第三的 - 三分之一的 - (对某人)逼供，疲劳讯问，刑讯 - 第三次运气就好了 副 词: third
+841,attitude,/'ætɪtjuːd//'ætɪtʊd/ n. 态度；姿势；看法；意见 形容词: attitudinal
+842,thus,"/ðʌs//ðʌs/ - adv. 以此方式, 如此, 这样 - 其结果是, 因此, 于是"
+843,therefore,"/'ðeəfɔː//'ðɛrfɔr/ - adv. 因此, 为此, 所以 - 故…; 由此得出"
+844,instance,"/'ɪnst(ə)ns//'ɪnstəns/ n. 例子, 实例 时 态: instanced, instancing, instances"
+845,leadership,"/'liːdəʃɪp//'lidɚʃɪp/ - n. 领导; 领导权 - 领导阶层, 领导人员"
+846,private,/'praɪvət//'praɪvət/ - adj. 私人的；私有的；私下的 - n. 列兵；二等兵 副 词: privately 名 词: privateness
+847,focus,"/'fəʊkəs//'fokəs/ - vt. & vi. (使)集中, (使)聚集 - 调整(镜头, 眼睛)焦点[焦距]以便看清 - n. 焦点, 焦距; 中心 FOCUSabbr. Forum of Control Users 控制数据公司用户论坛 FOCUSabbr. Forum of Control Users 〈美〉控制数据公司用户论坛 名 词: focuser..."
+848,huge,"/hjuːdʒ//hjudʒ/ adj. 巨大的, 庞大的 比较级: huger, hugest 副 词: hugely 名 词: hugeness"
+849,volume,"/'vɒljuːm//'vɑljum/ - n. 卷, 册, 书卷 - 体积; 容积, 容量 - 音量, 响度"
+850,speed,"/spiːd//spid/ - vi. 加速，迅速前行；超速，加速；兴隆 - n. 速度，速率；迅速，快速；昌盛，繁荣 - vt. 加快…的速度；使成功，使繁荣 时 态: sped , speeded speeding, speeds..."
+851,copy,/'kɒpɪ//'kɑpi/ - vi. 复制；复印；抄袭 - vt. 复制；复印；抄袭 - n. 副本；一册；摹仿 形容词: copyable
+852,journalist,/'dʒɜːn(ə)lɪst//'dʒɝnlɪst/ n. 记日志者；新闻工作者；报人
+853,aunt,/ɑːnt//ænt/ n. 伯母；阿姨；舅妈；姑妈 名 词: aunthood
+854,comment,"/'kɒment//'kɑmɛnt/ - n. 评论；意见；批评 - vi. 发表评论；发表意见 - vt. 为…作评语 时 态: commented, commenting, comments"
+855,progress,"/'prəʊgres//'prɑɡrɛs/ - n. 进步，发展；前进 - vi. 进行；前进，进步 时 态: progressed, progressing, progresses"
+856,painting,"/'peɪntɪŋ//'pentɪŋ/ - n. 上油漆; 绘画艺术 - (一幅)水彩画, 油画"
+857,employee,"/emplɒɪ'iː//ɪm'plɔɪi/ n. 雇工, 雇员"
+858,republic,"/rɪ'pʌblɪk//rɪ'pʌblɪk/ - n. 共和国, 共和政体 - 成员具有平等权利的)团体，界 Republicn. 共和国;共和政体"
+859,crisis,/'kraɪsɪs//'kraɪsɪs/ - n. 危机；决定性时刻；危险期 - adj. 危机的；用于处理危机的
+860,ignore,"/ɪg'nɔː//ɪɡ'nɔr/ vt. 驳回诉讼，忽视，不理睬 时 态: ignored, ignoring, ignores 形容词: ignorable 名 词: ignorer"
+861,individual,"/ɪndɪ'vɪdjʊ(ə)l//ˌɪndɪ'vɪdʒuəl/ - adj. 个别的, 单独的, 个人的 - 独特的 - n. 个人 - 人 副 词: individually"
+862,insist,"/ɪn'sɪst//ɪn'sɪst/ - vt. 坚持，强调 - vi. 坚持，强调 时 态: insisted, insisting, insists 名 词: insistence or 名 词: insister 副 词: insistingly..."
+863,egg,"/eg//ɛɡ/ - n. 蛋；卵子；[俚]家伙 - vt. 煽动；怂恿 时 态: egged, egging, eggs 形容词: eggless 形容词: eggy"
+864,specific,/spə'sɪfɪk//spə'sɪfɪk/ - adj. 特殊的，特定的；明确的；详细的；具有特效的 - n. 特效药；细节；特性 副 词: specifically 名 词: specificity
+865,communist,"/'kɒmjʊnɪst//'kɑmjənɪst/ - n. 共产主义者 - adj. 共产主义的, 信仰共产主义的"
+866,stock,"/stɒk//stɑk/ - n. 储备品, 供应物 - (商店的)现货, 存货 - 公债; 股份; 股票 - 原汤, 汤料 - 家系, 家世, 血统 - vt. 储备, 保持…的供应 - adj. 通常备有现货的; 常备的 - 常用的; 陈腐的 时 态: stocked, stocking, stocks 名 词: stockage 名 词: stocker..."
+867,enjoy,"/ɪn'dʒɒɪ//ɪn'dʒɔɪ/ - vt. 喜欢; 欣赏 - 享有, 享受 - 玩得快乐, 过得快活 时 态: enjoyed, enjoying, enjoys 形容词: enjoyable 副 词: enjoyably 名 词: enjoyer..."
+868,welcome,"/'welkəm//'wɛlkəm/ - adj. 受欢迎的 - n. 欢迎 - vt. 欢迎 - int. 欢迎 时 态: welcomed, welcoming, welcomes 副 词: welcomely 名 词: welcomeness 名 词: welcomer..."
+869,fiftieth,/'fɪftɪɪθ//'fɪftɪɪθ/ - num. 第五十；五十分之一 - adj. 第五十的；五十分之一的 副 词: fiftieth
+870,hair,/heə//hɛr/ - n. 头发；毛发；些微 - vt. 除去…的毛发 - vi. 生长毛发；形成毛状纤维 - adj. 毛发的；护理毛发的；用毛发制成的
+871,oh,/əʊ//o/ int. 哦；哎呀（表示惊讶或恐惧等）
+872,version,/'vɜːʃ(ə)n//'vɝʒn/ n. 译文；版本；[医]倒转术 形容词: versional
+873,marry,"/'mærɪ//'mæri/ - vt. 娶；嫁；与……结婚 - vi. 结婚 时 态: married, marrying, marries"
+874,express,"/ɪk'spres//ɪk'sprɛs/ - vt. 表达, 表示, 陈述 - 特快发送, 快运 - n. 快车 - 〈英〉快运 - adj. 特快的, 高速的 - 〈正〉明确的 - 丝毫不差的 - adv. 用快递方式 时 态: expressed, expressing, expresses 名 词: expresser 形容词: expressible..."
+875,liberal,/'lɪb(ə)r(ə)l//'lɪbərəl/ - adj. 慷慨的；不拘泥的；宽大的；自由主义的 - n. 自由主义者 副 词: liberally 名 词: liberalness
+876,advice,/əd'vaɪs//əd'vaɪs/ n. 通知；忠告；建议；劝告
+877,file,"/faɪl//faɪl/ - vt. 把…归档 - 提交(申请等), 呈递 - 用锉锉 - vi. 排成纵队前进 - n. 文件夹, 公文箱 - 卷宗, 文件; 计算机文件 - 纵列 时 态: filed, filing, files..."
+878,seat,"/siːt//sit/ - n. 坐席, 座位 - 所在地, 场所; 中心 - 席位, 职位 - vt. 使就座 - 使就职 - 可容纳若干座位 时 态: seated, seating, seats"
+879,anyway,"/'enɪweɪ//'ɛnɪ'we/ - adv. 不管怎样说, 无论如何, 至少 - 不论用何种方法, 无论从什么角度"
+880,soldier,"/'səʊldʒə//'soldʒɚ/ - n. 军人；兵蚁；懒汉；[口]一片烤面包 - vi. [口]磨洋工；当兵；坚持干；假称害病 时 态: soldiered, soldiering, soldiers"
+881,sex,"/seks//sɛks/ - n. 性别; 性 - 男性; 女性 - 性关系 - 性活动, 性行为 时 态: sexed, sexing, sexes"
+882,safety,/'seɪftɪ//'sefti/ n. 安全；保险；安全设备；保险装置；安打
+883,Senate,"/'senɪt//'sɛnət/ n. 参议院, 上院"
+884,fifth,/fɪfθ//fɪfθ/ - adj. 第五的；五分之一的 - n. 第五；五分之一 - num. 第五 副 词: fifth 副 词: fifthly
+885,science,/'saiəns//ˈsaɪəns/ n. 科学；理科；技术；学科
+886,commission,"/kə'mɪʃ(ə)n//kə'mɪʃən/ - n. 授权, 委托 - 委员会 - 佣金, 回扣 - vt. 委任, 委托 时 态: commissioned, commissioning, commissions 形容词: commissional"
+887,normal,/'nɔːm(ə)l//'nɔrml/ - adj. 正常的；正规的，标准的 - n. 常态；正常；标准 副 词: normally
+888,critic,/'krɪtɪk//'krɪtɪk/ n. 批评家，评论家；爱挑剔的人
+889,rapid,"/'ræpɪd//ˈræpɪd/ adj. 〈正〉快的; 急速的 比较级: rapider, rapidest 名 词: rapidity 副 词: rapidly"
+890,settle,"/'set(ə)l//'sɛtl/ - vi. 定居；下陷；解决；沉淀 - vt. 解决；安排；使…定居 - n. 有背长椅 时 态: settled, settling, settles 形容词: settleable"
+891,ball,"/bɔ:l//bɔl/ - n. 球, 球状物 - 舞会 Ball鲍尔(姓氏) 时 态: balled, balling, balls"
+892,truth,"/truːθ//trʊθ/ - n. 事实, 真相, 实情 - 真实性 - 真理"
+893,identify,"/aɪ'dentɪfaɪ//aɪ'dɛntɪfaɪ/ - vt. 认出, 识别 - 支持, 同情 - vt. & vi. 等同于; 有关联 时 态: identified, identifying, identifies 形容词: identifiable 副 词: identifiably 名 词: identifier..."
+894,target,"/'tɑːgɪt//'tɑrɡɪt/ - n. 目标；靶子 - vt. 把……作为目标；规定……的指标；瞄准某物 时 态: targeted, targeting, targets"
+895,source,"/sɔːs//sɔrs/ n. 来源；原始资料；水源 时 态: sourced, sourcing, sources"
+896,survive,"/sə'vaɪv//sɚ'vaɪv/ - vt. 比...活得长；幸免于；幸存；生还 - vi. 幸存；活下来 时 态: survived, surviving, survives 名 词: survivor"
+897,master,"/'mɑːstə//'mæstɚ/ - vt. 控制；精通；征服 - n. 主人；大师；硕士；教师 - adj. 主要的；主人的；熟练的 时 态: mastered, mastering, masters 名 词: masterdom..."
+898,destroy,"/dɪ'strɒɪ//dɪ'strɔɪ/ vt. 毁坏；破坏；消灭 时 态: destroyed, destroying, destroys"
+899,river,/'rɪvə//'rɪvɚ/ n. 河，江
+900,mass,"/mæs//mæs/ - n. 大量，众多；群众，民众；块，团 - adj. 大规模的，集中的；群众的，民众的 - vi. 聚集起来，聚集 - vt. 使集合 MASSabbr. Manual Analysis Scan System 人工分析扫描系统 时 态: massed, massing, masses..."
+901,farmer,"/'fɑːmə//ˈfɑrmɚ/ n. 农场主, 农民"
+902,someone,/'sʌmwʌn//'sʌmwʌn/ pron. 有人，某人
+903,nearly,/'nɪəlɪ//'nɪrli/ adv. 几乎; 差不多
+904,famous,/'feɪməs//'feməs/ adj. 著名的；[口]极好的，非常令人满意的 副 词: famously 名 词: famousness
+905,included,/ɪn'kluːdɪd//ɪn'klʊdɪd/ - adj. 内藏的；包括的 - v. 包括（include的过去式和过去分词）
+906,active,/'æktɪv//'æktɪv/ - adj. 主动的；有效的；积极的；活跃的；现役的 - n. 主动语态；积极分子 副 词: actively 名 词: activeness
+907,maybe,/'meɪbiː//'mebi/ - adv. 大概；也许；可能 - n. 不确定性；可能性
+908,argument,/'ɑːgjʊm(ə)nt//'ɑrɡjumənt/ n. 争吵；论据；内容提要；论证
+909,weight,"/weɪt//wet/ - n. 重量，重力；砝码；重要性；负担 - vt. 加重量于，使变重 时 态: weighted, weighting, weights"
+910,manage,"/'mænɪdʒ//'mænɪdʒ/ - vt. 管理；经营；设法；控制 - vi. 处理；应付过去 时 态: managed, managing, manages"
+911,cold,"/kəʊld//kold/ - n. 冷, 寒冷 - 伤风, 感冒 - adj. 冷的, 寒冷的 - 冷淡的, 冷酷的 比较级: colder, coldest 副 词: coldly 名 词: coldness"
+912,navy,/'neɪvɪ//'nevi/ n. 海军
+913,weak,"/wiːk//wik/ - adj. 弱的; 易毁坏的; 无力气的; 容易被击败的 - 功能不佳的 - 无说服力的; 软弱的 - 淡的; 稀释的 - 未达高标准的; 有缺欠的 比较级: weaker, weakest..."
+914,goods,"/ɡʊdz//ɡʊdz/ - n. 商品, 货物 - 个人财物"
+915,fortieth,/'fɔːtɪɪθ//ˈfɔrtiɪθ/ - num. 第四十；四十分之一 - adj. 四十分之一的；第四十的 - n. 第四十；四十分之一 副 词: fortieth
+916,sport,"/spɔːt//spɔrt/ - n. 运动；运动会；游戏；娱乐；玩笑 - vi. 游戏 - vt. 游戏；夸耀；参加体育运动 - adj. 运动的 时 态: sported, sporting, sports 形容词: sportful 副 词: sportfully 名 词: sportfulness..."
+917,quote,"/kwəʊt//kwot/ - vt. 引述；举证；报价 - vi. 引用；引证；报价 - n. 引用 时 态: quoted, quoting, quotes 名 词: quoter"
+918,gun,"/gʌn//ɡʌn/ - n. 枪, 炮 - 发令枪声, 起跑信号 - vt. 开枪, 开炮 - vt. & vi. 加大油门 时 态: gunned, gunning, guns"
+919,brain,"/breɪn//bren/ - n. 脑, 脑髓 - 智慧, 智力 时 态: brained, braining, brains"
+920,delay,"/dɪ'leɪ//dɪ'le/ - vi. 耽搁；延期 - vt. 延期；耽搁 - n. 耽搁；延期；被耽搁或推迟的时间 时 态: delayed, delaying, delays 名 词: delayer"
+921,league,"/liːg//lig/ - n. 联盟；社团；范畴 - vt. 使…结盟；与…联合 - vi. 结盟；团结 时 态: leagued, leaguing, leagues"
+922,responsible,"/rɪ'spɒnsɪb(ə)l//rɪ'spɑnsəbl/ - adj. 负有责任的, 需承担责任的 - 需对…负责的 - 尽责的, 可靠的 - 责任重大的 名 词: responsibleness 副 词: responsibly..."
+923,mix,"/mɪks//mɪks/ - vt. 使混和；配制；混淆；使结交 - vi. 相混合；交往；参与 - n. 混合；混乱；混合物 时 态: mixed, mixing, mixes 形容词: mixable"
+924,factor,"/'fæktə//'fæktɚ/ - n. 因素；因数；要素；代理人 - vi. 做代理商 - vt. 把…作为因素计入；代理经营；把…分解成 时 态: factored, factoring, factors 形容词: factorable 名 词: factorship..."
+925,lack,"/læk//læk/ - vt. 缺乏；没有；需要；不足 - vi. 缺乏；不足；没有 - n. 缺乏；不足 时 态: lacked, lacking, lacks"
+926,forward,"/'fɔːwəd//'fɔrwɚd/ - adj. 早的；向前的；迅速的 - adv. 向将来；向前地 - vt. 促进；转寄；运送 - n. 前锋 时 态: forwarded, forwarding, forwards 副 词: forwardly 名 词: forwardness..."
+927,import,"/ɪm'pɔːt//'ɪmpɔt/ - n. 输入；进口，进口货；意思，含义；重要性 - vt. 输入，进口；含…的意思 - vi. 输入，进口 时 态: imported, importing, imports 名 词: importability 形容词: importable 名 词: importer..."
+928,essential,"/ɪ'senʃ(ə)l//ɪ'sɛnʃl/ - adj. 必不可少的, 绝对必要的; 非常重要的 - 本质的, 实质的, 基本的 - n. 要素, 要点 - 必需品 名 词: essentiality 副 词: essentially..."
+929,argue,"/'ɑːgjuː//'ɑrgjʊ/ - vt. & vi. 争吵, 辩论 - vt. 坚决主张, 提出理由证明 - 说服, 劝说 - 表明 时 态: argued, arguing, argues 名 词: arguer"
+930,sanction,"/'sæŋ(k)ʃ(ə)n//'sæŋkʃən/ - n. 制裁，处罚；认可；支持 - vt. 制裁，处罚；批准；鼓励 时 态: sanctioned, sanctioning, sanctions"
+931,except,"/ɪk'sept//ɪk'sɛpt/ - vt. 把…除外; 免除 - prep. 除…外 EXCEPT“禁”门,“与非”门 时 态: excepted, excepting, excepts"
+932,studio,/'stjuːdɪəʊ//'studɪo/ n. 工作室；演播室；画室；电影制片厂
+933,response,/rɪ'spɒns//rɪ'spɑns/ n. 响应；反应；回答
+934,generally,"/'dʒen(ə)rəlɪ//'dʒɛnrəli/ adv. 一般地, 通常, 大体上, 广泛地, 普遍地"
+935,flower,"/'flaʊə//'flaʊɚ/ - n. 花, 花朵 - 开花植物, 花卉 - 精华 - vi. 开花 - 繁荣, 成熟 Flowern. 弗劳尔(姓氏) 时 态: flowered, flowering, flowers 名 词: flowerer 形容词: flowerless..."
+936,murder,"/'mɜːdə//'mɝdɚ/ - vt. 谋杀，凶杀 - n. 谋杀，凶杀 - vi. 杀人，犯杀人罪 时 态: murdered, murdering, murders 名 词: murderer 名 词: murderess"
+937,couple,"/'kʌp(ə)l//'kʌpl/ - n. 一对, 一双 - 一些, 几个 - 夫妻, 情侣 - vt. 连接, 联结, 联系 时 态: coupled, coupling, couples"
+938,maker,/'meɪkə//'mekɚ/ n. 制造者；造物主；出期票人
+939,democrat,/'deməkræt//'dɛməkræt/ n. 民主政体论者；民主主义者；民主党人 Democratadj. 美国民主党的
+940,property,/'prɒpətɪ//'prɑpɚti/ n. 财产；性质，性能；所有权 形容词: propertyless
+941,certainly,/'sɜːt(ə)nlɪ//'sɝtnli/ adv. 无疑地; 确定地
+942,citizen,/'sɪtɪz(ə)n//'sɪtɪzn/ n. 公民；市民；老百姓 形容词: citizenly
+943,democratic,"/demə'krætɪk//'dɛmə'krætɪk/ adj. 民主的, 有民主精神或作风的 副 词: democratically"
+944,check,"/tʃek//tʃɛk/ - vt. & vi. 检查, 核对 - vt. 阻碍, 制止; 抑制 - n. 检查, 核对 - 制止, 抑制 - 〈美〉支票, 账单 时 态: checked, checking, checks 形容词: checkable..."
+945,handle,"/'hænd(ə)l//'hændl/ - n. 柄；把手；手感；口实 - vt. 买卖；处理；操作；触摸；运用 - vi. 易于操纵；搬运 时 态: handled, handling, handles 形容词: handleless..."
+946,boss,"/bɒs//bɔs/ n. 老板, 经理, 上司, 工头, 领班 BOSSabbr. Bioastronautical Orbiting Space Station 宇宙生物轨道空间站 时 态: bossed, bossing, bosses"
+947,glass,"/glɑːs//ɡlæs/ - n. 玻璃；镜子；玻璃制品 - vt. 反映；给某物加玻璃 - vi. 成玻璃状 Glass格拉斯(姓氏) 时 态: glassed, glassing, glasses"
+948,wood,"/wʊd//wʊd/ - n. 木材；树林；木制品 - vi. 收集木材 - vt. 植林于；给…添加木柴 Wood伍德(姓氏) 时 态: wooded, wooding, woods"
+949,UN,/ʌn/ pron. 家伙，东西
+950,addition,/ə'dɪʃ(ə)n//ə'dɪʃən/ n. 添加；增加物；加法 形容词: additional 副 词: additionally
+951,sharp,"/ʃɑːp//ʃɑrp/ - adj. 锋利的, 尖锐的 - 急转的, 陡峭的; 突然的, 急剧的 - 轮廓鲜明的; 明显的; 清晰的 - 灵敏的, 机警的 - 辛辣的, 刺骨[鼻, 眼, 耳]的 - 蓄意中伤的; 尖刻的; 严厉的 - adv. 准时地 - 突然地, 急剧地 比较级: sharper, sharpest 副 词: sharply 名 词: sharpness..."
+952,odd,"/ɒd//ɑd/ - adj. 奇怪的; 古怪的 - 单的 - 奇数的 - 临时的 - 余下的; 零头的 比较级: odder, oddest 副 词: oddly 名 词: oddness"
+953,emergency,"/i'mə:dʒənsi//ɪˈmɚdʒənsi/ n. 紧急情况, 不测事件, 非常时刻"
+954,repeat,"/rɪ'piːt//rɪ'pit/ - vt. & vi. 重说, 重做 - vt. 复述, 背诵 - 再次供应 - vi. 吃后仍留有余味 - n. 重复; 复述; 背诵 - (节目)重演, 重播 时 态: repeated, repeating, repeats 名 词: repeatability 形容词: repeatable..."
+955,roll,"/rəʊl//rol/ - vt. & vi. (使)打滚, (使)转动, 滚动 - 卷, 把…卷成筒状 - vt. 碾平 - vi. 左右摇晃, 摇摆 - 发出隆隆声 - 开始工作 - n. 一卷 - 面包卷, 圆面包 - 名册 - 打滚; 滚动 - 轰隆声 时 态: rolled, rolling, rolls..."
+956,title,"/'taɪt(ə)l//'taɪtl/ - n. 题目, 标题 - 称号, 头衔 - 权益, 权利 - 冠军 时 态: titled, titling, titles"
+957,advantage,"/əd'vɑːntɪdʒ//əd'væntɪdʒ/ - n. 有利条件, 有利因素, 优势 - 益处, 利益 时 态: advantaged, advantaging, advantages"
+958,ministry,/ˈministri//'mɪnɪstri/ n. （政府的）部门
+959,pick,"/pɪk//pɪk/ - vt. & vi. 采, 摘 - 啄, 叼, 啃 - vt. 挑选, 选择 - 挖, 剔 - n. 挑选; 选择 - 最佳选择, 精华 - 镐, 锄 时 态: picked, picking, picks 名 词: picker..."
+960,positive,"/'pɒzɪtɪv//'pɑzətɪv/ - adj. 确实的, 明确的 - 积极的; 肯定的 - 表现得有信心和有希望的, 确信的 - 〈数〉〈电〉正的, 阳性的 - 完全的; 纯粹的 - n. 〈语〉原级形容词 - 确实; 正量, 正数 - 正片 副 词: positively 名 词: positiveness or..."
+961,sixteenth,"/'sɪks'tiːnθ//'sɪks'tinθ/ - adj. (与the连用)第十六的,第十六个的 - 十六分之一的 - n. (与the连用)第十六(个);月的第十六日 - 十六分之一 副 词: sixteenth..."
+962,apparently,"/əˈpærəntlɪ//ə'pærəntli/ - adv. 显然地 - 表面上,似乎"
+963,throw,"/θrəʊ//θro/ - vt. 抛；投；掷 - vi. 抛；投掷 - n. 投掷；冒险 时 态: threw thrown throwing, throws 名 词: thrower"
+964,shop,"/ʃɒp//ʃɑp/ - n. 商店；店铺 - vt. 购物 - vi. 购物；买东西 时 态: shopped, shopping, shops"
+965,exist,"/ɪg'zɪst//ɪɡ'zɪst/ - vi. 存在, 有 - 生存, 活下来, 幸存 时 态: existed, existing, exists"
+966,newspaper,/'njuːzpeɪpə//'nuzpepɚ/ n. 报纸
+967,relation,/rɪ'leɪʃ(ə)n//rɪ'leʃən/ n. 关系；亲属关系；叙述；故事
+968,criminal,/'krɪmɪn(ə)l//'krɪmɪnl/ - n. 罪犯 - adj. 犯罪的；刑事的；罪恶的 副 词: criminally
+969,sterling,/'stɜːlɪŋ//'stɝlɪŋ/ - n. 英国货币 - adj. 标准纯度的; 含标准成分的 - 符合最高标准的; 品格优秀的
+970,forget,"/fə'get//fɚ'ɡɛt/ - vt. & vi. 忘记 - 不再想, 忽视 时 态: forgot forgotten , forgot forgetting, forgets 名 词: forgetter"
+971,Chancellor,"/'tʃɑːns(ə)lə//'tʃænsəlɚ/ n. 大臣, 司法官 名 词: chancellorship"
+972,captain,"/ˈkæptin//'kæptɪn/ - n. 船长；队长，首领；上尉；海军上校 - vt. 指挥；率领 时 态: captained, captaining, captains 名 词: captaincy 名 词: captainship..."
+973,population,/pɒpjʊ'leɪʃ(ə)n//ˌpɑpju'leʃən/ - n. 人口 - 全体居民 - 特定人[动物]群
+974,export,"/ɪk'spɔːt//ɪk'spɔrt/ - n. 输出，出口；出口商品 - vi. 输出物资 - vt. 输出，出口 时 态: exported, exporting, exports 名 词: exportability 形容词: exportable 名 词: exporter..."
+975,instead,/ɪn'sted//ɪn'stɛd/ adv. 代替; 顶替
+976,key,/kiː//ki/ - n. 钥匙；关键；（打字机等的）键 - vt. 键入；调节…的音调；锁上；提供线索 - vi. 使用钥匙 - adj. 关键的
+977,opportunity,"/ɒpə'tjuːnɪtɪ//ˌɑpɚ'tunəti/ n. 机会, 时机"
+978,despite,"/dɪ'spaɪt//dɪ'spaɪt/ prep. 不管, 尽管"
+979,touch,"/tʌtʃ//tʌtʃ/ - vt. 接触；触动；使轻度受害 - vi. 触摸；接近；涉及；提到 - n. 接触；触觉；格调；少许 时 态: touched, touching, touches 形容词: touchable 名 词: touchableness 名 词: toucher..."
+980,region,/'riːdʒ(ə)n//'ridʒən/ n. 地区；范围；部位
+981,park,"/pɑːk//pɑrk/ - n. 公园 - 停车场 - vt. & vi. 泊车, 停车 - vt. 将…放置在某处 时 态: parked, parking, parks 名 词: parker"
+982,sight,"/saɪt//saɪt/ - n. 视力; 视觉 - 视野, 视界 - 看见, 瞥见 - 情景, 景象 - 风景; 名胜 - vt. 看见; 发现 - vt. & vi. (用仪器)瞄准[观测, 察看] 时 态: sighted, sighting, sights..."
+983,male,"/meɪl//mel/ - adj. 男性的, 雄的 - 凸形的 - n. 男人; 雄性动物; 雄性植物 Male马累(马尔代夫首都) 名 词: maleness"
+984,while,"/hwail//waɪl/ - conj. 当……的时候；虽然；然而 - n. 一会儿；一段时间 - vt. 消磨；轻松地度过 时 态: whiled, whiling, whiles"
+985,range,"/reɪn(d)ʒ//rendʒ/ - n. 范围；山脉；排；幅度 - vi. 平行，列为一行；延伸；漫游；射程达到 - vt. 使并列；归类于；漫游；来回走动；放牧 时 态: ranged, ranging, ranges..."
+986,influence,"/'ɪnflʊəns//'ɪnfluəns/ - n. 影响; 感化力 - 势力, 权势 - 产生影响的人[事物] - vt. 影响, 感化 时 态: influenced, influencing, influences 形容词: influenceable 名 词: influencer..."
