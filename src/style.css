@@ -1,4 +1,38 @@
-@import-normalize;
+p,
+div,
+span {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+html,
+body,
+#app {
+  box-sizing: border-box;
+  height: 100%;
+  color: #fff;
+  margin: 0;
+  background-color: #eee;
+  font-size: 12px;
+  overflow: hidden;
+  background-color: #f6f9fa;
+  font-family: 'PingFang SC', -apple-system, BlinkMacSystemFont,
+    'Helvetica Neue', STHeiti, 'Microsoft Yahei', Tahoma, Simsun, sans-serif;
+}
+
+img[src=''],
+img:not([src]) {
+  opacity: 0;
+}
+html {
+  touch-action: manipulation;
+}
 
 .text-omit {
   white-space: nowrap;
@@ -19,4 +53,22 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.button:active {
+  filter: brightness(0.98);
+}
+
+@font-face {
+  font-family: 'ethnocentricrg';
+  src: url('./assets/fonts/ethnocentricrg.ttf');
+}
+@font-face {
+  font-family: 'HYLiLiangHeiJ';
+  src: url('./assets/fonts/HYLiLiangHeiJ.ttf');
+}
+
+@font-face {
+  font-family: 'ppfont2';
+  src: url('./assets/fonts/ppfont-2.ttf');
 }
