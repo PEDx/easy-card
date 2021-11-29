@@ -1,5 +1,5 @@
 export function getStaticUrl(name: string) {
-  return new URL(`./dir/${name}.png`, import.meta.url).href
+  return new URL(`${name}`, import.meta.url).href
 }
 export function uuid() {
   let d = new Date().getTime()

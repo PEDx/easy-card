@@ -1,12 +1,15 @@
-import axios, { AxiosResponse } from 'axios'
+import axios from 'axios'
+
+const URL =
+  'https://service-3ya92fd6-1300479587.gz.apigw.tencentcs.com/release/search'
 
 export interface IRequestWordResult {
   code: string
   msg: string
-  data: IWordResult[]
+  data: ISearchResult
 }
 
-export interface IWordResult {
+export interface ISearchResult {
   isWord: boolean
   returnPhrase: string[]
   translation: string[]
@@ -39,12 +42,15 @@ export interface IWordResult {
     }[]
   }
 }
-axios.interceptors.response.use((res) => {
+
+axios.interceptors.response.use<IRequestWordResult>((res) => {
   return res.data
 })
 
 export const reqDictWord = (data: string) => {
-  return axios.get<{}, IRequestWordResult>(
-    `https://service-3ya92fd6-1300479587.gz.apigw.tencentcs.com/release/search/${data}`,
-  )
+  return axios.get<{}, IRequestWordResult>(`${URL}/${data}`)
+}
+
+export const reqCSVFile = (url: string) => {
+  return axios.get<{}, string>(`${url}`)
 }

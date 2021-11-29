@@ -1,5 +1,7 @@
 import { getStaticUrl } from './utils'
 
+
+// https://color.oulu.me/
 interface IWordStage {
   name: string
   count: number
