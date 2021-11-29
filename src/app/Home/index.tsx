@@ -14,6 +14,10 @@ export const Home = () => {
   console.log(stageList)
   return (
     <div className='word-card-app'>
+      <div className='top-info'>May, 17</div>
+      <div className='top-search'>
+        <input type='text' />
+      </div>
       <Swiper
         className='swiper-wrap'
         slidesPerView={1.25}
