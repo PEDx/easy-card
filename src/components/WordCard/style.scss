@@ -6,6 +6,7 @@
   box-sizing: border-box;
   padding: 16px;
   font-size: 14px;
+  overflow: auto;
   .word {
     font-size: 32px;
     font-weight: bold;
@@ -15,6 +16,21 @@
   }
   .explains {
     margin-top: 12px;
+    .txt {
+      position: relative;
+      padding-left: 9px;
+      padding-right: 8px;
+      line-height: 1.7;
+      &::after {
+        position: absolute;
+        right: 0;
+        top: 4px;
+        content: '';
+        height: 12px;
+        width: 1px;
+        background-color: rgba(255, 0, 34, 0.4);
+      }
+    }
     .lable {
       color: rgba(255, 0, 34, 0.5);
       font-style: italic;
@@ -26,7 +42,15 @@
   }
   .wfs {
     margin-top: 12px;
+    font-size: 12px;
+    color: #999;
+    .wf-wrap {
+      display: flex;
+      align-items: center;
+    }
     .wf-value {
+      flex: 1;
+      text-align: right;
       font-weight: bold;
     }
   }

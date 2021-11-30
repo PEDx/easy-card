@@ -31,7 +31,7 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
         <div className='word'>{data.query}</div>
         <div className='phonetic'>
           <span>/{basic['us-phonetic']}/</span>
-          <span>/{basic['uk-phonetic']}/</span>
+          {/* <span>/{basic['uk-phonetic']}/</span> */}
         </div>
 
         <div className='explains'>
@@ -39,10 +39,15 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
             const reg = /^(\w+. )+/gi
             if (!reg.test(explain)) return explain
             const [_, lb, txt] = explain.split(/^(\w+. )+/gi)
+            const txtArr = txt.split('；')
             return (
               <div key={idx}>
                 <span className='lable'>{lb}</span>
-                {txt}
+                {txtArr.map((txtv, idx2) => (
+                  <span className='txt' key={idx2}>
+                    {txtv}
+                  </span>
+                ))}
               </div>
             )
           })}
@@ -51,8 +56,9 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
           {basic.wfs &&
             basic.wfs.map(({ wf }, idx) => {
               return (
-                <div key={idx}>
-                  {wf.name}: <span className="wf-value">{wf.value}</span>
+                <div key={idx} className='wf-wrap'>
+                  <span className='name'> {wf.name}:</span>
+                  <span className='wf-value'>{wf.value}</span>
                 </div>
               )
             })}
