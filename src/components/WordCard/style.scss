@@ -7,12 +7,25 @@
   padding: 16px;
   font-size: 14px;
   overflow: auto;
+  position: relative;
+  .audio {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 8px;
+    top: 15px;
+    color: rgba(139, 139, 139, 0.438);
+    &:active {
+      filter: brightness(0.7);
+    }
+  }
   .word {
     font-size: 32px;
     font-weight: bold;
     color: #333;
     color: rgb(11, 97, 255);
     font-family: -apple-system;
+    line-height: 1.2;
   }
   .explains {
     margin-top: 12px;

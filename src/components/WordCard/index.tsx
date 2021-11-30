@@ -1,5 +1,6 @@
 import { ISearchResult } from '@/service/api'
 import { helper } from '@/service/helper'
+import { AudioPlayer } from '@/components/AudioPlayer'
 import { useImperativeHandle, forwardRef, useState } from 'react'
 
 import './style.scss'
@@ -29,6 +30,9 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
     return (
       <div className='word-card'>
         <div className='word'>{data.query}</div>
+        <div className='audio'>
+          <AudioPlayer />
+        </div>
         <div className='phonetic'>
           <span>/{basic['us-phonetic']}/</span>
           {/* <span>/{basic['uk-phonetic']}/</span> */}
@@ -39,7 +43,7 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
             const reg = /^(\w+. )+/gi
             if (!reg.test(explain)) return explain
             const [_, lb, txt] = explain.split(/^(\w+. )+/gi)
-            const txtArr = txt.split('；')
+            const txtArr = txt.split('；').slice(0, 10)
             return (
               <div key={idx}>
                 <span className='lable'>{lb}</span>
