@@ -37,8 +37,8 @@ export interface ISearchResult {
     'us-speech': string
     phonetic: string
     explains: string[]
-    wfs: {
-      wf: { pos: string; text: string; trans: string }
+    wfs?: {
+      wf: { name: string; value: string }
     }[]
   }
 }

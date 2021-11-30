@@ -1,6 +1,33 @@
 .word-card {
   height: 100%;
   width: 100%;
-  color: #333;
+  color: #666;
   background-color: #fff;
+  box-sizing: border-box;
+  padding: 16px;
+  font-size: 14px;
+  .word {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    color: rgb(11, 97, 255);
+    font-family: -apple-system;
+  }
+  .explains {
+    margin-top: 12px;
+    .lable {
+      color: rgba(255, 0, 34, 0.5);
+      font-style: italic;
+    }
+  }
+  .phonetic {
+    font-size: 14px;
+    color: #999;
+  }
+  .wfs {
+    margin-top: 12px;
+    .wf-value {
+      font-weight: bold;
+    }
+  }
 }

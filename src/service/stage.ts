@@ -2,7 +2,7 @@ import { getStaticUrl } from './utils'
 
 
 // https://color.oulu.me/
-interface IWordStage {
+export interface IWordStage {
   name: string
   count: number
   filePath: string
@@ -10,7 +10,7 @@ interface IWordStage {
   text?: string
   arcColor?: string
 }
-enum Stage {
+export enum Stage {
   One = 'One',
   Two = 'Two',
   Three = 'Three',
