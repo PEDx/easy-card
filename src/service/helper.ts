@@ -1,4 +1,4 @@
-import { ISearchResult, reqCSVFile, reqDictWord } from './api'
+import { IResponse, reqCollins, reqCSVFile, reqDictWord } from './api'
 import { Stage, stageList } from './stage'
 
 class Storage {
@@ -21,34 +21,52 @@ export class Helper extends Storage {
     console.log('helper')
   }
   getCSVDataFromRemoteOrCache(stage: Stage) {
-    const data = this.get<string>(stage)
-    if (data) {
-      return Promise.resolve(data)
-    }
-    return new Promise<string>((resolve, reject) => {
-      reqCSVFile(stageList[stage].filePath)
-        .then((res) => {
-          this.set(stage, res)
-          resolve(res)
-        })
-        .catch(reject)
-    })
+    return this.cacheRequestFactory(
+      `csv_${stage}`,
+      reqCSVFile,
+      stageList[stage].filePath,
+    )
   }
   getWordDataFromRemoteOrCache(word: string) {
-    const data = this.get<ISearchResult>(`$W_${word}`)
+    return this.cacheRequestFactory(`word_${word}`, reqDictWord, word)
+  }
+  getCollinsWordDataFromRemoteOrCache(word: string) {
+    return this.cacheRequestFactory(`collins_${word}`, reqCollins, word)
+  }
+  private cacheRequestFactory<T, K>(
+    key: string,
+    fn: (params: K) => Promise<IResponse<T> | T>,
+    params: K,
+  ) {
+    const data = this.get<T>(key)
     if (data) {
       return Promise.resolve(data)
     }
-    return new Promise<ISearchResult>((resolve, reject) => {
-      reqDictWord(word)
+    return new Promise<T>((resolve, reject) => {
+      fn(params)
         .then((res) => {
-          this.set(`$W_${word}`, res.data)
-          resolve(res.data)
+          let _data = (res as IResponse<T>).data
+            ? (res as IResponse<T>).data
+            : (res as T)
+          this.set(key, _data)
+          resolve(_data)
         })
         .catch(reject)
     })
   }
+  beautifyCollinsHTMLString(data: string) {
+    const fragment = document.createDocumentFragment()
+    const div = document.createElement('DIV')
+    div.innerHTML = data
+    fragment.appendChild(div)
+    const list = fragment.querySelectorAll('.col2')
+    div.innerHTML = ''
+    Array.from(list)
+      .forEach((item) => {
+        div.appendChild(item)
+      })
+    return div
+  }
 }
-
 
 export const helper = new Helper()

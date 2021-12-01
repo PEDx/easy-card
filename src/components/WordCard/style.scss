@@ -1,16 +1,93 @@
+.swiper-slide {
+  background-color: #fff;
+}
+.swiper-slide-visible {
+  background-color: transparent !important;
+}
+.collins-button {
+  width: 80px;
+  height: 28px;
+  font-size: 12px;
+  background-color: rgb(11, 97, 255);
+  color: rgba(255, 255, 255);
+  margin: 0 auto;
+  margin-top: 12px;
+  font-weight: bold;
+  border-radius: 4px;
+  &:active {
+    position: relative;
+    top: 1px;
+    filter: brightness(0.6);
+  }
+}
+.collins-content {
+  width: 100%;
+  overflow: auto;
+  font-size: 12px;
+  .mcols-layout {
+    display: none;
+  }
+  .col2 {
+    margin-bottom: 12px;
+    span {
+      color: #6e6e6e;
+      margin-right: 4px;
+      font-weight: bolder;
+    }
+    b {
+      color: rgba(11, 96, 255, 0.4);
+    }
+  }
+  .secondary {
+    margin: 0;
+  }
+}
+
 .word-card {
   height: 100%;
   width: 100%;
   color: #666;
-  background-color: #fff;
-  box-sizing: border-box;
-  padding: 16px;
   font-size: 14px;
-  overflow: auto;
   position: relative;
   font-family: 'Hiragino Sans';
   font-weight: normal;
   overflow: hidden;
+  text-align: justify;
+  .card-wrap {
+    box-sizing: border-box;
+    padding: 16px;
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transition: transform 1s;
+  }
+  .front {
+    transform: rotateY(0deg);
+    z-index: 2;
+  }
+  .back {
+    z-index: 1;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    .bottom-btn {
+      height: 40px;
+    }
+    .inner-content {
+      height: 100%;
+      overflow: auto;
+    }
+    .collins-content {
+      overflow: hidden;
+      flex: 1;
+    }
+  }
+
   .audio {
     position: absolute;
     width: 50px;
@@ -31,8 +108,6 @@
   }
   .explains {
     margin-top: 12px;
-    text-align: justify;
-
     .txt {
       position: relative;
       padding-left: 16px;
@@ -84,5 +159,16 @@
       flex: 1;
       text-align: right;
     }
+  }
+}
+
+.rolling-over {
+  .front {
+    transform: rotateY(180deg);
+    z-index: 1;
+  }
+  .back {
+    transform: rotateY(0deg);
+    z-index: 2;
   }
 }

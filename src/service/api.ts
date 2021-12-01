@@ -1,8 +1,12 @@
 import axios from 'axios'
 
-const URL =
-  'https://service-3ya92fd6-1300479587.gz.apigw.tencentcs.com/release/search'
+const URL = 'https://service-3ya92fd6-1300479587.gz.apigw.tencentcs.com/release'
 
+export interface IResponse<T> {
+  code: string
+  msg: string
+  data: T
+}
 export interface IRequestWordResult {
   code: string
   msg: string
@@ -43,12 +47,16 @@ export interface ISearchResult {
   }
 }
 
-axios.interceptors.response.use<IRequestWordResult>((res) => {
+axios.interceptors.response.use<IResponse<ISearchResult>>((res) => {
   return res.data
 })
 
-export const reqDictWord = (data: string) => {
-  return axios.get<{}, IRequestWordResult>(`${URL}/${data}`)
+export const reqDictWord = (word: string) => {
+  return axios.get<{}, IResponse<ISearchResult>>(`${URL}/search/${word}`)
+}
+
+export const reqCollins = (word: string) => {
+  return axios.get<{}, IResponse<string>>(`${URL}/collins/${word}`)
 }
 
 export const reqCSVFile = (url: string) => {
