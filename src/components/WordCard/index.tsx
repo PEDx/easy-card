@@ -9,6 +9,14 @@ export interface IWordCardMethod {
   showWordData: () => void
 }
 
+const handleExplain = (explain: string): [string[], string] => {
+  const reg = /^(\w+. )+/gi
+  if (!reg.test(explain)) return [[explain], '']
+  const [_, label, txt] = explain.split(/^(\w+. )+/gi)
+  const txtArr = txt.split('；').slice(0, 10)
+  return [txtArr, label]
+}
+
 export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
   ({ word }, ref) => {
     const [data, setData] = useState<ISearchResult | null>(null)
@@ -40,16 +48,14 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
 
         <div className='explains'>
           {basic.explains.map((explain, idx) => {
-            const reg = /^(\w+. )+/gi
-            if (!reg.test(explain)) return explain
-            const [_, lb, txt] = explain.split(/^(\w+. )+/gi)
-            const txtArr = txt.split('；').slice(0, 10)
+            const [arr, lab] = handleExplain(explain)
+            if (!lab) return arr[0] || ''
             return (
               <div key={idx}>
-                <span className='lable'>{lb}</span>
-                {txtArr.map((txtv, idx2) => (
+                <span className='lable'>{lab}</span>
+                {arr.map((text, idx2) => (
                   <span className='txt' key={idx2}>
-                    {txtv}
+                    {text.trim()}
                   </span>
                 ))}
               </div>
