@@ -39,7 +39,7 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
       <div className='word-card'>
         <div className='word'>{data.query}</div>
         <div className='audio'>
-          <AudioPlayer />
+          <AudioPlayer word={word} />
         </div>
         <div className='phonetic'>
           <span>/{basic['us-phonetic']}/</span>
