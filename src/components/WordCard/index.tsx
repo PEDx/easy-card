@@ -43,7 +43,11 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
         </div>
         <div className='phonetic'>
           <span>/{basic['us-phonetic']}/</span>
-          {/* <span>/{basic['uk-phonetic']}/</span> */}
+          <span className='tag-num'>
+            {Array.from({ length: basic.exam_type.length }).map((num) => (
+              <span className='star'>★</span>
+            ))}
+          </span>
         </div>
 
         <div className='explains'>
