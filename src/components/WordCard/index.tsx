@@ -37,7 +37,7 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
       }),
       [],
     )
-    if (!data) return <div className='word-card flex-box-c'>Loading...</div>
+    if (!data) return <div className='word-card flex-box-c loading'>Loading...</div>
 
     const { basic } = data
 
@@ -46,64 +46,70 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
         className={['word-card', rollingOver ? 'rolling-over' : ''].join(' ')}
       >
         <div className='front card-wrap'>
-          <div className='word'>{data.query}</div>
-          <div className='audio'>
-            <AudioPlayer word={word} />
-          </div>
-          <div className='phonetic'>
-            <span>/{basic['us-phonetic']}/</span>
-            <span className='tag-num'>
-              {Array.from({ length: basic.exam_type.length }).map((_, idx) => (
-                <span className='star' key={idx}>
-                  ★
-                </span>
-              ))}
-            </span>
-          </div>
-          <div className='explains'>
-            {basic.explains.map((explain, idx) => {
-              const [arr, lab] = handleExplain(explain)
-              if (!lab) return arr[0] || ''
-              return (
-                <div key={idx}>
-                  <span className='lable'>{lab}</span>
-                  {arr.map((text, idx2) => (
-                    <span className='txt' key={idx2}>
-                      {text.trim()}
+          <div className='inner-content'>
+            <div className='word'>{data.query}</div>
+            <div className='audio'>
+              <AudioPlayer word={word} />
+            </div>
+            <div className='phonetic'>
+              <span>/{basic['us-phonetic']}/</span>
+              <span className='tag-num'>
+                {Array.from({ length: basic.exam_type.length }).map(
+                  (_, idx) => (
+                    <span className='star' key={idx}>
+                      ★
                     </span>
-                  ))}
-                </div>
-              )
-            })}
-          </div>
-          <div className='wfs'>
-            {basic.wfs &&
-              basic.wfs.map(({ wf }, idx) => {
+                  ),
+                )}
+              </span>
+            </div>
+            <div className='explains'>
+              {basic.explains.map((explain, idx) => {
+                const [arr, lab] = handleExplain(explain)
+                if (!lab) return arr[0] || ''
                 return (
-                  <div key={idx} className='wf-wrap'>
-                    <span className='name'> {wf.name}:</span>
-                    <span className='wf-value'>{wf.value}</span>
+                  <div key={idx}>
+                    <span className='lable'>{lab}</span>
+                    {arr.map((text, idx2) => (
+                      <span className='txt' key={idx2}>
+                        {text.trim()}
+                      </span>
+                    ))}
                   </div>
                 )
               })}
+            </div>
+            <div className='wfs'>
+              {basic.wfs &&
+                basic.wfs.map(({ wf }, idx) => {
+                  return (
+                    <div key={idx} className='wf-wrap'>
+                      <span className='name'> {wf.name}:</span>
+                      <span className='wf-value'>{wf.value}</span>
+                    </div>
+                  )
+                })}
+            </div>
           </div>
-          <div
-            className='collins-button flex-box-c'
-            onClick={() => setRollingOver(!rollingOver)}
-          >
-            Collins
+
+          <div className='bottom-btn'>
+            <div
+              className='collins-button card-button'
+              onClick={() => setRollingOver(!rollingOver)}
+            >
+              Collins
+            </div>
+            {/* <div className='check-button card-button'>Check</div> */}
           </div>
         </div>
         <div className='back card-wrap'>
-          <div className='collins-content'>
-            <div
-              className='inner-content'
-              dangerouslySetInnerHTML={{ __html: collinsData }}
-            ></div>
-          </div>
+          <div
+            className='collins-content inner-content'
+            dangerouslySetInnerHTML={{ __html: collinsData }}
+          ></div>
           <div className='bottom-btn'>
             <div
-              className='collins-button flex-box-c'
+              className='collins-button card-button'
               onClick={() => setRollingOver(!rollingOver)}
             >
               Return

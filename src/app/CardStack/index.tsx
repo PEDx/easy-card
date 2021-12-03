@@ -17,7 +17,7 @@ export const CardStack = () => {
   useEffect(() => {
     helper.getCSVDataFromRemoteOrCache(Stage.One).then((data) => {
       const arr = data.split('\r\n')
-      setWords(arr.slice(0, 2))
+      setWords(arr.slice(0, 5))
       setIndex(0)
     })
   }, [])
@@ -37,6 +37,7 @@ export const CardStack = () => {
       <Swiper
         effect={'cards'}
         grabCursor={true}
+        loop={true}
         onSlideChange={handleSlideChange}
       >
         {words.map((word, idx) => (

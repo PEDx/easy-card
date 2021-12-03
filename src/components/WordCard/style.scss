@@ -1,24 +1,40 @@
-.swiper-slide {
-  background-color: #fff;
+// .swiper-slide {
+//   background-color: #fff;
+// }
+// .swiper-slide-visible {
+//   background-color: transparent !important;
+// }
+.btn-list {
+  text-align: center;
 }
-.swiper-slide-visible {
-  background-color: transparent !important;
-}
-.collins-button {
-  width: 80px;
+.card-button {
+  display: inline-block;
+  padding: 0 16px;
   height: 28px;
-  font-size: 12px;
+  line-height: 28px;
+  font-size: 10px;
   background-color: rgb(11, 97, 255);
   color: rgba(255, 255, 255);
-  margin: 0 auto;
   margin-top: 12px;
   font-weight: bold;
   border-radius: 4px;
+  text-align: center;
+  margin-right: 12px;
   &:active {
     position: relative;
     top: 1px;
     filter: brightness(0.6);
   }
+  &:last-child {
+    margin-right: 0;
+  }
+}
+.collins-button {
+  background-color: rgb(11, 97, 255);
+  color: rgba(255, 255, 255);
+}
+.check-button {
+  background-color: rgb(129, 129, 129);
 }
 .collins-content {
   width: 100%;
@@ -31,18 +47,22 @@
     margin-bottom: 12px;
     span {
       color: #6e6e6e;
+      font-family: serif;
       margin-right: 4px;
-      font-weight: bolder;
+      font-weight: bold;
     }
     b {
-      color: rgba(11, 96, 255, 0.4);
+      font-weight: normal;
+      color: rgba(11, 96, 255, 0.6);
     }
   }
   .secondary {
     margin: 0;
   }
 }
-
+.loading {
+  background-color: #fff;
+}
 .word-card {
   height: 100%;
   width: 100%;
@@ -64,6 +84,16 @@
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     transition: transform 1s;
+    display: flex;
+    flex-direction: column;
+    .inner-content {
+      flex: 1;
+      overflow: auto;
+    }
+    .bottom-btn {
+      height: 40px;
+      text-align: center;
+    }
   }
   .front {
     transform: rotateY(0deg);
@@ -72,20 +102,6 @@
   .back {
     z-index: 1;
     transform: rotateY(180deg);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    .bottom-btn {
-      height: 40px;
-    }
-    .inner-content {
-      height: 100%;
-      overflow: auto;
-    }
-    .collins-content {
-      overflow: hidden;
-      flex: 1;
-    }
   }
 
   .audio {
