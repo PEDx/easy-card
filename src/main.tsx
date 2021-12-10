@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { Home } from './app/Home'
+import { CardStack } from './app/CardStack'
 
 import './style.css'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <CardStack />
   </React.StrictMode>,
   document.getElementById('root'),
 )

@@ -63,10 +63,6 @@ html {
   font-family: 'ethnocentricrg';
   src: url('./assets/fonts/ethnocentricrg.ttf');
 }
-@font-face {
-  font-family: 'HYLiLiangHeiJ';
-  src: url('./assets/fonts/HYLiLiangHeiJ.ttf');
-}
 
 @font-face {
   font-family: 'ppfont2';
