@@ -19,7 +19,7 @@ export enum Stage {
 }
 export const stageList: { [key in Stage]: IWordStage } = {
   [Stage.One]: {
-    name: 'Stage One',
+    name: 'Stage 1',
     count: 601,
     text: 'Strike the iron while it is hot',
     filePath: getStaticUrl('../data/word_list_1.csv'),
@@ -27,7 +27,7 @@ export const stageList: { [key in Stage]: IWordStage } = {
     arcColor: '#f093fb',
   },
   [Stage.Two]: {
-    name: 'Stage Two',
+    name: 'Stage 2',
     count: 986,
     text: 'It’s the easiest thing in the world for a man to deceive himself',
     filePath: getStaticUrl('../data/word_list_2.csv'),
@@ -35,7 +35,7 @@ export const stageList: { [key in Stage]: IWordStage } = {
     arcColor: '#4facfe',
   },
   [Stage.Three]: {
-    name: 'Stage Three',
+    name: 'Stage 3',
     count: 1484,
     text: 'Man proposes, God disposes',
     filePath: getStaticUrl('../data/word_list_3.csv'),
@@ -43,7 +43,7 @@ export const stageList: { [key in Stage]: IWordStage } = {
     arcColor: '#a18cd1',
   },
   [Stage.Four]: {
-    name: 'Stage Four',
+    name: 'Stage 4',
     count: 3047,
     text: 'Strong in action, gentle in method',
     filePath: getStaticUrl('../data/word_list_4.csv'),
@@ -51,7 +51,7 @@ export const stageList: { [key in Stage]: IWordStage } = {
     arcColor: '#0ba360',
   },
   [Stage.Five]: {
-    name: 'Stage Five',
+    name: 'Stage 5',
     count: 7715,
     text: 'Do your best and then let go',
     filePath: getStaticUrl('../data/word_list_5.csv'),

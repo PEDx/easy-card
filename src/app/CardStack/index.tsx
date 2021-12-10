@@ -37,7 +37,6 @@ export const CardStack = () => {
       <Swiper
         effect={'cards'}
         grabCursor={true}
-        loop={true}
         onSlideChange={handleSlideChange}
       >
         {words.map((word, idx) => (

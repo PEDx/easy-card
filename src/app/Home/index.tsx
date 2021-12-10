@@ -43,12 +43,19 @@ export const Home = () => {
                 textColor={'#fff'}
               />
               <div className='name'>{stage.name}</div>
-              <div className='count'>{stage.count} words</div>
+              <div className='count'>Count:{stage.count}</div>
               <div className='text'>{stage.text}</div>
             </div>
           </SwiperSlide>
         ))}
       </Swiper>
+      <div className='stage-cent'>
+        {Array.from({ length: 20 }).map((val, idx) => (
+          <div key={idx} className='stage-item'>
+            {idx}
+          </div>
+        ))}
+      </div>
     </div>
   )
 }
