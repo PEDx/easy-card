@@ -13,7 +13,7 @@
   height: 28px;
   line-height: 28px;
   font-size: 10px;
-  background-color: rgb(11, 97, 255);
+  background-color: var(--main-color);
   color: rgba(255, 255, 255);
   margin-top: 12px;
   font-weight: bold;
@@ -30,7 +30,7 @@
   }
 }
 .collins-button {
-  background-color: rgb(11, 97, 255);
+  background-color: var(--main-color);
   color: rgba(255, 255, 255);
 }
 .check-button {
@@ -118,7 +118,7 @@
   .word {
     font-size: 32px;
     font-weight: bold;
-    color: rgb(11, 97, 255);
+    color: var(--main-color);
     font-family: -apple-system;
     line-height: 1.2;
   }

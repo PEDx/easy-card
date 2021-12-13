@@ -4,10 +4,21 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // rem 布局
+      function init() {
+        var width =
+          window.innerWidth || document.documentElement.clientWidth || 375
+        document.documentElement.style.fontSize = width / 10 + 'px'
+      }
+      init()
+      window.addEventListener('orientationchange', init)
+      window.addEventListener('resize', init)
+    </script>
     <title>Easy Card</title>
-    <script type="module" crossorigin src="./assets/index.845946d1.js"></script>
-    <link rel="modulepreload" href="./assets/vendor.a470541b.js">
-    <link rel="stylesheet" href="./assets/index.fac701d0.css">
+    <script type="module" crossorigin src="./assets/index.bd000207.js"></script>
+    <link rel="modulepreload" href="./assets/vendor.3ac6bc22.js">
+    <link rel="stylesheet" href="./assets/index.9255b50c.css">
   </head>
   <body>
     <div id="root"></div>

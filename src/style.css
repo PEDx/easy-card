@@ -13,12 +13,12 @@ span {
 
 html,
 body,
-#app {
+#root {
   box-sizing: border-box;
   height: 100%;
   color: #fff;
   margin: 0;
-  background-color: #eee;
+  background-color: #eaeaea;
   font-size: 12px;
   overflow: hidden;
   background-color: #f6f9fa;
@@ -56,7 +56,7 @@ html {
 }
 
 .button:active {
-  filter: brightness(0.98);
+  filter: brightness(0.8);
 }
 
 @font-face {
@@ -67,4 +67,8 @@ html {
 @font-face {
   font-family: 'ppfont2';
   src: url('./assets/fonts/ppfont-2.ttf');
+}
+
+:root {
+  --main-color: rgb(11, 97, 255);
 }

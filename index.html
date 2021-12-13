@@ -4,6 +4,17 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // rem 布局
+      function init() {
+        var width =
+          window.innerWidth || document.documentElement.clientWidth || 375
+        document.documentElement.style.fontSize = width / 10 + 'px'
+      }
+      init()
+      window.addEventListener('orientationchange', init)
+      window.addEventListener('resize', init)
+    </script>
     <title>Easy Card</title>
   </head>
   <body>

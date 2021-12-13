@@ -1,6 +1,8 @@
 .card-stack {
+  position: relative;
   box-sizing: border-box;
   padding-top: 24px;
+  height: 100%;
   .swiper {
     width: 280px;
     height: 520px;
@@ -14,6 +16,19 @@
     border-radius: 18px;
     font-weight: bold;
     color: #fff;
-    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px,
+      rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  }
+  .home-button {
+    position: absolute;
+    bottom: 24px;
+    right: 24px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: 1px solid rgba(17, 17, 26, 0.05);
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px,
+      rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    background-color: #fff;
   }
 }
