@@ -1,12 +1,7 @@
 import { Link } from 'react-router-dom'
 import { stageList, getRandomPattern } from '@/service/stage'
-import { reqDictWord } from '@/service/api'
 
 import './index.scss'
-
-reqDictWord('good').then((res) => {
-  console.log(res.data)
-})
 
 export const Home = () => {
   console.log(stageList)

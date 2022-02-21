@@ -1,7 +1,8 @@
 import { ISearchResult } from '@/service/api'
 import { helper } from '@/service/helper'
 import { AudioPlayer } from '@/components/AudioPlayer'
-import { useImperativeHandle, forwardRef, useState } from 'react'
+import { CardSpiner } from '@/components/CardSpiner'
+import { useImperativeHandle, forwardRef, useState, useRef, memo } from 'react'
 
 import './style.scss'
 
@@ -17,27 +18,35 @@ const handleExplain = (explain: string): [string[], string] => {
   return [txtArr, label]
 }
 
-export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
-  ({ word }, ref) => {
+export const WordCard = memo(
+  forwardRef<IWordCardMethod, { word: string }>(({ word }, ref) => {
+    console.log('render WordCard')
     const [data, setData] = useState<ISearchResult | null>(null)
     const [collinsData, setCollinsData] = useState<string>('')
     const [rollingOver, setRollingOver] = useState(false)
+    const showed = useRef(false)
     useImperativeHandle(
       ref,
       () => ({
         showWordData() {
+          showed.current = true
           helper.getWordDataFromRemoteOrCache(word).then((wordData) => {
             setData(wordData)
           })
           helper.getCollinsWordDataFromRemoteOrCache(word).then((cdata) => {
             const div = helper.beautifyCollinsHTMLString(cdata)
-            setCollinsData(div.innerHTML)
+            setCollinsData(div.innerHTML || '')
           })
         },
       }),
       [],
     )
-    if (!data) return <div className='word-card flex-box-c loading'>Loading...</div>
+    if (!data)
+      return (
+        <div className='word-card word-card-spiner flex-box-c'>
+          <CardSpiner />
+        </div>
+      )
 
     const { basic } = data
 
@@ -53,15 +62,17 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
             </div>
             <div className='phonetic'>
               <span>/{basic['us-phonetic']}/</span>
-              <span className='tag-num'>
-                {Array.from({ length: basic.exam_type.length }).map(
-                  (_, idx) => (
-                    <span className='star' key={idx}>
-                      ★
-                    </span>
-                  ),
-                )}
-              </span>
+              {basic.exam_type && (
+                <span className='tag-num'>
+                  {Array.from({ length: basic.exam_type.length }).map(
+                    (_, idx) => (
+                      <span className='star' key={idx}>
+                        ★
+                      </span>
+                    ),
+                  )}
+                </span>
+              )}
             </div>
             <div className='explains'>
               {basic.explains.map((explain, idx) => {
@@ -99,7 +110,6 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
             >
               Collins
             </div>
-            {/* <div className='check-button card-button'>Check</div> */}
           </div>
         </div>
         <div className='back card-wrap'>
@@ -118,5 +128,6 @@ export const WordCard = forwardRef<IWordCardMethod, { word: string }>(
         </div>
       </div>
     )
-  },
+  }),
+  () => true,
 )

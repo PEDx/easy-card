@@ -34,7 +34,7 @@ export interface ISearchResult {
     url: string
   }
   basic: {
-    exam_type: string[]
+    exam_type?: string[]
     'us-phonetic': string
     'uk-phonetic': string
     'uk-speech': string

@@ -15,7 +15,7 @@
   position: relative;
   height: 160px;
   width: 100%;
-  border-radius: 12px;
+  border-radius: 0px;
   overflow: hidden;
   margin-bottom: 16px;
   background-blend-mode: multiply, multiply;
@@ -39,6 +39,7 @@
     font-size: 64px;
     line-height: 1.1;
     color: var(--main-color);
+    font-weight: 600;
   }
   .count {
     width: 40px;
@@ -60,7 +61,7 @@
     left: 0;
     width: 100%;
     box-sizing: border-box;
-    padding: 8px 16px;
+    padding: 10px 16px;
     font-size: 10px;
     display: inline-block;
     font-size: 12px;
@@ -69,7 +70,6 @@
     background-size: 100% 0.1em;
     background-position: 0 100%;
     color: var(--main-color);
-    font-weight: bolder;
     line-height: 1.2;
     &::after {
       content: '”';
@@ -88,7 +88,7 @@
   }
   .pattern-box {
     height: 100%;
-    width: 70%;
+    width: 80%;
     position: absolute;
     right: 0;
     top: 0;

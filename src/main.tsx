@@ -6,6 +6,7 @@ import { CardStack } from './app/CardStack'
 import 'pattern.css'
 
 import './style.css'
+import './assets/cssreset.css'
 
 ReactDOM.render(
   <React.StrictMode>
