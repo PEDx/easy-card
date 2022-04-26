@@ -8,6 +8,7 @@ import './style.scss'
 
 export interface IWordCardMethod {
   showWordData: () => void
+  playWordAudio: () => void
 }
 
 const handleExplain = (explain: string): [string[], string] => {
@@ -20,11 +21,11 @@ const handleExplain = (explain: string): [string[], string] => {
 
 export const WordCard = memo(
   forwardRef<IWordCardMethod, { word: string }>(({ word }, ref) => {
-    console.log('render WordCard')
     const [data, setData] = useState<ISearchResult | null>(null)
     const [collinsData, setCollinsData] = useState<string>('')
     const [rollingOver, setRollingOver] = useState(false)
     const showed = useRef(false)
+    const [play, setPlay] = useState(false)
     useImperativeHandle(
       ref,
       () => ({
@@ -37,6 +38,9 @@ export const WordCard = memo(
             const div = helper.beautifyCollinsHTMLString(cdata)
             setCollinsData(div.innerHTML || '')
           })
+        },
+        playWordAudio() {
+          setPlay(true)
         },
       }),
       [],
@@ -58,7 +62,7 @@ export const WordCard = memo(
           <div className='inner-content'>
             <div className='word'>{data.query}</div>
             <div className='audio'>
-              <AudioPlayer word={word} />
+              <AudioPlayer word={word} play={play} />
             </div>
             <div className='phonetic'>
               <span>/{basic['us-phonetic']}/</span>

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { Swiper, SwiperSlide } from 'swiper/react'
-import SwiperCore, { EffectCards } from 'swiper'
+import SwiperCore from 'swiper'
 import { IWordCardMethod, WordCard } from '@/components/WordCard'
 import { helper } from '@/service/helper'
 import 'swiper/css/effect-cards'
@@ -9,17 +9,11 @@ import 'swiper/css'
 import './style.scss'
 import { Stage } from '@/service/stage'
 
-SwiperCore.use([EffectCards])
-
-const CARD_STACK_LEN = 5
-const CARD_STACK_LEN_MID = Math.floor(CARD_STACK_LEN / 2)
-
 export const CardStack = () => {
   let params = useParams<{ type: Stage }>()
   const navigate = useNavigate()
   const [words, setWords] = useState<string[]>([])
   const [index, setIndex] = useState<number>(0)
-  const wordCardRef = useRef<(IWordCardMethod | null)[]>([])
   const swiperRef = useRef<SwiperCore | null>(null)
   const dataRef = useRef<string[]>([])
 
@@ -29,33 +23,18 @@ export const CardStack = () => {
       .then((data) => {
         const arr = data.split('\r\n')
         dataRef.current = arr
-        const wd = getFixedLengthArray(index)
-        setWords(wd)
+        setWords(arr.slice(0, 10))
       })
-  }, [])
-
-  const slideToMid = useCallback(
-    () => swiperRef.current?.slideTo(CARD_STACK_LEN_MID, 0),
-    [],
-  )
-
-  const getFixedLengthArray = useCallback((middleIndex: number) => {
-    const arr = dataRef.current || []
-    const left = arr.slice(middleIndex - CARD_STACK_LEN_MID, middleIndex - 1)
-    const right = arr.slice(middleIndex + 1, middleIndex + CARD_STACK_LEN_MID)
-    return [...left, arr[middleIndex], ...right]
   }, [])
 
   const handleSwiper = useCallback((swiper: SwiperCore) => {
     swiperRef.current = swiper
-    slideToMid()
   }, [])
 
   const handleSlideTransitionEnd = useCallback(
     (swiper: SwiperCore) => {
       const idx = index + swiper.activeIndex
       setIndex(idx)
-      slideToMid()
     },
     [index],
   )
@@ -63,13 +42,13 @@ export const CardStack = () => {
   useEffect(() => {
     // const card = wordCardRef.current[index]
     // if (!card) return
-    console.log(dataRef.current)
-    console.log(index)
+    console.log(`total: ${dataRef.current.length}`)
+    console.log(`index: ${index}`)
     console.log(words)
   }, [words])
 
   const setWordCardRefs = useCallback((ref: IWordCardMethod | null) => {
-    ref && wordCardRef.current.push(ref)
+    ref && ref.showWordData()
   }, [])
 
   return (
@@ -87,8 +66,9 @@ export const CardStack = () => {
         </svg>
       </div>
       <Swiper
-        effect={'cards'}
-        grabCursor={true}
+        centeredSlides={true}
+        spaceBetween={16}
+        loop={true}
         onSwiper={handleSwiper}
         onTransitionEnd={handleSlideTransitionEnd}
       >
